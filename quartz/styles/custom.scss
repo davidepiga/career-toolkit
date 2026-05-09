@@ -1,3 +1,14 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+blockquote {
+  border-left: 3px solid #2FA7A0;
+  background-color: #E6F0EF;
+  border-radius: 0 4px 4px 0;
+  padding: 0.75em 1em;
+  margin-left: 0;
+  color: #1E2A2F;
+
+  p {
+    margin: 0;
+  }
+}
