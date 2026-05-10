@@ -6,22 +6,23 @@ tags: []
 status: published
 ---
 
-Frameworks and tools for navigating a career in international development and humanitarian work.
+**Frameworks and tools for navigating a career in international development and humanitarian work, drawn from the UN Inter-Agency Career Week 2026.**
 
-This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The IACW 2026 sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
+This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The [https://learning.unog.ch/interagency-career-week-2026](Inter-Agency Career Week 2026) sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
 
 The toolkit is organised by a model of **seven dimensions**: two foundations that run continuously underneath everything, and five stages that cycle as a career unfolds. [How the model is built →](dimensions)
 
 ---
+## Career Navigation Model
 
-## Foundations
+### Foundations
 
 | Dimension | Core Question | What It Covers |
 |:--|:--|:--|
 | **[Mindset](mindset)** | *Are you mentally and emotionally ready to navigate career change and uncertainty?* | Your internal operating state: confidence, resilience, self-awareness, adaptability, motivation, and the assumptions shaping your decisions. |
 | **[Capability](capability)** | *What can you do today, and what capabilities are you intentionally developing?* | Your current skills, expertise, strengths, and the capabilities you are building to stay relevant and move toward future opportunities. |
 
-## Stages
+### Stages
 
 | Dimension | Core Question | What It Covers |
 |:--|:--|:--|
