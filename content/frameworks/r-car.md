@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # R-CAR
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-part structure for turning a documented achievement into a single scannable CV bullet or cover-letter sentence: lead with the result, anchor it in context, action, and final outcome.
 
@@ -39,7 +39,7 @@ Introduced by Bewketu Bogale (UNEP) at the [[sessions/cw-day-2-session-4|Mapping
 
 ## The framework
 
-R-CAR is the writing pattern for converting a [[frameworks/basic-achievement-bank|BASIC]] entry into a CV bullet, a cover-letter sentence, or a competency-based interview answer. The four parts are Result, Context, Action, Result.
+R-CAR is the writing pattern for converting a [[basic-achievement-bank|BASIC]] entry into a CV bullet, a cover-letter sentence, or a competency-based interview answer. The four parts are Result, Context, Action, Result.
 
 ### When to use it
 
@@ -62,7 +62,7 @@ A CV bullet typically fits all four in one line. A cover-letter sentence has mor
 
 ### Worked example
 
-Take the BASIC entry from the [[frameworks/basic-achievement-bank|BASIC Achievement Bank]] page (the M&E baseline redesign at UNDP) and apply R-CAR.
+Take the BASIC entry from the [[basic-achievement-bank|BASIC Achievement Bank]] page (the M&E baseline redesign at UNDP) and apply R-CAR.
 
 **As a CV bullet, one line.**
 
@@ -98,10 +98,10 @@ The speaker introduced R-CAR briefly and named the four elements. This page expa
 
 ## Related frameworks
 
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the upstream documentation step that R-CAR draws from.
-- [[frameworks/third-eye-principle|Third Eye Principle]], the review pass that should run on R-CAR-formatted bullets before submission.
-- [[frameworks/smart-method|SMART Method]], the related interview-answer structure with a Teachability element added.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], where the resulting bullets are mapped against specific JD requirements.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the upstream documentation step that R-CAR draws from.
+- [[third-eye-principle|Third Eye Principle]], the review pass that should run on R-CAR-formatted bullets before submission.
+- [[smart-method|SMART Method]], the related interview-answer structure with a Teachability element added.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], where the resulting bullets are mapped against specific JD requirements.
 
 ---
 

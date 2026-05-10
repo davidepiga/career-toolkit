@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Body Scan
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A guided sweep of attention from feet to head, simply noticing sensations without trying to change them. No equipment, no movement, no breathing technique. Useful when stress has scattered attention and the body is carrying tension you have not consciously named.
 
@@ -44,9 +44,9 @@ The instruction "without trying to change anything" is the load-bearing one. Mos
 
 ### When to use it
 
-- When stress is high and rational thinking is not landing. The body has to settle before [[frameworks/accurate-thinking|Accurate Thinking]] can do its work.
+- When stress is high and rational thinking is not landing. The body has to settle before [[accurate-thinking|Accurate Thinking]] can do its work.
 - Between meetings, before a difficult conversation, before bed when the day's residue is keeping you awake.
-- During the anxiety or low-point stage of a [[frameworks/william-bridges-transitional-model|William Bridges transition]], as a daily floor of regulation.
+- During the anxiety or low-point stage of a [[william-bridges-transitional-model|William Bridges transition]], as a daily floor of regulation.
 - When you notice attention is fragmented (jumping between worries, unable to land on one task) and you do not yet know what is underneath.
 
 ### What you need
@@ -114,10 +114,10 @@ The UNDP wellbeing portal at https://wellbeingundp.org has guided audio versions
 
 ## Related frameworks
 
-- [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]], the active-tension companion. Body Scan is observe-only; PMR is tense-and-release.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], the five-step in-the-moment routine that includes a brief body scan as one component.
-- [[frameworks/accurate-thinking|Accurate Thinking]], the cognitive tool that becomes available once the body has settled.
-- [[frameworks/circle-of-control|Circle of Control]], the agency exercise that often follows once the body is regulated.
+- [[progressive-muscle-relaxation|Progressive Muscle Relaxation]], the active-tension companion. Body Scan is observe-only; PMR is tense-and-release.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], the five-step in-the-moment routine that includes a brief body scan as one component.
+- [[accurate-thinking|Accurate Thinking]], the cognitive tool that becomes available once the body has settled.
+- [[circle-of-control|Circle of Control]], the agency exercise that often follows once the body is regulated.
 
 ---
 

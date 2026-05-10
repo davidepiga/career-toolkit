@@ -32,7 +32,7 @@ last_updated: 2026-05-09
 
 # Circle of Control
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A three-ring exercise for redirecting energy from concerns you cannot affect to actions you fully control. Use when you feel overwhelmed, stuck, or stretched across too many things at once. Thriving professionals allocate roughly 80% of their energy to the inner ring.
 
@@ -87,7 +87,7 @@ Susanne Baberg (OSCE) presented a simpler two-circle version of the same exercis
 - **Inner circle:** what you can directly control. Your behaviour, your choices, what you wear, who you contact, how you respond, what you say in the next conversation.
 - **Outer circle:** what you cannot control. The weather, others' reactions, organisational decisions, restructuring announcements, funding cuts.
 
-The two-circle version skips the middle "influence" ring. It is faster, easier under stress, and useful as a same-day tool when you do not have the cognitive capacity to assess influence. It pairs well with the body-based regulation tools in the same session ([[frameworks/body-scan|Body Scan]] and [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]]).
+The two-circle version skips the middle "influence" ring. It is faster, easier under stress, and useful as a same-day tool when you do not have the cognitive capacity to assess influence. It pairs well with the body-based regulation tools in the same session ([[body-scan|Body Scan]] and [[progressive-muscle-relaxation|Progressive Muscle Relaxation]]).
 
 When to choose the two-circle version: in acute moments, when you need a fast agency reset. The instruction is to do it old-school with paper and pencil, identify one inner-circle action, and act on it.
 
@@ -117,10 +117,10 @@ When you are processing acute distress (a sudden non-renewal, a bereavement, a s
 
 ## Related frameworks
 
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that this exercise complements at a longer timescale.
-- [[frameworks/hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the frame in which the redirection sits.
-- [[frameworks/accurate-thinking|Accurate Thinking]], the cognitive interrupt for the catastrophic thoughts that often drive outer-ring rumination.
-- [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]], the curve that explains why outer-ring rumination intensifies at certain stages.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that this exercise complements at a longer timescale.
+- [[hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the frame in which the redirection sits.
+- [[accurate-thinking|Accurate Thinking]], the cognitive interrupt for the catastrophic thoughts that often drive outer-ring rumination.
+- [[william-bridges-transitional-model|William Bridges Transitional Model]], the curve that explains why outer-ring rumination intensifies at certain stages.
 
 ---
 

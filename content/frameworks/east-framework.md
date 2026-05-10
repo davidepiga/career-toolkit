@@ -30,9 +30,9 @@ last_updated: 2026-05-09
 
 # EAST Framework
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
-Four design principles for making a desired behaviour more likely to happen: Easy, Attractive, Social, Timely. EAST is the design toolkit; [[frameworks/com-b-model|COM-B]] is the diagnostic. Apply EAST after COM-B has identified the bottleneck.
+Four design principles for making a desired behaviour more likely to happen: Easy, Attractive, Social, Timely. EAST is the design toolkit; [[com-b-model|COM-B]] is the diagnostic. Apply EAST after COM-B has identified the bottleneck.
 
 Introduced by Tiina Likki (Behavioural Scientist, WHO Transformation team) at the [[sessions/cw-day-5-session-1|Behavioural Science for Career Development]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Tina Stochmal (WHO HR, 17 years across UN system recruitment) translated each principle into career-development applications throughout the session. EAST was developed by the UK Behavioural Insights Team (BIT, sometimes called the "Nudge Unit"), distilled from a decade of large-scale randomised trials in public services.
 
@@ -42,7 +42,7 @@ Use EAST to design the conditions around a behaviour you want to make more likel
 
 ### When to use it
 
-- After running the [[frameworks/com-b-model|COM-B Model]] and identifying which component (Capability, Opportunity, Motivation) is the bottleneck.
+- After running the [[com-b-model|COM-B Model]] and identifying which component (Capability, Opportunity, Motivation) is the bottleneck.
 - When you have set a specific goal and want to design the conditions that make it most likely to happen.
 - When you have noticed a habit you want to break and need a structured way to add friction to the unwanted behaviour and reduce friction for its replacement.
 
@@ -57,7 +57,7 @@ For career behaviours, this means:
 - Pre-schedule recurring blocks on the calendar so you do not re-decide each week.
 - Reduce a large task to its smallest executable unit. Not "update my CV" (a weekend project) but "rewrite one bullet using R-CAR" (15 minutes).
 - Automate where possible: AI tools for one specific section, templates for repetitive components.
-- Use the [[frameworks/tiny-habits-setup|Tiny Habits Setup]] shrink-down step.
+- Use the [[tiny-habits-setup|Tiny Habits Setup]] shrink-down step.
 
 For habits you want to break:
 
@@ -95,7 +95,7 @@ For career development: act when motivation is present (after a positive perform
 
 ### Steps
 
-1. **Run [[frameworks/com-b-model|COM-B]] first.** Identify the actual bottleneck. EAST applied to the wrong bottleneck will not work.
+1. **Run [[com-b-model|COM-B]] first.** Identify the actual bottleneck. EAST applied to the wrong bottleneck will not work.
 2. **For each EAST principle, ask the diagnostic question.**
     - *Easy:* Have I made the behaviour as easy as possible? What friction can I remove? What friction can I add for the unwanted alternative?
     - *Attractive:* Have I built in rewards along the journey? What sensory or social pleasure can I pair with the behaviour?
@@ -103,7 +103,7 @@ For career development: act when motivation is present (after a positive perform
     - *Timely:* Is this anchored to an existing routine? Am I using a natural transition point? Are my reminders well-timed?
 3. **Design the conditions.** Pick at least one move per principle. Write them down.
 4. **Run the new conditions for two weeks.** Track whether the behaviour happens.
-5. **Re-evaluate.** If the behaviour is sticking, refine and continue. If not, return to [[frameworks/com-b-model|COM-B]] and check whether you mis-diagnosed the bottleneck.
+5. **Re-evaluate.** If the behaviour is sticking, refine and continue. If not, return to [[com-b-model|COM-B]] and check whether you mis-diagnosed the bottleneck.
 
 ### Worked example
 
@@ -124,7 +124,7 @@ A specific evidence point the session shared: a flu vaccine study in which addin
 
 ### Pitfalls
 
-- **Applying EAST without running [[frameworks/com-b-model|COM-B]] first.** Without the diagnostic, you may make the wrong behaviour easy or attractive. The diagnostic comes first.
+- **Applying EAST without running [[com-b-model|COM-B]] first.** Without the diagnostic, you may make the wrong behaviour easy or attractive. The diagnostic comes first.
 - **Picking only one principle.** EAST is most effective when at least three of the four are designed in. The principles compound.
 - **Treating Social as optional.** Social commitments are one of the strongest evidence-based levers. People resist them because they feel exposing; the discomfort is the mechanism.
 - **Over-relying on willpower as the back-up.** EAST is designed to reduce reliance on willpower. If your design ends with "and then I just need to be more disciplined", the design has failed.
@@ -133,7 +133,7 @@ A specific evidence point the session shared: a flu vaccine study in which addin
 
 ### When not to use it
 
-When the behaviour is genuinely not in your interest. EAST is not a tool for manipulating yourself into something you do not want; it is for closing the gap on something you do want. If the gap is your subconscious resistance to a goal that is not actually yours, use [[frameworks/immunity-to-change|Immunity to Change]] or the [[frameworks/5i-framework|5i Framework]] Identify dimension instead.
+When the behaviour is genuinely not in your interest. EAST is not a tool for manipulating yourself into something you do not want; it is for closing the gap on something you do want. If the gap is your subconscious resistance to a goal that is not actually yours, use [[immunity-to-change|Immunity to Change]] or the [[5i-framework|5i Framework]] Identify dimension instead.
 
 When the bottleneck is genuinely capability (you do not know how to do the thing). EAST will not teach you the skill; it will only design the conditions around it. Address the capability gap separately, then return to EAST.
 
@@ -147,10 +147,10 @@ EAST was developed by the UK Behavioural Insights Team (BIT, sometimes called th
 
 ## Related frameworks
 
-- [[frameworks/com-b-model|COM-B Model]], the diagnostic that identifies which bottleneck EAST should address.
-- [[frameworks/habit-loop|Habit Loop]], the underlying behavioural mechanism EAST principles work with.
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step practice that operationalises Easy, Timely, and Attractive.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the automatic patterns EAST is trying to redesign.
+- [[com-b-model|COM-B Model]], the diagnostic that identifies which bottleneck EAST should address.
+- [[habit-loop|Habit Loop]], the underlying behavioural mechanism EAST principles work with.
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step practice that operationalises Easy, Timely, and Attractive.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the automatic patterns EAST is trying to redesign.
 
 ---
 

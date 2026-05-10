@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Mentoring vs Adjacent Practices
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A clarifier for what mentoring is and is not, by contrast with three close cousins: coaching, counselling, and consulting. Plus the three internal sub-types of mentoring.
 
@@ -85,17 +85,17 @@ Mentoring is not one thing. Day 5 Session 6 named three internal sub-types that 
 
 #### Traditional mentoring
 
-Senior shares experience with junior, directionally one-way in flow but with the mentee leading the goal-setting and the questions. Captured in the [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]] outreach pattern and the [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]]. The classical form.
+Senior shares experience with junior, directionally one-way in flow but with the mentee leading the goal-setting and the questions. Captured in the [[how-to-approach-a-mentor|How to Approach a Mentor]] outreach pattern and the [[mentoring-conversation-cycle|Mentoring Conversation Cycle]]. The classical form.
 
 #### Reverse mentoring
 
-Junior mentors senior, often on technology, AI, generational perspectives, and emerging trends. The senior brings strategic context, organisational history, and career guidance. The flow is two-way; what is *reversed* is the directional asymmetry of who-mentors-whom on the named topic. See [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]] for the operational layers (Five Principles, REAL goals, five-step Action Plan).
+Junior mentors senior, often on technology, AI, generational perspectives, and emerging trends. The senior brings strategic context, organisational history, and career guidance. The flow is two-way; what is *reversed* is the directional asymmetry of who-mentors-whom on the named topic. See [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] for the operational layers (Five Principles, REAL goals, five-step Action Plan).
 
 The session was emphatic that reverse mentoring requires no platform, programme, or supervisor approval. The dynamic produces measurable outcomes (30% more market-ready ideas in cross-generationally mentored teams, 90% higher job satisfaction, 19% higher promotion rate for junior mentors), but the structural form is two people and a commitment.
 
 #### On-the-job learning (structured mentoring during real work)
 
-Mentor and mentee design a structured plan against a specific role's requirements (Scan, SMART goals, Personalised plan), embedded in daily tasks rather than separated from them. Used during onboarding, reassignment, parental leave replacement, anticipated separation, internships and JPO/YPP placements, and partial handovers. See [[frameworks/on-the-job-learning|On-the-Job Learning]] for the operational detail.
+Mentor and mentee design a structured plan against a specific role's requirements (Scan, SMART goals, Personalised plan), embedded in daily tasks rather than separated from them. Used during onboarding, reassignment, parental leave replacement, anticipated separation, internships and JPO/YPP placements, and partial handovers. See [[on-the-job-learning|On-the-Job Learning]] for the operational detail.
 
 OJL sits closer to mentoring than to consulting because the mentor shares experience, supports reflection, and adapts to the mentee. The structural difference from traditional mentoring is the embedded-in-real-work format: the conversation happens around tasks, not separate from them.
 
@@ -119,10 +119,10 @@ When you are clear on what you need and who provides it. The clarifier exists to
 
 ## Related frameworks
 
-- [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]], the operational structure once a mentoring conversation has been agreed.
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]], the outreach pattern when the practice you need is mentoring.
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]], the operational layers for the reverse sub-type.
-- [[frameworks/on-the-job-learning|On-the-Job Learning]], the operational layers for the embedded sub-type.
+- [[mentoring-conversation-cycle|Mentoring Conversation Cycle]], the operational structure once a mentoring conversation has been agreed.
+- [[how-to-approach-a-mentor|How to Approach a Mentor]], the outreach pattern when the practice you need is mentoring.
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]], the operational layers for the reverse sub-type.
+- [[on-the-job-learning|On-the-Job Learning]], the operational layers for the embedded sub-type.
 
 ---
 

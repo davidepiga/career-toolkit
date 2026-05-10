@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 20/80 Bucket System
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A pre-task triage rule that puts roughly 20% of your work in a "deserves 110%" bucket and the other 80% in a "good enough" bucket, before you start. A specific counter-move to perfectionism applied to the wrong tasks.
 
@@ -93,10 +93,10 @@ When the work itself genuinely requires uniform care (clinical documentation, le
 
 ## Related frameworks
 
-- [[frameworks/saboteur-catalog|Saboteur Catalog]], for the Stickler's full pattern and complementary techniques.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the Stickler before it activates on a task.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the Stickler counter-move applied to job-application decisions.
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step process for installing the bucket triage as a Monday-morning routine.
+- [[saboteur-catalog|Saboteur Catalog]], for the Stickler's full pattern and complementary techniques.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the Stickler before it activates on a task.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the Stickler counter-move applied to job-application decisions.
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step process for installing the bucket triage as a Monday-morning routine.
 
 ---
 

@@ -29,11 +29,11 @@ last_updated: 2026-05-09
 
 # Silent Coaching for Goals
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A 14-question silent coaching sequence that moves a vague goal to a concrete next action and a commitment rating, in roughly 15 minutes.
 
-Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin ran the sequence live during the session, walking through each question with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. It is the goal-focused complement to the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] from Day 4 Session 5. Same technique, different application.
+Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin ran the sequence live during the session, walking through each question with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. It is the goal-focused complement to the [[silent-coaching-sequence|Silent Coaching Sequence]] from Day 4 Session 5. Same technique, different application.
 
 ## The framework
 
@@ -41,9 +41,9 @@ A silent, written self-coaching protocol. 14 questions, four phases, roughly 15 
 
 ### When to use it
 
-- After setting a [[frameworks/smarteer-goals|SMARTEER Goal]], to convert it into a specific committed first action.
+- After setting a [[smarteer-goals|SMARTEER Goal]], to convert it into a specific committed first action.
 - When you have an important goal you keep meaning to act on but have not.
-- As the Intentional dimension follow-up in the [[frameworks/5i-framework|5i Framework]].
+- As the Intentional dimension follow-up in the [[5i-framework|5i Framework]].
 - In a facilitated group setting where the host wants participants to leave with an action rather than just an intention.
 
 ### What you need
@@ -105,7 +105,7 @@ The sequence ran in 12 minutes. The action happened the same afternoon.
 
 ### How this differs from the strengths variant
 
-The technique (silent written reflection with structured prompts) is the same as the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] from Day 4 Session 5. The application is different.
+The technique (silent written reflection with structured prompts) is the same as the [[silent-coaching-sequence|Silent Coaching Sequence]] from Day 4 Session 5. The application is different.
 
 | Dimension | Goals variant (this page) | Strengths variant |
 |---|---|---|
@@ -121,7 +121,7 @@ Both are valid. Pick based on what you are stuck on.
 ### Pitfalls
 
 - **Skipping the early questions to get to the action.** The early questions surface the meaning and motivation that make the action sustainable. Without them, the late-phase commitment is brittle.
-- **Treating the action as the answer to "what should I do with my career?".** This sequence is about one goal at a time. It is not about choosing a destination. Use [[frameworks/career-mapping|Career Mapping]] or the [[frameworks/5i-framework|5i Framework]] for direction-level decisions.
+- **Treating the action as the answer to "what should I do with my career?".** This sequence is about one goal at a time. It is not about choosing a destination. Use [[career-mapping|Career Mapping]] or the [[5i-framework|5i Framework]] for direction-level decisions.
 - **Defining the action too big.** "Build my peer network" is a goal. "Send one specific follow-up message to one specific person, today before 5pm" is an action. The sequence wants the action.
 - **Setting "soon" or "next week" as the date.** Be specific. The vague date is the failure mode.
 - **Doing the sequence and not running the action.** The sequence does its work; you have to do the rest. Block the action time on the calendar before you close the notebook.
@@ -129,7 +129,7 @@ Both are valid. Pick based on what you are stuck on.
 
 ### When not to use it
 
-When the goal is unclear. The sequence assumes the goal is named. If you cannot articulate it in one keyword, run [[frameworks/career-mapping|Career Mapping]] first to clarify direction, then return.
+When the goal is unclear. The sequence assumes the goal is named. If you cannot articulate it in one keyword, run [[career-mapping|Career Mapping]] first to clarify direction, then return.
 
 When you are in acute fatigue or burnout. The sequence requires reflective energy. Stabilise first; come back when you can think.
 
@@ -141,10 +141,10 @@ When the goal has structural blockers no first action can address (a hiring free
 
 ## Related frameworks
 
-- [[frameworks/smarteer-goals|SMARTEER Goals]], the structure that produces the goals this sequence converts to action.
-- [[frameworks/5i-framework|5i Framework]], the umbrella framework this protocol supports inside the Intentional dimension.
-- [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]], Kata Posa's 24-question variant focused on activating an unrealised strength.
-- [[frameworks/career-mapping|Career Mapping]], the longer-arc gap analysis that names direction before the goal is set.
+- [[smarteer-goals|SMARTEER Goals]], the structure that produces the goals this sequence converts to action.
+- [[5i-framework|5i Framework]], the umbrella framework this protocol supports inside the Intentional dimension.
+- [[silent-coaching-sequence|Silent Coaching Sequence]], Kata Posa's 24-question variant focused on activating an unrealised strength.
+- [[career-mapping|Career Mapping]], the longer-arc gap analysis that names direction before the goal is set.
 
 ---
 

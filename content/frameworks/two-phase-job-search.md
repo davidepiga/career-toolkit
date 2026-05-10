@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Two-Phase Job Search
 
-*Dimension: [[dimensions/choice|Choice]] · Type: Stage*
+*Dimension: [[choice|Choice]] · Type: Stage*
 
 A separation between two activities that look similar but are not: scanning vacancies to decide whether to apply, and working on a specific application. Each phase has its own purpose, its own depth of engagement, and its own checks.
 
@@ -59,7 +59,7 @@ A working list of open vacancies. An honest sense of your current career directi
 2. Read the first two or three responsibilities. What does the role actually do?
 3. Read the mandatory requirements honestly. Do you meet the eligibility gates (years of experience, education, languages)? If not, stop.
 4. Read the location and any relocation implications. Does it work for your life right now?
-5. Estimate fit using the [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]]. Above the threshold and within eligibility: move to phase two. Below: log the role for later if it represents a direction you want to grow into; otherwise drop it.
+5. Estimate fit using the [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]]. Above the threshold and within eligibility: move to phase two. Below: log the role for later if it represents a direction you want to grow into; otherwise drop it.
 
 Time per role: 5 to 10 minutes.
 
@@ -67,16 +67,16 @@ Time per role: 5 to 10 minutes.
 
 *Purpose.* Build a tailored, well-aligned application that has a real chance of progressing.
 
-*Depth.* Deep. This is marathon-runner mode (see [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]]).
+*Depth.* Deep. This is marathon-runner mode (see [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]]).
 
 *Steps.*
 
 1. Save a local copy of the JD. Vacancy notices can be removed from the web; the local copy is your reference for the rest of the process.
-2. Run the [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] on a separate document.
-3. Build the [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] table.
-4. Pull relevant entries from your [[frameworks/basic-achievement-bank|BASIC Achievement Bank]] and map them to JD responsibilities.
-5. Draft the CV bullets and cover letter using [[frameworks/r-car|R-CAR]] for the achievement statements.
-6. Run all three layers of the [[frameworks/third-eye-principle|Third Eye Principle]].
+2. Run the [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] on a separate document.
+3. Build the [[jd-vs-profile-comparison|JD vs Profile Comparison]] table.
+4. Pull relevant entries from your [[basic-achievement-bank|BASIC Achievement Bank]] and map them to JD responsibilities.
+5. Draft the CV bullets and cover letter using [[r-car|R-CAR]] for the achievement statements.
+6. Run all three layers of the [[third-eye-principle|Third Eye Principle]].
 7. Submit, save the submitted version, and log the application date and reference number.
 
 Time per role: a few hours to a full afternoon.
@@ -109,9 +109,9 @@ When you are doing pure exploratory research on a sector or a target organisatio
 
 ## Related frameworks
 
-- [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology of how applicants engage in phase two.
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the operational tools for phase two.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the decision rule between phases one and two.
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology of how applicants engage in phase two.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[jd-vs-profile-comparison|JD vs Profile Comparison]], the operational tools for phase two.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the decision rule between phases one and two.
 
 ---
 

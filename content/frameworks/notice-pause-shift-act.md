@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Notice, Pause, Shift, Act
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-step in-the-moment routine for interrupting an automatic, saboteur-driven reaction and choosing a more deliberate response. Daily reps train the new default through neuroplasticity.
 
@@ -67,11 +67,11 @@ A P-3 programme officer sees a P-4 vacancy that they are 75% qualified for. The 
 - **Notice.** "That is my Stickler talking. The reaction is disproportionate to the actual situation."
 - **Pause.** Three slow breaths. Hands off the keyboard.
 - **Shift.** Replace "I am not qualified" with "What evidence would I bring if I did apply? What is the worst realistic outcome?"
-- **Act.** Open the vacancy notice and a fresh document. Begin the [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]]. The decision about whether to apply is now downstream of evidence, not upstream of an emotional reaction.
+- **Act.** Open the vacancy notice and a fresh document. Begin the [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]]. The decision about whether to apply is now downstream of evidence, not upstream of an emotional reaction.
 
 ### Pitfalls
 
-- **Skipping the Notice.** Without naming the saboteur, the rest of the sequence cannot start. If you cannot say which saboteur is talking, run the [[frameworks/saboteur-catalog|Saboteur Catalog]] until you can.
+- **Skipping the Notice.** Without naming the saboteur, the rest of the sequence cannot start. If you cannot say which saboteur is talking, run the [[saboteur-catalog|Saboteur Catalog]] until you can.
 - **Treating the Pause as a meditation session.** A few breaths is enough. Long pauses make the routine feel heavy and you stop using it.
 - **Skipping straight to Act.** Action without a Shift is just a different version of the same automatic response. The Shift is what makes the new action different in kind, not just in form.
 - **Trying to abolish the saboteur.** The aim is awareness and choice, not silence. Saboteurs are protective patterns that were once useful; you are training a new response, not killing an old one.
@@ -91,10 +91,10 @@ The four steps come from the Positive Intelligence framework by Shirzad Chamine,
 
 ## Related frameworks
 
-- [[frameworks/saboteur-catalog|Saboteur Catalog]], the reference page for naming the saboteur in step one.
-- [[frameworks/20-80-bucket-system|20/80 Bucket System]], a concrete Shift-and-Act move for the Stickler.
-- [[frameworks/circle-of-control|Circle of Control]], a complementary tool for redirecting energy away from saboteur-amplifying concerns.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], the body-first variant for moments when thinking your way through is not yet possible.
+- [[saboteur-catalog|Saboteur Catalog]], the reference page for naming the saboteur in step one.
+- [[20-80-bucket-system|20/80 Bucket System]], a concrete Shift-and-Act move for the Stickler.
+- [[circle-of-control|Circle of Control]], a complementary tool for redirecting energy away from saboteur-amplifying concerns.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], the body-first variant for moments when thinking your way through is not yet possible.
 
 ---
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Habit Loop
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-stage behavioural cycle (cue, craving, response, reward) that explains why habits run on autopilot. Knowing the loop gives you four points to intervene when building a new habit or breaking an old one.
 
@@ -102,7 +102,7 @@ To build a new habit using the loop:
 To break an old habit:
 
 1. **Identify the cue.** What is actually triggering this? Stress, boredom, a specific person, a time of day, a location.
-2. **Insert a pause between cue and response.** This is the hardest step. The pause is the only place where a different choice can be made. See [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] for the in-the-moment routine.
+2. **Insert a pause between cue and response.** This is the hardest step. The pause is the only place where a different choice can be made. See [[notice-pause-shift-act|Notice, Pause, Shift, Act]] for the in-the-moment routine.
 3. **Replace, do not just remove.** A vacuum where the old response was usually fills with the same response. Substitute a new response that produces a similar reward (a phone-check replaced with a deep breath; a yes-when-tired replaced with *"let me get back to you on that"*).
 4. **Be patient.** The old neural pathway is deep. The new one takes weeks or months to become competitive.
 
@@ -147,10 +147,10 @@ When the limiting pattern is rooted in trauma or acute mental-health concerns. T
 
 ## Related frameworks
 
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step process for engineering the loop in practice.
-- [[frameworks/gratitude-reset|Gratitude Reset]], a specific small habit applied to attentional bias.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for inserting a pause between cue and response.
-- [[frameworks/saboteur-catalog|Saboteur Catalog]], the lookup for the protective patterns whose loops are particularly hard to interrupt.
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step process for engineering the loop in practice.
+- [[gratitude-reset|Gratitude Reset]], a specific small habit applied to attentional bias.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for inserting a pause between cue and response.
+- [[saboteur-catalog|Saboteur Catalog]], the lookup for the protective patterns whose loops are particularly hard to interrupt.
 
 ---
 

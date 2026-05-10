@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Reverse Mentoring Playbook
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A playbook for mutual learning between a junior mentor and senior leader. Five Principles, REAL Goals, and a five-step Action Plan to start without institutional permission.
 
@@ -193,10 +193,10 @@ When there is no specific topic to anchor on. "We should mentor each other" with
 
 ## Related frameworks
 
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]], the closely related outreach pattern. Use the explicit script in step 3 of this playbook as the reverse-mentoring equivalent.
-- [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]], the seven-step structure for the conversation itself, applicable in both directions.
-- [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinction between mentoring and coaching, consulting, counselling.
-- [[frameworks/on-the-job-learning|On-the-Job Learning]], the operational practice for embedded skill transfer; the Day 5 Session 6 companion to this playbook.
+- [[how-to-approach-a-mentor|How to Approach a Mentor]], the closely related outreach pattern. Use the explicit script in step 3 of this playbook as the reverse-mentoring equivalent.
+- [[mentoring-conversation-cycle|Mentoring Conversation Cycle]], the seven-step structure for the conversation itself, applicable in both directions.
+- [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinction between mentoring and coaching, consulting, counselling.
+- [[on-the-job-learning|On-the-Job Learning]], the operational practice for embedded skill transfer; the Day 5 Session 6 companion to this playbook.
 
 ---
 

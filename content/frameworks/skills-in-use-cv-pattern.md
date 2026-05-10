@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Skills-in-Use CV Pattern
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A writing pattern for CV bullets, cover-letter sentences, and interview answers. Name the skill, the action it enabled, and the context it produced impact in.
 
@@ -62,8 +62,8 @@ The order can rotate (context-skill-outcome, outcome-skill-context) but the thre
 
 ### Steps
 
-1. **Identify the target skill.** Read the JD's language carefully. Match the skill name in your bullet to the JD's terminology where it is honest. (See [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] for the source.)
-2. **Pull the relevant achievement.** From your [[frameworks/basic-achievement-bank|BASIC]] bank, pick the one that best demonstrates this skill in action with measurable impact.
+1. **Identify the target skill.** Read the JD's language carefully. Match the skill name in your bullet to the JD's terminology where it is honest. (See [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] for the source.)
+2. **Pull the relevant achievement.** From your [[basic-achievement-bank|BASIC]] bank, pick the one that best demonstrates this skill in action with measurable impact.
 3. **Write the three-part bullet.** Test against the pattern. If any of the three pieces is missing, rewrite.
 4. **Cut padding.** Words like "successfully", "effectively", "responsible for" do not carry information. Strip them.
 5. **Iterate against the JD.** A bullet that works in isolation may still need re-tuning to mirror the JD's language. The point is not generic strength; it is specific fit.
@@ -114,7 +114,7 @@ The connection to AI screening: AI does not decide what to value; it amplifies w
 
 The implication for the pattern above: the "skill" component of "because of X, I delivered Y" should be in capability language, not in duty language. "Because of multi-country results-based programme management" is capability language; "because of five years in programme management" is tenure language. The pattern only works if the skill component is named correctly.
 
-For the broader formula that puts capability, outputs, and evidence in three explicit components, see [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]], which is the AI-screening-specific operationalisation of the same logic.
+For the broader formula that puts capability, outputs, and evidence in three explicit components, see [[capability-outputs-evidence|Capability + Outputs + Evidence]], which is the AI-screening-specific operationalisation of the same logic.
 
 ### Pitfalls
 
@@ -134,10 +134,10 @@ When you are writing personal essay-style content (a fellowship application, a v
 
 ## Related frameworks
 
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance the pattern operationalises.
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]], the AI-screening-specific operationalisation of the same logic.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the achievement that fills the outcome and context fields.
-- [[frameworks/r-car|R-CAR]], a closely related structure for the same purpose, with a leading headline result.
+- [[skills-first-approach|Skills-First Approach]], the broader stance the pattern operationalises.
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]], the AI-screening-specific operationalisation of the same logic.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the achievement that fills the outcome and context fields.
+- [[r-car|R-CAR]], a closely related structure for the same purpose, with a leading headline result.
 
 ---
 

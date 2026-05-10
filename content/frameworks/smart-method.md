@@ -33,7 +33,7 @@ last_updated: 2026-05-09
 
 # SMART Method
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A five-element structure for answering competency-based interview questions: Situation, Mission or Task, Action, Result, Teachability. The Teachability element is what distinguishes SMART from the better-known STAR. Including a brief lessons-learned reflection turns a difficult situation into evidence of self-awareness rather than a confession.
 
@@ -70,7 +70,7 @@ A consistent prescription across both the Day 4 and Day 5 sessions: the Action e
 
 ### Steps
 
-1. **Pick the situation.** From your [[frameworks/basic-achievement-bank|BASIC]] achievement bank, choose an example that fits the competency the panel is asking about. If you cannot find one with all five elements (especially a meaningful Teachability), choose a different example.
+1. **Pick the situation.** From your [[basic-achievement-bank|BASIC]] achievement bank, choose an example that fits the competency the panel is asking about. If you cannot find one with all five elements (especially a meaningful Teachability), choose a different example.
 2. **Draft each element separately.** Write the five elements out in full before stitching them together. This prevents the common failure mode of running the Situation past two minutes and rushing the Action and Result.
 3. **Practise out loud.** Three to five minutes total. The Action should be the longest element. The Teachability should be 30 to 60 seconds, no more.
 4. **In the room: be specific.** Replace "stakeholders" with named partners. Replace "we" with "I" once you have set the team context. Replace "challenges" with the specific challenge.
@@ -121,11 +121,11 @@ When the question is technical and asks for content rather than competency demon
 
 ## Related frameworks
 
-- [[frameworks/r-car|R-CAR]], the parallel structure for CV bullets and cover-letter sentences (lead with the result).
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the upstream documentation tool that supplies the examples this method structures.
-- [[frameworks/duties-driven-interview-prep|Duties-Driven Interview Prep]], the preparation method that generates 20+ likely interview questions from the vacancy notice's duty bullets.
-- [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the rehearsal method.
-- [[frameworks/why-this-why-now-why-you|Why This / Why Now / Why You]], the opening pitch structure.
+- [[r-car|R-CAR]], the parallel structure for CV bullets and cover-letter sentences (lead with the result).
+- [[basic-achievement-bank|BASIC Achievement Bank]], the upstream documentation tool that supplies the examples this method structures.
+- [[duties-driven-interview-prep|Duties-Driven Interview Prep]], the preparation method that generates 20+ likely interview questions from the vacancy notice's duty bullets.
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the rehearsal method.
+- [[why-this-why-now-why-you|Why This / Why Now / Why You]], the opening pitch structure.
 
 ---
 

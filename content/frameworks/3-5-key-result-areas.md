@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # 3 to 5 Key Result Areas
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A test for whether your role matters and whether you are using your hours well: name the three to five activities only you can do, where your time actually produces results. If you cannot list them, that is the gap. If you can, link each one upward to your team, agency, and overall mission.
 
@@ -118,10 +118,10 @@ When the organisational context is in such flux (an active restructure, a sudden
 
 ## Related frameworks
 
-- [[frameworks/intelligent-career-model|Intelligent Career Model]], the upstream diagnostic; KRAs operationalise the Knowing How dimension at the role level.
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that this list operationalises into daily work.
-- [[frameworks/engagement-performance-matrix|Engagement-Performance Matrix]], the project-level diagnostic that pairs with the KRA list to defend the calendar.
-- [[frameworks/five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the unsticking tool that surfaces the questions behind the activities you keep doing.
+- [[intelligent-career-model|Intelligent Career Model]], the upstream diagnostic; KRAs operationalise the Knowing How dimension at the role level.
+- [[four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that this list operationalises into daily work.
+- [[engagement-performance-matrix|Engagement-Performance Matrix]], the project-level diagnostic that pairs with the KRA list to defend the calendar.
+- [[five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the unsticking tool that surfaces the questions behind the activities you keep doing.
 
 ---
 

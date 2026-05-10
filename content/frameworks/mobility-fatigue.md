@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Mobility Fatigue
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 The psychological wear that accumulates from repeated cycles of adaptation, detachment, and reorientation in a globally mobile career, distinct from burnout. Naming it is the first intervention. The page introduces the concept and a three-step practice for working with it.
 
@@ -131,10 +131,10 @@ The named concept "mobility fatigue" is the speaker's framing, drawing on the br
 
 ## Related frameworks
 
-- [[frameworks/cultural-adjustment-curve|Cultural Adjustment Curve]], the established model for the emotional arc of any single move.
-- [[frameworks/hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the broader diagnostic for how you are currently relating to your context.
-- [[frameworks/circle-of-control|Circle of Control]], useful when mobility-related concerns are amplifying outer-ring rumination.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with longer-arc reflection.
+- [[cultural-adjustment-curve|Cultural Adjustment Curve]], the established model for the emotional arc of any single move.
+- [[hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the broader diagnostic for how you are currently relating to your context.
+- [[circle-of-control|Circle of Control]], useful when mobility-related concerns are amplifying outer-ring rumination.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with longer-arc reflection.
 
 ---
 

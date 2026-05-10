@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Progressive Muscle Relaxation
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A tense-and-release sequence through the major muscle groups: hands, shoulders and neck, face and jaw, legs and feet. Five seconds of contraction, then release. Reduces the muscular hypervigilance that uncertainty produces.
 
@@ -46,7 +46,7 @@ PMR is built on the contrast between contraction and release. The release is fel
 - When uncertainty is showing up in the body: back pain, clenched jaw, teeth grinding at night, neck stiffness, gripping the mouse.
 - Before bed when the day's residue is keeping you awake.
 - After a difficult meeting or a stressful piece of news, to discharge what the body absorbed.
-- During the anxiety stage of a [[frameworks/william-bridges-transitional-model|William Bridges transition]], as a daily practice.
+- During the anxiety stage of a [[william-bridges-transitional-model|William Bridges transition]], as a daily practice.
 - As a 60- to 90-second mid-day reset between meetings (short version: hands, shoulders, jaw).
 
 ### What you need
@@ -55,7 +55,7 @@ Five to fifteen minutes (full version), or 60 to 90 seconds (short version). A p
 
 ### How it differs from the body scan
 
-The [[frameworks/body-scan|Body Scan]] is observe-only: notice sensation, do not try to change anything. PMR is the active-tension companion: deliberately contract a muscle group, hold for five seconds, then release. Both can sit in the same routine; they do different work.
+The [[body-scan|Body Scan]] is observe-only: notice sensation, do not try to change anything. PMR is the active-tension companion: deliberately contract a muscle group, hold for five seconds, then release. Both can sit in the same routine; they do different work.
 
 ### The sequence
 
@@ -132,10 +132,10 @@ The UNDP wellbeing portal at https://wellbeingundp.org has guided audio versions
 
 ## Related frameworks
 
-- [[frameworks/body-scan|Body Scan]], the observe-only companion. Use PMR to discharge muscular tension and the body scan to track what the body is carrying afterwards.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], the five-step in-the-moment routine that complements PMR at a smaller timescale.
-- [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]], the curve that tells you when body-based regulation is the right priority.
-- [[frameworks/accurate-thinking|Accurate Thinking]], the cognitive tool that becomes more available once the body has settled.
+- [[body-scan|Body Scan]], the observe-only companion. Use PMR to discharge muscular tension and the body scan to track what the body is carrying afterwards.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], the five-step in-the-moment routine that complements PMR at a smaller timescale.
+- [[william-bridges-transitional-model|William Bridges Transitional Model]], the curve that tells you when body-based regulation is the right priority.
+- [[accurate-thinking|Accurate Thinking]], the cognitive tool that becomes more available once the body has settled.
 
 ---
 

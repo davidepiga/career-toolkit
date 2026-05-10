@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # UN-Honed Transferable Capabilities
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 Three capabilities UN staff systematically underestimate but that travel well to other IGOs: sensemaking in chaos, systems mindset, and professional agility under structural change. A self-recognition reference for staff considering a transition outside the UN, and a checklist of what to surface explicitly in applications and interviews.
 
@@ -57,7 +57,7 @@ What it looks like in UN work: things happen from one day to the next. A sudden 
 
 Why it travels: most non-UN organisations operate at a slower decision tempo. Someone who can synthesise an unfamiliar situation in days rather than months stands out, particularly in periods of organisational change (which most multilateral organisations are now in).
 
-How to surface it on a CV or in an interview: describe a specific moment when you had to act on incomplete information. Use the [[frameworks/smart-method|SMART Method]] or [[frameworks/r-car|R-CAR]]. Quantify the speed and the outcome where possible.
+How to surface it on a CV or in an interview: describe a specific moment when you had to act on incomplete information. Use the [[smart-method|SMART Method]] or [[r-car|R-CAR]]. Quantify the speed and the outcome where possible.
 
 **2. Systems mindset.**
 
@@ -77,11 +77,11 @@ How to surface it: describe how you have adapted across two or three different o
 
 ### Steps
 
-1. **Audit your last 5 to 10 years against each capability.** For each one, write 2 to 3 specific moments where you demonstrated it. Use your [[frameworks/basic-achievement-bank|BASIC]] achievement bank as the source.
+1. **Audit your last 5 to 10 years against each capability.** For each one, write 2 to 3 specific moments where you demonstrated it. Use your [[basic-achievement-bank|BASIC]] achievement bank as the source.
 2. **Pick the strongest example per capability.** The one with the clearest action, the most measurable outcome, and the cleanest story.
-3. **Write each example using [[frameworks/smart-method|SMART Method]].** Keep it to 3 to 5 minutes spoken or 4 to 6 lines written. The Teachability element matters here: what would you do differently is part of the story.
+3. **Write each example using [[smart-method|SMART Method]].** Keep it to 3 to 5 minutes spoken or 4 to 6 lines written. The Teachability element matters here: what would you do differently is part of the story.
 4. **Translate the language for the non-UN audience.** Replace internal jargon. "Inter-agency coordination" becomes "stakeholder management across institutions with conflicting mandates and priorities". The skill is the same; the words must be legible to someone outside the UN.
-5. **Use these examples in motivation letters and interviews.** Pair with the [[frameworks/why-this-why-now-why-you|Why This, Why Now, Why You]] test for motivation letters specifically.
+5. **Use these examples in motivation letters and interviews.** Pair with the [[why-this-why-now-why-you|Why This, Why Now, Why You]] test for motivation letters specifically.
 6. **Reframe, do not contract, during transition.** The session was emphatic on this point: stop saying "I am leaving the UN", which generates fear. Say "I am continuing my career in international public service". The reframe makes the conversation easier in your head and in interviews.
 
 ### Worked example
@@ -100,7 +100,7 @@ The session named a specific pattern: colleagues whose posts have been cut often
 
 This page is partly a confidence intervention. Naming what you have built, with examples, restores the felt sense of capability that the contract loss did not actually take away. The skills do not need to be rebuilt; they need to be re-recognised.
 
-If the confidence shock is acute, pair this audit with a [[frameworks/strengths-profile|Strengths Profile]] reflection (the unrealised quadrant especially) and the [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] routine for the saboteur patterns that often surface during a contract loss.
+If the confidence shock is acute, pair this audit with a [[strengths-profile|Strengths Profile]] reflection (the unrealised quadrant especially) and the [[notice-pause-shift-act|Notice, Pause, Shift, Act]] routine for the saboteur patterns that often surface during a contract loss.
 
 ### Pitfalls
 
@@ -112,7 +112,7 @@ If the confidence shock is acute, pair this audit with a [[frameworks/strengths-
 
 ### When not to use it
 
-When you are applying for an internal UN move. The capabilities are still real, but the audience already has them; surfacing them adds little. Use the [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] instead, focused on the specific role's requirements.
+When you are applying for an internal UN move. The capabilities are still real, but the audience already has them; surfacing them adds little. Use the [[jd-vs-profile-comparison|JD vs Profile Comparison]] instead, focused on the specific role's requirements.
 
 When you are at a very early career stage in the UN system. The three capabilities take 5 to 10 years of varied UN experience to develop credibly. Earlier in a career, the surfacing exercise is premature.
 
@@ -122,10 +122,10 @@ When you are at a very early career stage in the UN system. The three capabiliti
 
 ## Related frameworks
 
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance under which these capabilities sit as named skills.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the achievement examples that illustrate each capability.
-- [[frameworks/why-this-why-now-why-you|Why This, Why Now, Why You]], the three-question test for the motivation letter that surfaces these capabilities for a specific role.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for the saboteur patterns that surface during transition.
+- [[skills-first-approach|Skills-First Approach]], the broader stance under which these capabilities sit as named skills.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the achievement examples that illustrate each capability.
+- [[why-this-why-now-why-you|Why This, Why Now, Why You]], the three-question test for the motivation letter that surfaces these capabilities for a specific role.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for the saboteur patterns that surface during transition.
 
 ---
 

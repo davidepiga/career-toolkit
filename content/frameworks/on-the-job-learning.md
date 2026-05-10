@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # On-the-Job Learning
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A structured way to make onboarding, reassignment, parental leave replacement, and partial handovers into designed learning events. Mentoring Plan Map plus a Skills + Mindset + Toolkit prep frame.
 
@@ -179,10 +179,10 @@ When the moment is too short for OJL to mature (a two-week handover before a sep
 
 ## Related frameworks
 
-- [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]], the seven-step structure for the conversation itself, applicable inside the OJL cadence.
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]], the Day 5 Session 6 companion. Reverse mentoring is peer-to-peer learning with directional asymmetry inverted.
-- [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinction between mentoring, coaching, consulting and counselling.
-- [[frameworks/smarteer-goals|SMARTEER Goals]], the goal-setting frame that extends SMART for the personal-development side of the plan.
+- [[mentoring-conversation-cycle|Mentoring Conversation Cycle]], the seven-step structure for the conversation itself, applicable inside the OJL cadence.
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]], the Day 5 Session 6 companion. Reverse mentoring is peer-to-peer learning with directional asymmetry inverted.
+- [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinction between mentoring, coaching, consulting and counselling.
+- [[smarteer-goals|SMARTEER Goals]], the goal-setting frame that extends SMART for the personal-development side of the plan.
 
 ---
 

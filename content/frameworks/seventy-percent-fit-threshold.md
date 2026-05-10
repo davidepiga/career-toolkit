@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Seventy Percent Fit Threshold
 
-*Dimension: [[dimensions/choice|Choice]] · Type: Stage*
+*Dimension: [[choice|Choice]] · Type: Stage*
 
 A decision rule for when a role is worth a tailored application: aim for around 70% fit, not 100% and not 60%. Below 70% you waste tailoring effort; waiting for 100% means you never apply.
 
@@ -48,7 +48,7 @@ The 70% rule is a discretionary-fit decision tool, not a softening of the eligib
 
 ### What you need
 
-The job description. A clear-eyed read of your own profile against it. The [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] is the table that makes the fit estimate concrete.
+The job description. A clear-eyed read of your own profile against it. The [[jd-vs-profile-comparison|JD vs Profile Comparison]] is the table that makes the fit estimate concrete.
 
 ### The rule
 
@@ -87,10 +87,10 @@ When the role is a clear stretch role you are deliberately reaching for as a dev
 
 ## Related frameworks
 
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the tool you use to make the fit estimate concrete.
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the analytic reading that produces the inputs to the comparison.
-- [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology of how seriously an applicant engages once the threshold is met.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the upstream tool that produces the achievements you map against the role.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], the tool you use to make the fit estimate concrete.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the analytic reading that produces the inputs to the comparison.
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology of how seriously an applicant engages once the threshold is met.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the upstream tool that produces the achievements you map against the role.
 
 <!-- Product hint suggested. Davide to confirm or remove. -->
 > [!info] Related

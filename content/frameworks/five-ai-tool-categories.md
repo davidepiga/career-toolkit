@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Five AI Tool Categories
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A taxonomy that separates the AI tools you can use during a job application by what they are actually good at, so you reach for the right one at the right step.
 
@@ -70,7 +70,7 @@ Each category solves a different problem. Use them in the order that matches the
 
 **Examples.** Grammarly.
 
-**When to reach for it.** As the last automated pass, after layer one and layer two of the [[frameworks/third-eye-principle|Third Eye Principle]]. Treat its suggestions as proposals, not commands. It does not understand context.
+**When to reach for it.** As the last automated pass, after layer one and layer two of the [[third-eye-principle|Third Eye Principle]]. Treat its suggestions as proposals, not commands. It does not understand context.
 
 ### 5. Research and translation
 
@@ -110,10 +110,10 @@ When you are applying to an organisation that explicitly discourages AI-drafted 
 
 ## Related frameworks
 
-- [[frameworks/third-eye-principle|Third Eye Principle]], the review framework these tools support.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the upstream content the AI drafting category works on.
-- [[frameworks/r-car|R-CAR]], the structure the AI drafting category should preserve when refining bullets.
-- [[frameworks/four-prompting-principles|Four Prompting Principles]], the prompting discipline that makes categories 1, 3, and 5 work.
+- [[third-eye-principle|Third Eye Principle]], the review framework these tools support.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the upstream content the AI drafting category works on.
+- [[r-car|R-CAR]], the structure the AI drafting category should preserve when refining bullets.
+- [[four-prompting-principles|Four Prompting Principles]], the prompting discipline that makes categories 1, 3, and 5 work.
 
 ---
 

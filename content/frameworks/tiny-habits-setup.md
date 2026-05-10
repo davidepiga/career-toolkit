@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Tiny Habits Setup
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A seven-step setup for building a new habit that actually sticks: small enough that failure is nearly impossible, anchored to an existing routine, sensorial, kindly self-talked, consistent over intense.
 
@@ -39,7 +39,7 @@ Introduced by Sara Canna (Team Lead, Talent Acquisition and Management Unit, WHO
 
 ## The framework
 
-The setup engineers each stage of the [[frameworks/habit-loop|Habit Loop]] in advance, so the habit forms by design rather than by willpower.
+The setup engineers each stage of the [[habit-loop|Habit Loop]] in advance, so the habit forms by design rather than by willpower.
 
 ### When to use it
 
@@ -81,7 +81,7 @@ Once the habit is reliable at the small scale, it expands naturally. Most days y
 
 Pair the habit with something pleasant. Music while doing admin work. A candle when journaling. A particular cup for the morning reflection. Sunlight if you are walking. A specific phone-free corner of the house for reading.
 
-The sensory pairing creates a small immediate reward, which closes the [[frameworks/habit-loop|Habit Loop]] faster than a delayed reward would. The brain learns: this action feels good in the moment.
+The sensory pairing creates a small immediate reward, which closes the [[habit-loop|Habit Loop]] faster than a delayed reward would. The brain learns: this action feels good in the moment.
 
 #### 5. Use visual reminders
 
@@ -142,7 +142,7 @@ After two weeks, the habit was reliable. After eight weeks, it had naturally exp
 
 When the change you want is structural rather than habitual (a new role, a new manager, a different team). The seven steps are for personal practices, not for system-level changes.
 
-When the underlying pattern is a saboteur (perfectionism, people-pleasing, control). Habits address the surface; saboteurs address the protective patterns underneath. Use [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] and the [[frameworks/saboteur-catalog|Saboteur Catalog]] for the inner work, then layer the tiny-habits process on top.
+When the underlying pattern is a saboteur (perfectionism, people-pleasing, control). Habits address the surface; saboteurs address the protective patterns underneath. Use [[notice-pause-shift-act|Notice, Pause, Shift, Act]] and the [[saboteur-catalog|Saboteur Catalog]] for the inner work, then layer the tiny-habits process on top.
 
 ## How I use it
 
@@ -150,10 +150,10 @@ When the underlying pattern is a saboteur (perfectionism, people-pleasing, contr
 
 ## Related frameworks
 
-- [[frameworks/habit-loop|Habit Loop]], the underlying behavioural mechanism the seven steps engineer.
-- [[frameworks/gratitude-reset|Gratitude Reset]], a specific small habit that fits the seven-step setup neatly.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that complements the longer-arc habit-building work.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], a body-first practice that installs cleanly through this setup.
+- [[habit-loop|Habit Loop]], the underlying behavioural mechanism the seven steps engineer.
+- [[gratitude-reset|Gratitude Reset]], a specific small habit that fits the seven-step setup neatly.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that complements the longer-arc habit-building work.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], a body-first practice that installs cleanly through this setup.
 
 ---
 

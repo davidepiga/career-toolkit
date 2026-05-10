@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # UNV Programme Reference
 
-*Dimension: [[dimensions/visibility|Visibility]] · Type: Stage*
+*Dimension: [[visibility|Visibility]] · Type: Stage*
 
 A reference page for evaluating the UN Volunteer programme as a deliberate career move. Categories, visible and hidden benefits, application reality, decision steps.
 
@@ -126,7 +126,7 @@ The decision is not "will UNV give me a P-2 next year". The decision is "will UN
 
 ### When not to use it
 
-When the strategic question is actually "should I leave the UN system" rather than "should I take a UNV assignment". UNV is a UN-system move, even when it cuts against your current track. If your honest answer is to exit, this page is not the right tool. The relevant Direction-stage frameworks are [[frameworks/career-mapping|Career Mapping]] and the broader transition material.
+When the strategic question is actually "should I leave the UN system" rather than "should I take a UNV assignment". UNV is a UN-system move, even when it cuts against your current track. If your honest answer is to exit, this page is not the right tool. The relevant Direction-stage frameworks are [[career-mapping|Career Mapping]] and the broader transition material.
 
 When the question is generic ("how do I evaluate fit for any role I am considering"). For that, use the generic fit-evaluation tools. This page is reference content for the UNV-specific case.
 
@@ -140,10 +140,10 @@ This page was originally created as `type: framework` (filename `UNV-as-Career-M
 
 ## Related frameworks
 
-- [[frameworks/career-mapping|Career Mapping]], the upstream gap analysis that helps name the reason for considering UNV.
-- [[frameworks/micromobility-strategies|Micromobility Strategies]], where UNV sits as one of the larger and more formal moves on the menu.
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]], useful for talking to current or former UNVs to test the decision.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that captures UNV experience as the assignment unfolds.
+- [[career-mapping|Career Mapping]], the upstream gap analysis that helps name the reason for considering UNV.
+- [[micromobility-strategies|Micromobility Strategies]], where UNV sits as one of the larger and more formal moves on the menu.
+- [[how-to-approach-a-mentor|How to Approach a Mentor]], useful for talking to current or former UNVs to test the decision.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that captures UNV experience as the assignment unfolds.
 
 ---
 

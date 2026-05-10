@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Five Ws Plus How, Career Scaffold
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 Six question prompts (Who, What, Where, When, Why, How) for breaking career-related analysis paralysis into a finite list of things to find out. The point is not the questions themselves; the point is to get them out of your head and onto paper, so vague anxiety becomes a list you can act on.
 
@@ -45,7 +45,7 @@ The structure is deliberately permissive. Any question that comes to mind goes u
 - When you are stuck on a career question and the loop in your head has stopped producing answers.
 - When you keep saying "I do not know what to do" and want a structured way to surface what you actually do not know.
 - Before a coaching session, a mentor conversation, or a meeting with HR, to bring specific questions rather than generic ones.
-- After running the [[frameworks/intelligent-career-model|Intelligent Career Model]] or [[frameworks/four-loop-alignment|Four-Loop Alignment]] and wanting to convert the diagnosis into a list of next steps.
+- After running the [[intelligent-career-model|Intelligent Career Model]] or [[four-loop-alignment|Four-Loop Alignment]] and wanting to convert the diagnosis into a list of next steps.
 - When supporting a colleague who is overwhelmed and cannot tell what to do next.
 
 ### What you need
@@ -127,16 +127,16 @@ The vague anxiety is now a finite list. She stops looping. She acts.
 - **Producing a long list and not converting to actions.** The exercise has two halves: the surfacing and the conversion. Stopping at the surfacing produces a longer list of things you do not know, which is not the same as a shorter list of things you will do.
 - **Skipping the Who column.** This is the single most common pattern. Most people instinctively go to What and How and never deliberately list Who.
 - **Pre-judging questions as "stupid".** "I should already know this" is the kind of comment that keeps a question off the list and blocks the answer. The unfiltered version is the working material.
-- **Confusing the scaffold with a complete plan.** Five Ws + How is for getting unstuck and for surfacing what you do not know. It is not a strategic plan. Pair with [[frameworks/intelligent-career-model|Intelligent Career Model]] and [[frameworks/four-loop-alignment|Four-Loop Alignment]] for the upstream direction work.
+- **Confusing the scaffold with a complete plan.** Five Ws + How is for getting unstuck and for surfacing what you do not know. It is not a strategic plan. Pair with [[intelligent-career-model|Intelligent Career Model]] and [[four-loop-alignment|Four-Loop Alignment]] for the upstream direction work.
 - **Running it once and not returning.** The list ages. Re-run after each significant action; the questions shift as you learn.
 
 ### When not to use it
 
-When you are in acute distress and the question is not really "what should I do" but "how do I cope with this right now". Run regulation tools first ([[frameworks/body-scan|Body Scan]], [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]]). The scaffold is for clear-headed unsticking, not for acute regulation.
+When you are in acute distress and the question is not really "what should I do" but "how do I cope with this right now". Run regulation tools first ([[body-scan|Body Scan]], [[progressive-muscle-relaxation|Progressive Muscle Relaxation]]). The scaffold is for clear-headed unsticking, not for acute regulation.
 
 When you have a clear direction and a clear plan; the scaffold is for stuck moments, not for execution. If you know what you are doing, the right tool is habit installation for follow-through, not another round of question generation.
 
-When your stuckness is actually about a values question or a meaning question. The scaffold surfaces operational questions; if the underlying issue is "I am not sure what I care about anymore", run the [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] exercise first.
+When your stuckness is actually about a values question or a meaning question. The scaffold surfaces operational questions; if the underlying issue is "I am not sure what I care about anymore", run the [[five-whys-for-purpose|Five Whys for Purpose]] exercise first.
 
 ## How I use it
 
@@ -144,10 +144,10 @@ When your stuckness is actually about a values question or a meaning question. T
 
 ## Related frameworks
 
-- [[frameworks/intelligent-career-model|Intelligent Career Model]], the upstream diagnostic that often surfaces the dimension this scaffold then operationalises.
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]], the alignment exercise that often produces the questions the scaffold then organises.
-- [[frameworks/five-whys-for-purpose|Five Whys for Purpose]], the upstream tool when the stuckness is about meaning rather than operations.
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool for the actions the scaffold surfaces.
+- [[intelligent-career-model|Intelligent Career Model]], the upstream diagnostic that often surfaces the dimension this scaffold then operationalises.
+- [[four-loop-alignment|Four-Loop Alignment]], the alignment exercise that often produces the questions the scaffold then organises.
+- [[five-whys-for-purpose|Five Whys for Purpose]], the upstream tool when the stuckness is about meaning rather than operations.
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool for the actions the scaffold surfaces.
 
 ---
 

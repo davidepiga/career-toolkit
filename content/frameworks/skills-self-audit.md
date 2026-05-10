@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Skills Self-Audit
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A recurring three-bucket review of your skills, Protect, Evolve, Let Go, that catches obsolescence early and keeps career investment pointed at what the market still rewards.
 
@@ -109,10 +109,10 @@ When you are in acute career crisis (sudden non-renewal, restructuring, immediat
 
 ## Related frameworks
 
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance the audit operationalises.
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], how the Protect-bucket skills get expressed on a CV.
-- [[frameworks/capability-frontier|Capability Frontier]], the AI-specific maturity scale that tells you which Evolve moves are adjacent.
-- [[frameworks/reframe-adapt-lead|Reframe, Adapt, Lead]], the growth-mindset frame that contextualises the Evolve bucket.
+- [[skills-first-approach|Skills-First Approach]], the broader stance the audit operationalises.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], how the Protect-bucket skills get expressed on a CV.
+- [[capability-frontier|Capability Frontier]], the AI-specific maturity scale that tells you which Evolve moves are adjacent.
+- [[reframe-adapt-lead|Reframe, Adapt, Lead]], the growth-mindset frame that contextualises the Evolve bucket.
 
 ---
 

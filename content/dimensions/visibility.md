@@ -36,22 +36,22 @@ For someone using this toolkit: if you are stuck because the right opportunities
 
 **Mapping the landscape**
 
-- [[frameworks/career-mapping|Career Mapping]] · the upstream gap analysis
-- [[frameworks/micromobility-strategies|Micromobility Strategies]] · task forces, cross-functional projects, acting roles, shadowing, interagency loans
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
+- [[career-mapping|Career Mapping]] · the upstream gap analysis
+- [[micromobility-strategies|Micromobility Strategies]] · task forces, cross-functional projects, acting roles, shadowing, interagency loans
+- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
 
 **Programme-specific reference**
 
-- [[frameworks/unv-programme-reference|UNV Programme Reference]] · the four on-site categories plus online, the visible and hidden benefits, the application reality (reference)
+- [[unv-programme-reference|UNV Programme Reference]] · the four on-site categories plus online, the visible and hidden benefits, the application reality (reference)
 
 **Networks and weak ties**
 
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]] · the outreach pattern
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]] · access through reciprocity rather than hierarchy
+- [[how-to-approach-a-mentor|How to Approach a Mentor]] · the outreach pattern
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] · access through reciprocity rather than hierarchy
 
 **Skills as a visibility lever**
 
-- [[frameworks/skills-first-approach|Skills-First Approach]] · the data showing skills-matched candidates qualify for far more roles than title-matched candidates
+- [[skills-first-approach|Skills-First Approach]] · the data showing skills-matched candidates qualify for far more roles than title-matched candidates
 
 ## Sessions where Visibility was primary
 
@@ -59,4 +59,4 @@ For someone using this toolkit: if you are stuck because the right opportunities
 
 ## If your situation is closer to
 
-If you can see the opportunities but cannot tell them apart, see [[dimensions/choice|Choice]]. If you see the opportunities clearly but are unsure they match where you want to go, see [[dimensions/direction|Direction]].
+If you can see the opportunities but cannot tell them apart, see [[choice|Choice]]. If you see the opportunities clearly but are unsure they match where you want to go, see [[direction|Direction]].

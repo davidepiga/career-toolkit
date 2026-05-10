@@ -34,40 +34,40 @@ The Capability sessions of IACW 2026 converge on one uncomfortable claim: skills
 
 **Skills-first thinking**
 
-- [[frameworks/skills-first-approach|Skills-First Approach]] · organise around skills, not titles
-- [[frameworks/skills-self-audit|Skills Self-Audit]] · Protect, Evolve, Let Go
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · the writing pattern that makes skills credible
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]] · the three-part rewrite test
+- [[skills-first-approach|Skills-First Approach]] · organise around skills, not titles
+- [[skills-self-audit|Skills Self-Audit]] · Protect, Evolve, Let Go
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · the writing pattern that makes skills credible
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]] · the three-part rewrite test
 
 **Working with AI as a skill**
 
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]] · Intentional Use, Judgment, Transparency, Appropriateness
-- [[frameworks/capability-frontier|Capability Frontier]] · Explorer, Adopter, Practitioner, Builder
-- [[frameworks/four-prompting-principles|Four Prompting Principles]] · context, iteration, calibrated freedom, format
-- [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]] · the four-criterion decision rule
-- [[frameworks/how-to-build-a-career-ai-agent|How to Build a Career AI Agent]] · the field-by-field tutorial
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]] · the toolkit map for application work
+- [[ai-use-as-skill|AI Use as a Skill]] · Intentional Use, Judgment, Transparency, Appropriateness
+- [[capability-frontier|Capability Frontier]] · Explorer, Adopter, Practitioner, Builder
+- [[four-prompting-principles|Four Prompting Principles]] · context, iteration, calibrated freedom, format
+- [[when-to-build-an-ai-agent|When to Build an AI Agent]] · the four-criterion decision rule
+- [[how-to-build-a-career-ai-agent|How to Build a Career AI Agent]] · the field-by-field tutorial
+- [[five-ai-tool-categories|Five AI Tool Categories]] · the toolkit map for application work
 
 **Mentoring as a capability practice**
 
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]] · the outreach pattern
-- [[frameworks/mentoring-conversation-cycle|Seven-Step Mentoring Conversation Cycle]] · the structure
-- [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] · the clarifier (reference)
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]] · the five principles, REAL goals, the five-step plan
-- [[frameworks/on-the-job-learning|On-the-Job Learning]] · the structural practice for handovers and onboarding
+- [[how-to-approach-a-mentor|How to Approach a Mentor]] · the outreach pattern
+- [[mentoring-conversation-cycle|Seven-Step Mentoring Conversation Cycle]] · the structure
+- [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] · the clarifier (reference)
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] · the five principles, REAL goals, the five-step plan
+- [[on-the-job-learning|On-the-Job Learning]] · the structural practice for handovers and onboarding
 
 **Behavioural science layer**
 
-- [[frameworks/com-b-model|COM-B Model]] · diagnose Capability, Opportunity, Motivation before fixing motivation
-- [[frameworks/east-framework|EAST Framework]] · Easy, Attractive, Social, Timely
+- [[com-b-model|COM-B Model]] · diagnose Capability, Opportunity, Motivation before fixing motivation
+- [[east-framework|EAST Framework]] · Easy, Attractive, Social, Timely
 
 **Translation across systems**
 
-- [[frameworks/un-transferable-capabilities|UN-Honed Transferable Capabilities]] · sensemaking in chaos, systems mindset, professional agility under structural change
+- [[un-transferable-capabilities|UN-Honed Transferable Capabilities]] · sensemaking in chaos, systems mindset, professional agility under structural change
 
 **Strengths and direction**
 
-- [[frameworks/strengths-profile|Strengths Profile]] · Realised vs Learned Behaviours vs Unrealised vs Weakness
+- [[strengths-profile|Strengths Profile]] · Realised vs Learned Behaviours vs Unrealised vs Weakness
 
 ## Sessions where Capability was primary
 
@@ -81,4 +81,4 @@ The Capability sessions of IACW 2026 converge on one uncomfortable claim: skills
 
 ## If your situation is closer to
 
-If your skills are clear but the inner state to use them is shaky, see [[dimensions/mindset|Mindset]]. If you have the skills and want to convert them into a specific application, see [[dimensions/pursuit|Pursuit]].
+If your skills are clear but the inner state to use them is shaky, see [[mindset|Mindset]]. If you have the skills and want to convert them into a specific application, see [[pursuit|Pursuit]].

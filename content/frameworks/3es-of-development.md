@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 3 E's of Development
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A three-dimension check on any development plan: Experience (learning by doing), Exposure (learning through others), Education (structured learning, including AI tools and courses). Most plans over-index on Education; the strongest plans run all three.
 
@@ -60,13 +60,13 @@ This is where most actual skill growth happens. Without Experience, Education st
 
 Exposure is the lever most people under-use. It compounds because relationships built around skill development outlast any single learning episode.
 
-**Education: structured learning.** Courses, webinars, AI prompting sessions, books, structured curriculums. Examples: LinkedIn Learning, Coursera, the LinkedIn Learning AI Coach (see [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]]), an internal training programme.
+**Education: structured learning.** Courses, webinars, AI prompting sessions, books, structured curriculums. Examples: LinkedIn Learning, Coursera, the LinkedIn Learning AI Coach (see [[ai-prompting-for-learning|AI Prompting for Learning]]), an internal training programme.
 
 Education has the most impact when paired with the other two dimensions and low-impact when used alone.
 
 ### Steps
 
-1. **Pick the skill.** One specific skill you are trying to develop, drawn from your [[frameworks/skills-self-audit|Skills Self-Audit]] Evolve bucket.
+1. **Pick the skill.** One specific skill you are trying to develop, drawn from your [[skills-self-audit|Skills Self-Audit]] Evolve bucket.
 2. **List your current investments across the three dimensions.** Be honest. Most plans cluster in Education.
 3. **Add at least one specific commitment in each missing dimension.** For Experience: where will you practise this skill in a real context next week? For Exposure: who can you learn from, and what is one specific ask? For Education: what is the single most relevant course or resource for the next 30 days?
 4. **Always pair an Education commitment with an Experience commitment.** When you take a course or run an AI session, immediately ask: "where and with whom will I apply this next week?" If the answer is "I will think about it later", the Education investment will not produce a skill.
@@ -74,11 +74,11 @@ Education has the most impact when paired with the other two dimensions and low-
 
 ### Worked example
 
-A programme officer wants to develop her data-analysis skill, identified as Evolve in her latest [[frameworks/skills-self-audit|Skills Self-Audit]]. She maps the three dimensions:
+A programme officer wants to develop her data-analysis skill, identified as Evolve in her latest [[skills-self-audit|Skills Self-Audit]]. She maps the three dimensions:
 
 - **Experience.** She volunteers to take over the monthly partner-reporting dashboard from a departing colleague, with three months of overlap to learn the system on a real deadline. Practice is structural, not optional.
 - **Exposure.** She identifies a senior data-analysis colleague in the regional office and asks for two 30-minute conversations: one for context-setting and one for a critique of her first dashboard iteration. Plus she joins the agency's monthly data-community-of-practice call.
-- **Education.** Enrols in the LinkedIn Learning Power BI track for the first 30 days, paired with the agency's internal data-literacy course. Uses the [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]] approach to deepen specific topics.
+- **Education.** Enrols in the LinkedIn Learning Power BI track for the first 30 days, paired with the agency's internal data-literacy course. Uses the [[ai-prompting-for-learning|AI Prompting for Learning]] approach to deepen specific topics.
 
 After 90 days, the skill has moved. The Education alone would have produced a certificate; the three dimensions together produced a usable capability.
 
@@ -99,10 +99,10 @@ When the question is not actually about skill development but about a binary dec
 
 ## Related frameworks
 
-- [[frameworks/career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the application sprint that operationalises the three dimensions against a specific vacancy.
-- [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]], the specific tools that make the Education dimension efficient.
-- [[frameworks/skills-self-audit|Skills Self-Audit]], the recurring practice that identifies which skill warrants a 3-E plan.
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance the development plan operationalises.
+- [[career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the application sprint that operationalises the three dimensions against a specific vacancy.
+- [[ai-prompting-for-learning|AI Prompting for Learning]], the specific tools that make the Education dimension efficient.
+- [[skills-self-audit|Skills Self-Audit]], the recurring practice that identifies which skill warrants a 3-E plan.
+- [[skills-first-approach|Skills-First Approach]], the broader stance the development plan operationalises.
 
 ---
 

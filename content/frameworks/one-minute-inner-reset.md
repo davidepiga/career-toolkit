@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # One-Minute Inner Reset
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A five-step body-first sequence for self-regulation in a challenging moment: pause, body scan, label the emotion, box breathing, choose a value-aligned action. Designed to fit into existing transitions (a hallway walk, waiting for coffee, a commute) rather than to compete for new time.
 
@@ -67,7 +67,7 @@ The body is the entry point because emotions register physically before they reg
 
 #### 3. Label the emotion
 
-Use the [[frameworks/feeling-wheel|Feeling Wheel]] formula: *"I am noticing that I am feeling..."* Find the most precise word you can.
+Use the [[feeling-wheel|Feeling Wheel]] formula: *"I am noticing that I am feeling..."* Find the most precise word you can.
 
 Naming with this specific phrasing positions you as the observer of the emotion rather than the embodiment of it. Brain-imaging research shows precise labelling reduces amygdala activity, which is the regulating effect.
 
@@ -109,7 +109,7 @@ A senior staff member has back-to-back meetings from 9am to 5pm with no schedule
 
 The reset takes 70 seconds end to end. The next meeting goes better than the previous three. She runs the reset three more times that day.
 
-After two weeks of consistent practice (paired with the [[frameworks/tiny-habits-setup|Tiny Habits Setup]] for habit formation), the reset becomes automatic; she no longer needs to think about the steps.
+After two weeks of consistent practice (paired with the [[tiny-habits-setup|Tiny Habits Setup]] for habit formation), the reset becomes automatic; she no longer needs to think about the steps.
 
 ### Pitfalls
 
@@ -132,10 +132,10 @@ When the situation calls for immediate action (a safety issue, a fast-moving con
 
 ## Related frameworks
 
-- [[frameworks/hand-model-of-the-brain|Hand Model of the Brain]], the structural model the reset operationalises.
-- [[frameworks/feeling-wheel|Feeling Wheel]], the labelling practice used in step 3.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], a closely related four-step routine that does similar work with a slightly different emphasis (saboteur-naming versus body-first).
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step process for installing the reset as a daily practice.
+- [[hand-model-of-the-brain|Hand Model of the Brain]], the structural model the reset operationalises.
+- [[feeling-wheel|Feeling Wheel]], the labelling practice used in step 3.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], a closely related four-step routine that does similar work with a slightly different emphasis (saboteur-naming versus body-first).
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step process for installing the reset as a daily practice.
 
 ---
 

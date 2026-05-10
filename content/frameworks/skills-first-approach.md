@@ -33,7 +33,7 @@ last_updated: 2026-05-09
 
 # Skills-First Approach
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A career strategy that organises around named skills rather than job titles, and prioritises the skills the labour market is actively rewarding right now.
 
@@ -64,8 +64,8 @@ The implication is structural, not motivational. If you organise your career aro
 ### Steps
 
 1. **List your skills explicitly.** Not in your head; on paper or in a CV section. Include technical skills, domain knowledge, and human skills (leadership, communication, negotiation, facilitation, coaching).
-2. **Show skills in use.** When writing a CV bullet, follow the [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]]: "Because of skill X, I delivered Y in Z context." This is what makes the CV recognisable to skills-based recruiters.
-3. **Audit and decide what to keep, evolve, or drop.** Use the [[frameworks/skills-self-audit|Skills Self-Audit]] at least every 12 months. Skills age; the audit catches obsolescence early.
+2. **Show skills in use.** When writing a CV bullet, follow the [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]]: "Because of skill X, I delivered Y in Z context." This is what makes the CV recognisable to skills-based recruiters.
+3. **Audit and decide what to keep, evolve, or drop.** Use the [[skills-self-audit|Skills Self-Audit]] at least every 12 months. Skills age; the audit catches obsolescence early.
 4. **Stack adjacent skills deliberately.** A single career today is becoming a portfolio of careers, and a portfolio of careers requires a portfolio of skills. When investing in learning time, choose skills that compound with what you already have rather than orthogonal ones.
 5. **Show your skills on LinkedIn.** Recruiters increasingly use the skills section as a signal, especially when titles do not match. The LinkedIn Skills Signal Report 2025 confirms that workers who add skills to their profiles, especially disruptive tech and people skills, find jobs faster.
 
@@ -117,22 +117,22 @@ A UN programme officer with twelve years of experience, currently a P-3 speciali
 - **New presentation, skills-first.**
   - Headline: "Programme management and behavioural change in WASH and adjacent public-health contexts. M&E, partner negotiation, results-based management."
   - Skills section, populated with 25 named skills across three buckets: technical (WASH design, M&E, results-based management, donor reporting, risk frameworks), domain (public health, gender mainstreaming, climate adaptation), human (multilingual stakeholder negotiation, team facilitation, cross-cultural project leadership).
-  - Three CV bullets rewritten using the [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], each opening with a specific skill applied to a measurable outcome.
+  - Three CV bullets rewritten using the [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], each opening with a specific skill applied to a measurable outcome.
   - Two skills she had not surfaced: green skills (sustainable water systems) and AI implementation (built a Power BI dashboard for partner reporting).
 
 The job-search funnel changed. Recruiters reaching out about adjacent climate-adaptation, gender-and-public-health, and INGO programme-management roles, none of which her old title-anchored profile was surfacing.
 
 ### Pitfalls
 
-- **Listing skills without evidence.** A skills section on a CV is just a list until each skill maps to a worked achievement. Use [[frameworks/basic-achievement-bank|BASIC]] entries to keep the evidence retrievable.
+- **Listing skills without evidence.** A skills section on a CV is just a list until each skill maps to a worked achievement. Use [[basic-achievement-bank|BASIC]] entries to keep the evidence retrievable.
 - **Padding the skills list with claims you cannot back up.** Recruiters will ask. Better fewer, well-supported skills than many thin ones.
-- **Treating "skills-first" as a one-off update.** The list ages. Run the [[frameworks/skills-self-audit|Skills Self-Audit]] at least annually.
+- **Treating "skills-first" as a one-off update.** The list ages. Run the [[skills-self-audit|Skills Self-Audit]] at least annually.
 - **Confusing skills-first with abandoning your specialism.** Specialism is a stack of skills, not the absence of one. The point is to articulate the stack, not to dilute it.
 - **Ignoring human skills.** AI is making them more valuable, not less. The most marketable professionals are the ones bridging technical and human capabilities.
 
 ### When not to use it
 
-When you are applying inside a UN system that still requires title-anchored CVs and exact-language matching to vacancy notices. In those contexts, build the skills-first profile externally (LinkedIn, your own narrative), but on the application itself, mirror the JD's language and use the [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]]. The session was explicit that internal UN recruitment systems are still behind on skills-based hiring; the workaround is storytelling that fits within the existing forms.
+When you are applying inside a UN system that still requires title-anchored CVs and exact-language matching to vacancy notices. In those contexts, build the skills-first profile externally (LinkedIn, your own narrative), but on the application itself, mirror the JD's language and use the [[jd-vs-profile-comparison|JD vs Profile Comparison]]. The session was explicit that internal UN recruitment systems are still behind on skills-based hiring; the workaround is storytelling that fits within the existing forms.
 
 ### A note on the source
 
@@ -144,11 +144,11 @@ The data points come from Mirek Pospisil's LinkedIn presentation. The storytelli
 
 ## Related frameworks
 
-- [[frameworks/skills-self-audit|Skills Self-Audit]], the recurring practice that keeps the skills list current.
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing structure for skills-first CV bullets.
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]], the rewrite formula for AI-screened applications.
-- [[frameworks/capability-frontier|Capability Frontier]], the AI-specific maturity scale that tells you where to focus the inflating-side investment.
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]], the four-signal framework for the AI dimension of skills-first practice.
+- [[skills-self-audit|Skills Self-Audit]], the recurring practice that keeps the skills list current.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing structure for skills-first CV bullets.
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]], the rewrite formula for AI-screened applications.
+- [[capability-frontier|Capability Frontier]], the AI-specific maturity scale that tells you where to focus the inflating-side investment.
+- [[ai-use-as-skill|AI Use as a Skill]], the four-signal framework for the AI dimension of skills-first practice.
 
 ---
 

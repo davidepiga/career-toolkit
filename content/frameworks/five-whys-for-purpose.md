@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Five Whys for Purpose
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A recursive questioning sequence: start with "Why do you get out of bed every morning?" and ask "why" four more times. By the third or fourth iteration, you stop giving surface answers and arrive at values, energy sources, and the impact you want to make. From the answers, craft a personal purpose statement.
 
@@ -73,7 +73,7 @@ Three rules for crafting the statement:
 - **Connected to your values, not your job.** The statement should outlast a specific role. If it would have to be rewritten the moment your job changes, it is too task-bound.
 - **Short enough to return to on bad days.** One or two sentences. The function of the statement is to be the anchor when energy is low and the path is unclear.
 
-The personal purpose statement is the output that connects this exercise to the broader Knowing Why dimension of the [[frameworks/intelligent-career-model|Intelligent Career Model]].
+The personal purpose statement is the output that connects this exercise to the broader Knowing Why dimension of the [[intelligent-career-model|Intelligent Career Model]].
 
 ### Steps
 
@@ -83,7 +83,7 @@ The personal purpose statement is the output that connects this exercise to the 
 4. **Look at the fourth and fifth answers.** That is usually where the purpose lives.
 5. **Draft the personal purpose statement.** One or two sentences. Plain language. Connected to values.
 6. **Test it for a week.** Read it on Monday morning. Ask: does this still match what is pulling me? If yes, keep. If no, redraft.
-7. **Return to it during difficulty.** The statement is the anchor for the [[frameworks/william-bridges-transitional-model|William Bridges]] low point and for the recovery side of any difficult period.
+7. **Return to it during difficulty.** The statement is the anchor for the [[william-bridges-transitional-model|William Bridges]] low point and for the recovery side of any difficult period.
 
 ### Worked example
 
@@ -116,7 +116,7 @@ The statement is short, in plain language, connected to a value (agency), and wo
 
 ### When not to use it
 
-When you are in acute distress. The exercise requires enough psychological space to sit with discomfort. If you are mid-crisis, run regulation tools first ([[frameworks/body-scan|Body Scan]], [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]]) and locate yourself on the [[frameworks/william-bridges-transitional-model|William Bridges]] curve.
+When you are in acute distress. The exercise requires enough psychological space to sit with discomfort. If you are mid-crisis, run regulation tools first ([[body-scan|Body Scan]], [[progressive-muscle-relaxation|Progressive Muscle Relaxation]]) and locate yourself on the [[william-bridges-transitional-model|William Bridges]] curve.
 
 When you have just produced a purpose statement that fits and someone is asking you to "go deeper". The exercise has diminishing returns past the first useful version. Re-run quarterly, not weekly.
 
@@ -128,10 +128,10 @@ When the question you are facing is operational rather than directional ("which 
 
 ## Related frameworks
 
-- [[frameworks/intelligent-career-model|Intelligent Career Model]], the parent diagnostic in which the personal purpose statement is the output of the Knowing Why dimension.
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]], the personal-vs-organisation alignment exercise that uses the personal purpose statement as one of the four inputs.
-- [[frameworks/schmidt-attention-shift|Schmidt's Attention Shift]], the recovery-side reflection that pairs with the personal purpose statement during difficult periods.
-- [[frameworks/five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the operational scaffold that converts the purpose statement into next steps.
+- [[intelligent-career-model|Intelligent Career Model]], the parent diagnostic in which the personal purpose statement is the output of the Knowing Why dimension.
+- [[four-loop-alignment|Four-Loop Alignment]], the personal-vs-organisation alignment exercise that uses the personal purpose statement as one of the four inputs.
+- [[schmidt-attention-shift|Schmidt's Attention Shift]], the recovery-side reflection that pairs with the personal purpose statement during difficult periods.
+- [[five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the operational scaffold that converts the purpose statement into next steps.
 
 ---
 

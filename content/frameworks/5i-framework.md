@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 5i Framework
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A five-dimension coaching framework for making informed career decisions: Identify values, set Intentional goals, take Inventory of skills, plan Investment, name Inhibitors.
 
@@ -70,7 +70,7 @@ The starting point. Good career decisions begin with what matters to you right n
 
 Goals turn values into direction. Without them, the values stay abstract.
 
-*The work.* Set one or two career goals using [[frameworks/smarteer-goals|SMARTEER Goals]], the version of SMART that adds Enjoyable, Evaluate, and Reward. The additions are not decoration; they are what makes the goal sustainable.
+*The work.* Set one or two career goals using [[smarteer-goals|SMARTEER Goals]], the version of SMART that adds Enjoyable, Evaluate, and Reward. The additions are not decoration; they are what makes the goal sustainable.
 
 *Output.* One concrete goal, time-bound, energising, with checkpoints and milestones planned.
 
@@ -82,11 +82,11 @@ Where are you starting from. Honest assessment, not aspiration.
 
 - **Skills:** specific learned abilities (writing, negotiation, planning, M&E, project management).
 - **Competencies:** higher-order capabilities needed to do a job well (strategic leadership, analytical thinking, problem-solving).
-- **Strengths:** behaviours others associate with you, that you also enjoy and want to build on. See [[frameworks/strengths-profile|Strengths Profile]] for the full diagnostic.
+- **Strengths:** behaviours others associate with you, that you also enjoy and want to build on. See [[strengths-profile|Strengths Profile]] for the full diagnostic.
 
-*Tools.* Performance evaluations across multiple cycles are an underused source. Look for what was consistently rated high and what was flagged as a gap. Plus: ask people in roles you aspire to what it actually takes to succeed there. The [[frameworks/skill-matrix-audit|Skill Matrix Audit]] is the operational artefact for this dimension.
+*Tools.* Performance evaluations across multiple cycles are an underused source. Look for what was consistently rated high and what was flagged as a gap. Plus: ask people in roles you aspire to what it actually takes to succeed there. The [[skill-matrix-audit|Skill Matrix Audit]] is the operational artefact for this dimension.
 
-*Output.* A list of Realised Strengths to deploy, Unrealised Strengths to activate (use the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]]), and skill gaps to close.
+*Output.* A list of Realised Strengths to deploy, Unrealised Strengths to activate (use the [[silent-coaching-sequence|Silent Coaching Sequence]]), and skill gaps to close.
 
 #### 4. Investment (learning)
 
@@ -117,8 +117,8 @@ The dimension most plans skip. A plan that ignores your real barriers will frust
 A mid-career programme officer runs the framework after two years feeling stuck.
 
 - **Identify.** Sorts the 24 work values via the Card Sort. Top three: helping others, solving complex problems, working in teams. Explicit trade-off: she is willing to accept less financial reward for more meaningful work, but not less work-life balance.
-- **Intentional.** Sets one [[frameworks/smarteer-goals|SMARTEER]] goal: "Over the next 12 months, transition into a programme role with stronger field exposure, ideally in food security or climate adaptation, while keeping the same agency. Enjoyable: I value direct programme contact more than HQ-level coordination. Evaluate: a quarterly check-in with my mentor and a six-month assessment against the role market. Reward: each milestone marked with a deliberate weekend off."
-- **Inventory.** Strengths from [[frameworks/strengths-profile|Strengths Profile]]: partnership negotiation (realised), stakeholder facilitation (realised), coaching juniors (unrealised). Skills audit using the [[frameworks/skill-matrix-audit|Skill Matrix Audit]]: strong on programme management and donor reporting; weaker on M&E and on field-level operational planning. Performance reviews confirm both.
+- **Intentional.** Sets one [[smarteer-goals|SMARTEER]] goal: "Over the next 12 months, transition into a programme role with stronger field exposure, ideally in food security or climate adaptation, while keeping the same agency. Enjoyable: I value direct programme contact more than HQ-level coordination. Evaluate: a quarterly check-in with my mentor and a six-month assessment against the role market. Reward: each milestone marked with a deliberate weekend off."
+- **Inventory.** Strengths from [[strengths-profile|Strengths Profile]]: partnership negotiation (realised), stakeholder facilitation (realised), coaching juniors (unrealised). Skills audit using the [[skill-matrix-audit|Skill Matrix Audit]]: strong on programme management and donor reporting; weaker on M&E and on field-level operational planning. Performance reviews confirm both.
 - **Investment.** Plan: enrol in a structured M&E course on Coursera (Education); volunteer to support the agency's field assessment in Q2 (Experience); ask for a 30-minute mentoring conversation per month with the regional director (Exposure). Total time investment: 4 to 6 hours a week.
 - **Inhibitors.** Family situation supports a six-month international move in late 2026 but not earlier. Current contract runs to end of 2026. Hiring freeze in some target offices. Outer-ring concern: a possible restructuring of the unit. Inner-ring action: keep CV updated and peer network warm.
 
@@ -151,7 +151,7 @@ When you are in acute crisis (recent non-renewal, immediate financial pressure, 
 
 When you have just finished a comparable framework (Career Mapping, a recent strengths workshop, a structured coaching programme). Avoid framework fatigue; consolidate the existing work first.
 
-When the decision is small and tactical (a single project to take on, a single course to enrol in). The framework is heavy machinery for direction-level decisions; for tactical ones, a simple [[frameworks/career-conversation-playbook|Career Conversation Playbook]] is faster.
+When the decision is small and tactical (a single project to take on, a single course to enrol in). The framework is heavy machinery for direction-level decisions; for tactical ones, a simple [[career-conversation-playbook|Career Conversation Playbook]] is faster.
 
 ## How I use it
 
@@ -159,10 +159,10 @@ When the decision is small and tactical (a single project to take on, a single c
 
 ## Related frameworks
 
-- [[frameworks/smarteer-goals|SMARTEER Goals]], the structure for the Intentional dimension.
-- [[frameworks/strengths-profile|Strengths Profile]], the diagnostic for the Inventory dimension.
-- [[frameworks/skill-matrix-audit|Skill Matrix Audit]], the operational artefact for the Inventory dimension.
-- [[frameworks/silent-coaching-for-goals|Silent Coaching for Goals]], the protocol that turns one Intentional goal into a committed first action.
+- [[smarteer-goals|SMARTEER Goals]], the structure for the Intentional dimension.
+- [[strengths-profile|Strengths Profile]], the diagnostic for the Inventory dimension.
+- [[skill-matrix-audit|Skill Matrix Audit]], the operational artefact for the Inventory dimension.
+- [[silent-coaching-for-goals|Silent Coaching for Goals]], the protocol that turns one Intentional goal into a committed first action.
 
 ---
 

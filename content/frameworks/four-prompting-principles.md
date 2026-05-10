@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Four Prompting Principles
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 Four dimensions for structuring any prompt to a general-purpose AI assistant: give context, iterate, calibrate the freedom you give the model, and specify the output format.
 
@@ -42,7 +42,7 @@ The principles work for one-off chats and for the instructions you write inside 
 ### When to use it
 
 - Whenever you sit down to ask an AI assistant something that matters.
-- When you are writing the instructions field of a custom AI agent (see [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]] and [[frameworks/how-to-build-a-career-ai-agent|How to Build a Career AI Agent]]).
+- When you are writing the instructions field of a custom AI agent (see [[when-to-build-an-ai-agent|When to Build an AI Agent]] and [[how-to-build-a-career-ai-agent|How to Build a Career AI Agent]]).
 - When you have used AI before but the outputs feel generic and you want to find out why.
 
 ### What you need
@@ -128,10 +128,10 @@ When the task is sensitive enough that no AI involvement is appropriate (confide
 
 ## Related frameworks
 
-- [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]], Tom Frohner's three principles for the specific case of learning support, which complement the broader four here.
-- [[frameworks/career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the career-specific application of structured prompting.
-- [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]], the decision criterion for whether to embed these principles into a reusable agent.
-- [[frameworks/how-to-build-a-career-ai-agent|How to Build a Career AI Agent]], the tutorial structure that uses the principles in the instructions field.
+- [[ai-prompting-for-learning|AI Prompting for Learning]], Tom Frohner's three principles for the specific case of learning support, which complement the broader four here.
+- [[career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the career-specific application of structured prompting.
+- [[when-to-build-an-ai-agent|When to Build an AI Agent]], the decision criterion for whether to embed these principles into a reusable agent.
+- [[how-to-build-a-career-ai-agent|How to Build a Career AI Agent]], the tutorial structure that uses the principles in the instructions field.
 
 ---
 

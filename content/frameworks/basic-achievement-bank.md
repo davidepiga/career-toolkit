@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # BASIC Achievement Bank
 
-*Dimension: [[dimensions/presence|Presence]] · Type: Stage*
+*Dimension: [[presence|Presence]] · Type: Stage*
 
 A five-field structure for documenting one professional achievement so it can be reused across CVs, cover letters, and interview answers.
 
@@ -95,7 +95,7 @@ When tailoring this entry to a specific JD, the bank stays as is. Only the frami
 - **Quantifying the wrong thing.** Numbers must point to the impact, not the activity. "Trained 12 enumerators" is an action, not an impact. "92% data completeness" is the impact.
 - **Forgetting to update.** A bank you wrote two years ago is not a bank, it is a fossil. Add to it when an achievement is fresh, not when you need it.
 - **Copy-pasting the same entry into every application without re-mapping the Competencies field.** The B-A-S-I are stable across uses; the C should be re-tuned to the language of each target organisation.
-- **Treating BASIC as the application itself.** It is the raw material. The cover letter or interview answer is the finished product (see [[frameworks/r-car|R-CAR]]).
+- **Treating BASIC as the application itself.** It is the raw material. The cover letter or interview answer is the finished product (see [[r-car|R-CAR]]).
 
 ### When not to use it
 
@@ -107,10 +107,10 @@ When the achievement is so recent that the impact has not landed. Wait until you
 
 ## Related frameworks
 
-- [[frameworks/r-car|R-CAR]], the structure for turning a BASIC entry into a CV bullet or a cover-letter sentence.
-- [[frameworks/third-eye-principle|Third Eye Principle]], the review pass before you submit.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the rule for deciding whether a role is worth a tailored BASIC mapping.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], where the bank entries get matched to specific JD requirements.
+- [[r-car|R-CAR]], the structure for turning a BASIC entry into a CV bullet or a cover-letter sentence.
+- [[third-eye-principle|Third Eye Principle]], the review pass before you submit.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the rule for deciding whether a role is worth a tailored BASIC mapping.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], where the bank entries get matched to specific JD requirements.
 
 ---
 

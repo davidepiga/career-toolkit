@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # William Bridges Transitional Model
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A two-track model that separates the external change you do not control from the internal transition that follows: denial, anxiety and shock, low point, gradual upgrade. Locating yourself on the inner curve normalises the dip.
 
@@ -89,7 +89,7 @@ Spotting the reaction is the precondition for choosing what to do next, both for
 2. **Locate yourself on the inner curve.** Denial, anxiety/shock, low point, upgrade. If unsure between two stages, place yourself at the earlier one.
 3. **Match the stage to the right move.** Denial wants information and time. Anxiety wants containment and support. The low point wants rest and basic regulation. The upgrade wants small concrete steps.
 4. **Check in weekly.** A short weekly note ("where am I now, what does this stage need") is enough.
-5. **Pair with [[frameworks/accurate-thinking|Accurate Thinking]]** for the haunting thoughts that show up at each stage, and with the [[frameworks/circle-of-control|Circle of Control]] for the agency question.
+5. **Pair with [[accurate-thinking|Accurate Thinking]]** for the haunting thoughts that show up at each stage, and with the [[circle-of-control|Circle of Control]] for the agency question.
 6. **Watch for the warning signs that self-help is no longer enough.** The model normalises the dip; it does not replace professional support.
 
 ### Worked example
@@ -100,7 +100,7 @@ A staff member learns in November 2026 that her project will close at the end of
 - *Week 1, locate.* Denial. "This cannot be right; we have funding commitments through 2028." Action: re-read the closure note; speak to her manager; ask for clarification rather than starting to plan an exit.
 - *Week 3, locate.* Anxiety and shock. Sleep disrupted; conflict with a colleague over a small issue; difficulty focusing. Action: pulls back from major decisions; books two sessions with the staff counsellor; tells one trusted colleague.
 - *Week 7, locate.* Low point. Physical symptoms, low energy, doubts about her competence. Action: deliberately reduces ambition for the week, focuses on rest and basic regulation. Does not draft a CV at this stage.
-- *Week 10, locate.* Upgrade beginning. A small idea about a parallel role surfaces. Action: starts the JD Colour-Coded Breakdown on two specific roles. Begins building a small portfolio of evidence using the [[frameworks/basic-achievement-bank|BASIC Achievement Bank]]. Re-engages with her network.
+- *Week 10, locate.* Upgrade beginning. A small idea about a parallel role surfaces. Action: starts the JD Colour-Coded Breakdown on two specific roles. Begins building a small portfolio of evidence using the [[basic-achievement-bank|BASIC Achievement Bank]]. Re-engages with her network.
 
 The change has not changed. The transition has moved. Her actions match the stage. Without the model, she would have started drafting CVs in week 3 (when she had no energy to do them well) and stalled in week 10 (when she was finally ready).
 
@@ -138,10 +138,10 @@ When you are supporting someone in acute crisis. The model is for steady-state s
 
 ## Related frameworks
 
-- [[frameworks/accurate-thinking|Accurate Thinking]], the CBT method for the haunting thoughts that show up at each stage.
-- [[frameworks/circle-of-control|Circle of Control]], the agency question at each stage of the curve.
-- [[frameworks/schmidt-attention-shift|Schmidt's Attention Shift]], the move that shortens the recovery side of the curve.
-- [[frameworks/body-scan|Body Scan]] and [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]], the body-based tools for the anxiety and low-point stages.
+- [[accurate-thinking|Accurate Thinking]], the CBT method for the haunting thoughts that show up at each stage.
+- [[circle-of-control|Circle of Control]], the agency question at each stage of the curve.
+- [[schmidt-attention-shift|Schmidt's Attention Shift]], the move that shortens the recovery side of the curve.
+- [[body-scan|Body Scan]] and [[progressive-muscle-relaxation|Progressive Muscle Relaxation]], the body-based tools for the anxiety and low-point stages.
 
 ---
 

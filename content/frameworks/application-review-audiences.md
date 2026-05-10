@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Application Review Audiences
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-stage map of who actually reads your application after you submit it: an AI or system screen, a recruiter, a hiring manager, and a selection panel. Each stage has a different lens. Writing for one audience without considering the others is a common reason strong candidates fall short.
 
@@ -83,7 +83,7 @@ The implication: build patience into the timeline. Even after a successful panel
     - *Stage 3:* Have I connected my experience to this role's objectives, not just listed it?
     - *Stage 4:* Are my CV bullets specific and measurable rather than generic?
 3. **Fix the weakest stage first.** If the application is strong for the panel but weak for the recruiter, it never reaches the panel.
-4. **Pair with the [[frameworks/third-eye-principle|Third Eye Principle]].**
+4. **Pair with the [[third-eye-principle|Third Eye Principle]].**
 
 ### Pitfalls
 
@@ -104,11 +104,11 @@ When the application is to a system that is genuinely human-read end-to-end. Whe
 
 ## Related frameworks
 
-- [[frameworks/third-eye-principle|Third Eye Principle]], the three-layer review pass that complements this audience-focused review.
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing structure that produces panel-recognisable bullets.
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]], the toolkit for the system-screen and polishing stages.
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the upstream tools that surface what the role requires.
-- [[frameworks/evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]], the recruiter-side check on whether polished output still has substance.
+- [[third-eye-principle|Third Eye Principle]], the three-layer review pass that complements this audience-focused review.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing structure that produces panel-recognisable bullets.
+- [[five-ai-tool-categories|Five AI Tool Categories]], the toolkit for the system-screen and polishing stages.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[jd-vs-profile-comparison|JD vs Profile Comparison]], the upstream tools that surface what the role requires.
+- [[evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]], the recruiter-side check on whether polished output still has substance.
 
 ---
 

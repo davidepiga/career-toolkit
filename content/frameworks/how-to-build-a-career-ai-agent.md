@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # How to Build a Career AI Agent
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A field-by-field walkthrough for setting up a custom AI agent for a recurring career-development task. Works on ChatGPT, Copilot, Gemini, and similar platforms with minor variations. Most of the work happens in the instructions field, not anywhere else.
 
@@ -42,7 +42,7 @@ The build flow is the same across platforms, with minor naming differences. The 
 
 ### When to use it
 
-- After you have decided to build an agent using the [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]] criteria.
+- After you have decided to build an agent using the [[when-to-build-an-ai-agent|When to Build an AI Agent]] criteria.
 - When you have built one agent and want a structured way to build the next.
 - When you are training someone else to build agents.
 
@@ -100,7 +100,7 @@ For a career-reflection agent, web search is often useful (current job-market co
 ### Steps
 
 1. **Name the use case.** One sentence. Specific.
-2. **Run the [[frameworks/four-prompting-principles|Four Prompting Principles]] on the use case.** What context does the agent need? What freedom level? What format? Iterate now, before opening the agent builder.
+2. **Run the [[four-prompting-principles|Four Prompting Principles]] on the use case.** What context does the agent need? What freedom level? What format? Iterate now, before opening the agent builder.
 3. **Open the agent builder on your chosen platform.**
 4. **Fill in name, description, and instructions.** Most of the time goes into instructions.
 5. **Add 3 to 5 conversation starters.** Keep them short.
@@ -138,7 +138,7 @@ The build takes about 12 minutes once the instructions are pre-drafted. Most of 
 
 ### When not to use it
 
-When the use case is one-off; the [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]] criteria failed. Build a saved chat prompt instead.
+When the use case is one-off; the [[when-to-build-an-ai-agent|When to Build an AI Agent]] criteria failed. Build a saved chat prompt instead.
 
 When the agent is going to handle truly sensitive material (personnel decisions, performance dispute documentation, confidential investigations). Use organisation-approved enterprise tools with verified data handling, not consumer agents.
 
@@ -148,10 +148,10 @@ When the agent is going to handle truly sensitive material (personnel decisions,
 
 ## Related frameworks
 
-- [[frameworks/when-to-build-an-ai-agent|When to Build an AI Agent]], the upstream decision for whether to build at all.
-- [[frameworks/four-prompting-principles|Four Prompting Principles]], the principles that go inside the instructions field.
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]], the taxonomy of where custom agents fit in the broader AI stack.
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]], the four signals that the agent's outputs should also satisfy.
+- [[when-to-build-an-ai-agent|When to Build an AI Agent]], the upstream decision for whether to build at all.
+- [[four-prompting-principles|Four Prompting Principles]], the principles that go inside the instructions field.
+- [[five-ai-tool-categories|Five AI Tool Categories]], the taxonomy of where custom agents fit in the broader AI stack.
+- [[ai-use-as-skill|AI Use as a Skill]], the four signals that the agent's outputs should also satisfy.
 
 ---
 

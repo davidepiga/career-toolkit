@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Saboteur Catalog
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A reference for the ten saboteur patterns from the Positive Intelligence framework: one master saboteur (the Judge) plus nine accomplices, each with an inner-voice signature and a specific counter-move.
 
@@ -39,7 +39,7 @@ Introduced collectively by Mirka Packard (IMO), Lucia Carrera (WFP), and Katarin
 
 ## The catalog
 
-This page is the lookup table for step one of [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]]. It is a reference, not a sequence: read the entry that matches what is talking, apply the counter-move, return.
+This page is the lookup table for step one of [[notice-pause-shift-act|Notice, Pause, Shift, Act]]. It is a reference, not a sequence: read the entry that matches what is talking, apply the counter-move, return.
 
 ### When to use it
 
@@ -75,7 +75,7 @@ Everyone has the Judge. Most people have two or three dominant accomplice sabote
 
 *Career impact.* Over-managing collaborators, refusing delegation, micromanaging deliverables that other people own. Builds up resentment in teams; bottlenecks growth opportunities for others.
 
-*Counter-move.* List what is realistically within your control versus what is not. Practise small acts of delegation on low-risk tasks and observe the outcome. Pair with the [[frameworks/circle-of-control|Circle of Control]].
+*Counter-move.* List what is realistically within your control versus what is not. Practise small acts of delegation on low-risk tasks and observe the outcome. Pair with the [[circle-of-control|Circle of Control]].
 
 #### The Hyperachiever
 
@@ -123,7 +123,7 @@ Everyone has the Judge. Most people have two or three dominant accomplice sabote
 
 *Career impact.* Will not apply for roles where you do not tick every box. Polishes documents past returns. Procrastinates by perfectionism. Closes doors that did not need to close.
 
-*Counter-move.* Adopt the [[frameworks/20-80-bucket-system|20/80 Bucket System]]: pre-decide which tasks deserve 110% and which are good-enough. Set version limits ("I will stop at version 1.0"). Try sharing something unfinished with a trusted reader. For applications, use the [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]].
+*Counter-move.* Adopt the [[20-80-bucket-system|20/80 Bucket System]]: pre-decide which tasks deserve 110% and which are good-enough. Set version limits ("I will stop at version 1.0"). Try sharing something unfinished with a trusted reader. For applications, use the [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]].
 
 #### The Victim
 
@@ -131,7 +131,7 @@ Everyone has the Judge. Most people have two or three dominant accomplice sabote
 
 *Career impact.* Reduces sense of agency, narrates a story in which the system is fully at fault, makes constructive moves feel pointless. The risk is that the narrative becomes self-fulfilling.
 
-*Counter-move.* Reclaim agency through language: shift internal phrasing from *"I have to"* to *"I choose to"*. Use the [[frameworks/circle-of-control|Circle of Control]] to redirect energy from outer-circle concerns to inner-circle actions. The Victim deserves empathy; this is genuinely painful. The work is gentle and incremental.
+*Counter-move.* Reclaim agency through language: shift internal phrasing from *"I have to"* to *"I choose to"*. Use the [[circle-of-control|Circle of Control]] to redirect energy from outer-circle concerns to inner-circle actions. The Victim deserves empathy; this is genuinely painful. The work is gentle and incremental.
 
 ### Pitfalls in using the catalog
 
@@ -150,10 +150,10 @@ The ten saboteurs and their inner-voice patterns come directly from the Positive
 
 ## Related frameworks
 
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the universal routine that uses this catalog as its lookup table for step one.
-- [[frameworks/20-80-bucket-system|20/80 Bucket System]], the Stickler counter-move expanded into a triage rule.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the Stickler counter-move applied to job-application decisions.
-- [[frameworks/circle-of-control|Circle of Control]], useful with the Controller, Hypervigilant, and Victim patterns.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the universal routine that uses this catalog as its lookup table for step one.
+- [[20-80-bucket-system|20/80 Bucket System]], the Stickler counter-move expanded into a triage rule.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the Stickler counter-move applied to job-application decisions.
+- [[circle-of-control|Circle of Control]], useful with the Controller, Hypervigilant, and Victim patterns.
 
 ---
 

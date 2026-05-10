@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Four-Loop Alignment
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A diagram exercise that puts your personal Values, Purpose, Motivation, and Impact alongside your organisation's, and looks for the intersection points. You will not align on all four. The point is to find the connections you do have and to lean on them deliberately.
 
@@ -50,13 +50,13 @@ Draw four pairs of overlapping circles, one pair per dimension. On the left, you
 
 ### What you need
 
-The output of the [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] exercise (your personal purpose statement) and a brief reflection on your values, motivators, and the impact you want to make. Your organisation's vision, mission, and values, plus your team's or unit's stated objectives. 30 to 45 minutes for the first pass.
+The output of the [[five-whys-for-purpose|Five Whys for Purpose]] exercise (your personal purpose statement) and a brief reflection on your values, motivators, and the impact you want to make. Your organisation's vision, mission, and values, plus your team's or unit's stated objectives. 30 to 45 minutes for the first pass.
 
 ### The four loops
 
 **1. Values.** Your personal values: what you care about, what you would not compromise on, what feels non-negotiable. Values typically stabilise around late teens or early twenties and rarely shift across a lifetime. The organisation's values: usually three to five published statements (integrity, professionalism, respect for diversity in the UN system; specific values vary by agency). The connection point: where do your stated values intersect with the organisation's? "Learning" intersects with "innovation". "Service" intersects with "accountability to people we serve". The intersection is the basis for sustained engagement.
 
-**2. Purpose.** Your personal purpose statement (the output of the [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] exercise). The organisation's purpose, often expressed as a vision or mission statement. For the UN as a whole, peace, dignity, and equality on a healthy planet. For each agency, more specific. The connection point: where does your purpose meet the organisation's?
+**2. Purpose.** Your personal purpose statement (the output of the [[five-whys-for-purpose|Five Whys for Purpose]] exercise). The organisation's purpose, often expressed as a vision or mission statement. For the UN as a whole, peace, dignity, and equality on a healthy planet. For each agency, more specific. The connection point: where does your purpose meet the organisation's?
 
 **3. Motivation.** What gets you moving. Specific motivators that vary by person: structure and order, autonomy, intellectual challenge, recognition, creativity, the chance to learn, working with specific kinds of people, geographical exposure. The organisation's motivational framing: how the organisation describes what it expects from its people and what it provides in return. The connection point: an individual motivator (being organised) meets an organisational expectation (timely delivery). A motivator (creativity) meets an expectation (continuous improvement).
 
@@ -121,7 +121,7 @@ She runs the cascade as a check. The vision cascades to the agency's mission, to
 
 ### When not to use it
 
-When you have just had a difficult period and are still recovering. The four loops surface gaps; recovery surfaces sensitivity to gaps. Run regulation tools and the [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]] check first.
+When you have just had a difficult period and are still recovering. The four loops surface gaps; recovery surfaces sensitivity to gaps. Run regulation tools and the [[william-bridges-transitional-model|William Bridges Transitional Model]] check first.
 
 When the role you are in is genuinely a transit role. The exercise is for roles with enough duration that designing the connection points is worth the time.
 
@@ -133,10 +133,10 @@ When the organisation has just announced a major restructure and the published v
 
 ## Related frameworks
 
-- [[frameworks/intelligent-career-model|Intelligent Career Model]], the upstream three-question diagnostic that produces the personal inputs to the alignment.
-- [[frameworks/five-whys-for-purpose|Five Whys for Purpose]], the technique that produces the personal purpose statement used in the Purpose loop.
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool that operationalises the alignment into daily work.
-- [[frameworks/engagement-performance-matrix|Engagement-Performance Matrix]], the project-level diagnostic that complements the alignment when the engagement question is acute.
+- [[intelligent-career-model|Intelligent Career Model]], the upstream three-question diagnostic that produces the personal inputs to the alignment.
+- [[five-whys-for-purpose|Five Whys for Purpose]], the technique that produces the personal purpose statement used in the Purpose loop.
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool that operationalises the alignment into daily work.
+- [[engagement-performance-matrix|Engagement-Performance Matrix]], the project-level diagnostic that complements the alignment when the engagement question is acute.
 
 ---
 

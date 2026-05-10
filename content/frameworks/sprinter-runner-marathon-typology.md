@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Sprinter, Runner, Marathon Runner Typology
 
-*Dimension: [[dimensions/choice|Choice]] · Type: Stage*
+*Dimension: [[choice|Choice]] · Type: Stage*
 
 A self-diagnostic for how you currently engage with job descriptions: skim and apply, read and adjust by assumption, or read, break down, and tailor based on what the JD actually says. The three types lead to different outcomes; the goal is to be the third when the stakes warrant it.
 
@@ -49,7 +49,7 @@ Introduced by Damla Deniz Taskin (OPCW) at the opening of the [[sessions/cw-day-
 
 **Runner.** Reads the job description with some attention. Spends time understanding the role. Tailors the CV, but the tailoring is based on assumptions about what the role is, not on a structured analysis of the JD. *Outcome.* Better than the sprinter, but still leaves recruiter-visible gaps. The applicant often emphasises the wrong things because the assumed picture of the role is not the actual one in the JD.
 
-**Marathon runner.** Reads the job description. Decides whether to apply. If yes, takes the additional step of breaking the JD down systematically (see [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]]). Then tailors the CV and cover letter against what the breakdown actually showed. *Outcome.* Lower volume, higher hit rate. Each application is a small project rather than a click.
+**Marathon runner.** Reads the job description. Decides whether to apply. If yes, takes the additional step of breaking the JD down systematically (see [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[jd-vs-profile-comparison|JD vs Profile Comparison]]). Then tailors the CV and cover letter against what the breakdown actually showed. *Outcome.* Lower volume, higher hit rate. Each application is a small project rather than a click.
 
 ### How to use the typology
 
@@ -71,7 +71,7 @@ The pattern is the diagnosis. The fix is to drop most of the sprinter applicatio
 
 - **Self-diagnosing as a marathon runner when you are a runner.** The line between the two is whether you produced a *separate document* breaking down the JD, not whether you "thought hard about it". If there is no artefact, you were a runner.
 - **Treating the typology as a status hierarchy.** Sprinter mode has its place when an opportunity is low-stakes or speculative. The point is to match the mode to the stakes.
-- **Spending marathon-runner time on a role that fails the [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]].** The breakdown is real work; do it after, not before, the fit decision.
+- **Spending marathon-runner time on a role that fails the [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]].** The breakdown is real work; do it after, not before, the fit decision.
 
 ### When not to use it
 
@@ -83,10 +83,10 @@ When you are applying to a roster or generic talent pool that does not have a sp
 
 ## Related frameworks
 
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]], the upstream framing about when each mode applies.
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the operational tool for marathon-runner mode.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the alignment artefact that makes marathon mode visible.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the upstream filter that determines whether marathon mode is worth invoking.
+- [[two-phase-job-search|Two-Phase Job Search]], the upstream framing about when each mode applies.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the operational tool for marathon-runner mode.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], the alignment artefact that makes marathon mode visible.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the upstream filter that determines whether marathon mode is worth invoking.
 
 ---
 

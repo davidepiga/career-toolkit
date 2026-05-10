@@ -36,18 +36,18 @@ The frameworks below are the partial answers the programme offered, mostly absor
 
 **The fit threshold**
 
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]] · the rule for deciding whether a role is worth a tailored application
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]] · the rule for deciding whether a role is worth a tailored application
 
 **Reading before applying**
 
-- [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · the self-classification before any JD work
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the preparatory-phase scan
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] · the gap-spotting table
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]] · preparatory vs active phases
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · the self-classification before any JD work
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the preparatory-phase scan
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · the gap-spotting table
+- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active phases
 
 **Filtering by direction**
 
-- [[frameworks/5i-framework|5i Framework]] · the five dimensions used as a filter at the application decision
+- [[5i-framework|5i Framework]] · the five dimensions used as a filter at the application decision
 
 ## Sessions where Choice was primary
 
@@ -55,4 +55,4 @@ None. The dimension is structurally absent from the IACW 2026 primary coding. Se
 
 ## If your situation is closer to
 
-If you are not sure where you want to go in the first place, see [[dimensions/direction|Direction]]. If you are clear on direction but the opportunity set is empty, see [[dimensions/visibility|Visibility]].
+If you are not sure where you want to go in the first place, see [[direction|Direction]]. If you are clear on direction but the opportunity set is empty, see [[visibility|Visibility]].

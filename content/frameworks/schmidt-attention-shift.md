@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Schmidt's Attention Shift
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-question reflection that turns past difficulty into a present asset. Acknowledge the distress first, then deliberately direct attention to what you used to survive it. The skills you already developed under pressure are an asset you can name.
 
@@ -45,7 +45,7 @@ Experience is strongly shaped by where attention is placed. This is not the same
 
 - After the worst of a difficult period has passed and you are starting to look at it from the recovery side of the curve.
 - When you are facing a new uncertainty and your inner voice is saying "I cannot handle this", to remind yourself what you have already handled.
-- During a [[frameworks/william-bridges-transitional-model|William Bridges]] upgrade stage, to convert the experience into a portable resource.
+- During a [[william-bridges-transitional-model|William Bridges]] upgrade stage, to convert the experience into a portable resource.
 - As an annual or post-incident reflection, written and kept.
 
 ### What you need
@@ -84,7 +84,7 @@ A staff member runs the four questions on a 14-month period during which her uni
   - Reading restructuring announcements for the operational signal under the political language.
   - Asking for support earlier (it took me four months to call the staff counsellor; next time it would take a week).
   - Saying no to scope creep when the underlying contract was unstable.
-  - Recognising the [[frameworks/william-bridges-transitional-model|William Bridges]] curve in myself.
+  - Recognising the [[william-bridges-transitional-model|William Bridges]] curve in myself.
   - Body-based reset routines I now use weekly.
 - *Q4, what I can draw on next.* "If contract uncertainty returns, I have a six-item toolkit I did not have before, plus a specific staff counsellor I trust, plus a pattern recognition for the early signals. I would still find it hard, but I would not be starting from zero."
 
@@ -105,7 +105,7 @@ A useful metaphor that often pairs with the four questions. In Kintsugi, broken 
 
 ### When not to use it
 
-When the experience is still ongoing in its acute phase. Run regulation tools first ([[frameworks/body-scan|Body Scan]], [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]], [[frameworks/accurate-thinking|Accurate Thinking]]). Schmidt's reflection is for after, not during.
+When the experience is still ongoing in its acute phase. Run regulation tools first ([[body-scan|Body Scan]], [[progressive-muscle-relaxation|Progressive Muscle Relaxation]], [[accurate-thinking|Accurate Thinking]]). Schmidt's reflection is for after, not during.
 
 When the experience is still genuinely traumatic and the four questions risk re-traumatising rather than integrating. In that case, professional support comes first.
 
@@ -117,10 +117,10 @@ When the difficulty was minor and the four questions inflate it. Match the depth
 
 ## Related frameworks
 
-- [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]], the upstream curve. Schmidt's reflection belongs on the upgrade side.
-- [[frameworks/accurate-thinking|Accurate Thinking]], the in-the-moment thought-interrupt. Schmidt is the longer reflection that converts experience into resource.
-- [[frameworks/circle-of-control|Circle of Control]], the agency question that often pairs with the inventory in question 3.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that captures the kind of capabilities Schmidt's reflection surfaces, in a form usable in applications.
+- [[william-bridges-transitional-model|William Bridges Transitional Model]], the upstream curve. Schmidt's reflection belongs on the upgrade side.
+- [[accurate-thinking|Accurate Thinking]], the in-the-moment thought-interrupt. Schmidt is the longer reflection that converts experience into resource.
+- [[circle-of-control|Circle of Control]], the agency question that often pairs with the inventory in question 3.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that captures the kind of capabilities Schmidt's reflection surfaces, in a form usable in applications.
 
 ---
 

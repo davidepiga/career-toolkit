@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Capability + Outputs + Evidence
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A three-part rewrite formula for any CV bullet, motivation paragraph, or LinkedIn line that needs to pass a skills-based or AI-assisted screen. Name the capability, the output, the evidence.
 
@@ -90,7 +90,7 @@ These are not additional bullets; they are an expectation that runs across all t
 3. **Strengthen the weakest of the three.** Most bullets fail on evidence. Some fail on capability (still duty-anchored). Few fail on output but plenty are vague about it.
 4. **Add the digital fluency signal where it is honest.** If the work involved data tools, AI prompts, dashboards, or automation, name them. Not as decoration; as part of the capability.
 5. **Repeat for every bullet.** A CV with five bullets that pass the test beats a CV with twelve that do not.
-6. **Pair with [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]].** The capability language should align with the JD's terminology where it is honest.
+6. **Pair with [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]].** The capability language should align with the JD's terminology where it is honest.
 
 ### Worked example
 
@@ -140,7 +140,7 @@ When the role is in a tradition that does not use AI screening and reads every C
 
 ### A note on the source
 
-The three-part formula is the speaker's distillation of how UN Common System recruitment is moving (skills-based hiring, AI-assisted screening, evidence-based panels). The formula itself is consistent with broader skills-based hiring literature and adjacent frameworks; the [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] from Day 3 Session 2 is a closely related writing pattern. The specific framing of digital fluency and adaptability as cross-cutting signals expected across all three components is the speaker's contribution.
+The three-part formula is the speaker's distillation of how UN Common System recruitment is moving (skills-based hiring, AI-assisted screening, evidence-based panels). The formula itself is consistent with broader skills-based hiring literature and adjacent frameworks; the [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] from Day 3 Session 2 is a closely related writing pattern. The specific framing of digital fluency and adaptability as cross-cutting signals expected across all three components is the speaker's contribution.
 
 ## How I use it
 
@@ -148,11 +148,11 @@ The three-part formula is the speaker's distillation of how UN Common System rec
 
 ## Related frameworks
 
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the closely related writing structure that overlaps with this formula.
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance the formula operationalises.
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]], the four-signal companion for how panels evaluate AI use as a capability in itself.
-- [[frameworks/capability-frontier|Capability Frontier]], the AI-specific maturity scale that surfaces in application prose through this formula.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that supplies the evidence and outputs the formula needs.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the closely related writing structure that overlaps with this formula.
+- [[skills-first-approach|Skills-First Approach]], the broader stance the formula operationalises.
+- [[ai-use-as-skill|AI Use as a Skill]], the four-signal companion for how panels evaluate AI use as a capability in itself.
+- [[capability-frontier|Capability Frontier]], the AI-specific maturity scale that surfaces in application prose through this formula.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that supplies the evidence and outputs the formula needs.
 
 ---
 

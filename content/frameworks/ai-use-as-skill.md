@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # AI Use as a Skill
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 Four signals panels increasingly look for in AI-assisted work: intentional use, judgment, transparency, appropriateness. The differentiator is no longer whether you used AI, it is how.
 
@@ -135,10 +135,10 @@ The four signals are the speaker's distillation of how UNICC and adjacent UN ent
 
 ## Related frameworks
 
-- [[frameworks/capability-frontier|Capability Frontier]], the four-level maturity scale for where you are in AI use; the four signals describe how you operate at any level.
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]], the parent rewrite formula; the four signals are how AI work specifically gets surfaced inside the capability and evidence components.
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance that frames AI use as a capability in itself, not an extra.
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the pattern for translating AI work into application prose.
+- [[capability-frontier|Capability Frontier]], the four-level maturity scale for where you are in AI use; the four signals describe how you operate at any level.
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]], the parent rewrite formula; the four signals are how AI work specifically gets surfaced inside the capability and evidence components.
+- [[skills-first-approach|Skills-First Approach]], the broader stance that frames AI use as a capability in itself, not an extra.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the pattern for translating AI work into application prose.
 
 ---
 

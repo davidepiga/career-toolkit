@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Hand Model of the Brain
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A physical mental model for understanding what happens when strong emotion takes over: hold up your hand, fold the thumb in, fold the fingers over. Palm is primitive brain, thumb is limbic, fingers are cortex. When the lid flips, you react from emotion alone.
 
@@ -67,8 +67,8 @@ When strong emotion takes over, the lid flips. The fingers lift up, exposing the
 1. **Notice when the lid is about to flip.** Pre-flip signals: rising heart rate, tightening chest, narrowing focus, the urge to retort or withdraw. The earlier you catch the signal, the more options you have.
 2. **Pause.** Even one breath is enough to slow the limbic response and give the cortex a chance to come back online.
 3. **Reconnect by breathing.** Slow exhales (longer than inhales) activate the parasympathetic nervous system and bring the fingers back over the thumb.
-4. **Name what is happening.** *"I am noticing that I am about to flip the lid"* or *"I just flipped the lid and that is why I reacted that way"*. Naming creates distance and is itself a form of regulation. See [[frameworks/feeling-wheel|Feeling Wheel]] for more granular naming.
-5. **Once integrated, choose a response.** Use [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] for a more structured intervention, or the [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]] for a body-first sequence.
+4. **Name what is happening.** *"I am noticing that I am about to flip the lid"* or *"I just flipped the lid and that is why I reacted that way"*. Naming creates distance and is itself a form of regulation. See [[feeling-wheel|Feeling Wheel]] for more granular naming.
+5. **Once integrated, choose a response.** Use [[notice-pause-shift-act|Notice, Pause, Shift, Act]] for a more structured intervention, or the [[one-minute-inner-reset|One-Minute Inner Reset]] for a body-first sequence.
 
 ### Worked example
 
@@ -105,10 +105,10 @@ The Hand Model is original to Dan Siegel and appears in his books *The Whole-Bra
 
 ## Related frameworks
 
-- [[frameworks/feeling-wheel|Feeling Wheel]], the granular naming practice that complements the structural model.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], a body-first sequence that operationalises the reconnection.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the broader in-the-moment routine for which this model is the underlying mechanism.
-- [[frameworks/immunity-to-change|Immunity to Change]], the longer-arc diagnostic for the patterns that keep flipping the lid.
+- [[feeling-wheel|Feeling Wheel]], the granular naming practice that complements the structural model.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], a body-first sequence that operationalises the reconnection.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the broader in-the-moment routine for which this model is the underlying mechanism.
+- [[immunity-to-change|Immunity to Change]], the longer-arc diagnostic for the patterns that keep flipping the lid.
 
 ---
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Third Eye Principle
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A three-layer review pass for any application before you submit it: alignment, machine-readability, polish. Each layer catches different errors, and skipping any one of them leaves a class of mistakes uncaught.
 
@@ -100,9 +100,9 @@ When the role is internal, very short-cycle, and a single email is what is being
 
 ## Related frameworks
 
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]] and [[frameworks/r-car|R-CAR]], the upstream tools whose output gets reviewed here.
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]], which provides the tools that support layer two and layer three.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the alignment artefact a layer-one reviewer can use as a reference.
+- [[basic-achievement-bank|BASIC Achievement Bank]] and [[r-car|R-CAR]], the upstream tools whose output gets reviewed here.
+- [[five-ai-tool-categories|Five AI Tool Categories]], which provides the tools that support layer two and layer three.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], the alignment artefact a layer-one reviewer can use as a reference.
 
 ---
 

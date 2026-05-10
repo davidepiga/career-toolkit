@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Immunity to Change
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-column diagnostic for the gap between knowing what you should do and not doing it. The map's central reframe: when you keep failing to move toward a goal you genuinely want, the cause is rarely resistance. You are protecting something. The four columns surface what you are protecting and the assumption underneath it.
 
@@ -137,7 +137,7 @@ The model did not give her the role; it surfaced what was actually keeping her f
 
 ### When not to use it
 
-When the change you want is small and tactical (a new tool, a different time-management approach). The map is heavy machinery for changes you have failed to make repeatedly; for tactical changes, [[frameworks/tiny-habits-setup|Tiny Habits Setup]] is faster.
+When the change you want is small and tactical (a new tool, a different time-management approach). The map is heavy machinery for changes you have failed to make repeatedly; for tactical changes, [[tiny-habits-setup|Tiny Habits Setup]] is faster.
 
 When the underlying issue is a system constraint rather than an internal pattern. If the reason you cannot move is structural (a hiring freeze, a contract type, a geographic restriction), the immunity map will surface frustration but not solutions.
 
@@ -151,10 +151,10 @@ The Immunity to Change model is original to Robert Kegan and Lisa Lahey. The ful
 
 ## Related frameworks
 
-- [[frameworks/saboteur-catalog|Saboteur Catalog]], the parallel lens for protective patterns; immunities and saboteurs often overlap.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with longer-arc work like immunity mapping.
-- [[frameworks/hand-model-of-the-brain|Hand Model of the Brain]], the structural reminder of why the protective pattern feels load-bearing.
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the lighter tool for tactical changes that do not need the full map.
+- [[saboteur-catalog|Saboteur Catalog]], the parallel lens for protective patterns; immunities and saboteurs often overlap.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with longer-arc work like immunity mapping.
+- [[hand-model-of-the-brain|Hand Model of the Brain]], the structural reminder of why the protective pattern feels load-bearing.
+- [[tiny-habits-setup|Tiny Habits Setup]], the lighter tool for tactical changes that do not need the full map.
 
 ---
 

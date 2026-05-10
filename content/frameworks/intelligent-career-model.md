@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Intelligent Career Model
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 Three questions to run on yourself before any career conversation: Why do you do what you do (values, energy, purpose), How do you do it (skills you have and skills you need), and Whom do you do it with (network, who knows about your purpose). The Whom is the most underused of the three.
 
@@ -55,7 +55,7 @@ Honest awareness of your current state across all three dimensions. 30 to 45 min
 
 **1. Knowing Why.** What gets you up in the morning. Your values, what you care about, your energy sources, the impact you want to make.
 
-This is what most people approach last and pay the smallest deliberate attention to. It is also what every other dimension hangs from. Without a clear Why, the How and the Whom drift into busywork. Operationally, the Why is what produces a personal purpose statement (see [[frameworks/five-whys-for-purpose|Five Whys for Purpose]]). It is what you return to on bad days.
+This is what most people approach last and pay the smallest deliberate attention to. It is also what every other dimension hangs from. Without a clear Why, the How and the Whom drift into busywork. Operationally, the Why is what produces a personal purpose statement (see [[five-whys-for-purpose|Five Whys for Purpose]]). It is what you return to on bad days.
 
 **2. Knowing How.** The skills you currently have and the skills you need. Technical skills, domain knowledge, human skills (leadership, communication, negotiation, facilitation, coaching, judgement under pressure).
 
@@ -69,7 +69,7 @@ The session was emphatic that Whom is the most underused of the three. Most peop
 
 1. **Take the three questions in order.** Why, How, Whom. On paper.
 2. **Spend more time on the weakest answer.** Most people are reasonably clear on one of the three and weak on at least one other. Identify the weakest and work on it.
-3. **Run a mini-action for each weak dimension.** For Why: schedule the [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] exercise. For How: run a Skill Matrix Audit. For Whom: list three to five people who know about your purpose; if the list is short, name two new conversations to start this month.
+3. **Run a mini-action for each weak dimension.** For Why: schedule the [[five-whys-for-purpose|Five Whys for Purpose]] exercise. For How: run a Skill Matrix Audit. For Whom: list three to five people who know about your purpose; if the list is short, name two new conversations to start this month.
 4. **Re-check before each significant career conversation.** The questions are short; running them ten minutes before the conversation focuses what you bring.
 5. **Re-run quarterly during high-change periods.** All three answers shift faster than people expect.
 
@@ -105,7 +105,7 @@ Three operational moves to strengthen Whom:
 
 ### When not to use it
 
-When you are in acute distress and need regulation first. The three questions are for clear-headed planning. In an acute moment, run a body-based reset and locate yourself on the [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]] curve before reaching for ICM.
+When you are in acute distress and need regulation first. The three questions are for clear-headed planning. In an acute moment, run a body-based reset and locate yourself on the [[william-bridges-transitional-model|William Bridges Transitional Model]] curve before reaching for ICM.
 
 When the conversation is purely operational ("can you cover this meeting next Tuesday?"). Save ICM for conversations about direction and capability.
 
@@ -115,10 +115,10 @@ When the conversation is purely operational ("can you cover this meeting next Tu
 
 ## Related frameworks
 
-- [[frameworks/five-whys-for-purpose|Five Whys for Purpose]], the recursive questioning technique that operationalises the Knowing Why dimension and produces a personal purpose statement.
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that pairs with the Why dimension at the organisational level.
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool for converting the Why and How into daily action.
-- [[frameworks/five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the unsticking scaffold that often surfaces the dimension that is actually weak.
+- [[five-whys-for-purpose|Five Whys for Purpose]], the recursive questioning technique that operationalises the Knowing Why dimension and produces a personal purpose statement.
+- [[four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that pairs with the Why dimension at the organisational level.
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]], the prioritisation tool for converting the Why and How into daily action.
+- [[five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]], the unsticking scaffold that often surfaces the dimension that is actually weak.
 
 ---
 

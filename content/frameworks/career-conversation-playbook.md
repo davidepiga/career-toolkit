@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Career Conversation Playbook
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A three-part structure for any deliberate manager or mentor conversation: prepare with intention, create a positive environment, keep a constructive frame. Built around an easy-yes ask.
 
@@ -88,7 +88,7 @@ When it fits:
 - A piece of feedback you need to give or receive that has been deferred because the framing felt too heavy.
 - A tense moment with a manager or supervisee that needs to clear without escalating.
 - An honest career-direction conversation where one or both parties has been holding something back.
-- A reverse-mentoring conversation that benefits from the lower-stakes physical setup. See [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]].
+- A reverse-mentoring conversation that benefits from the lower-stakes physical setup. See [[reverse-mentoring-playbook|Reverse Mentoring Playbook]].
 
 When it does not fit:
 
@@ -108,7 +108,7 @@ Margaret was clear about what a mentor is and is not.
 - *Not* a long-term formal commitment by default. A few months with a clear purpose is a complete relationship.
 - *Yes* someone with a different type of experience, exposure, network, or outlook.
 
-When approaching a potential mentor, the ask is small and specific: "would you spend 30 minutes practising interview questions with me?", or "could we have one conversation about how you navigated [a transition you went through]?". Make the yes easy. See [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]] for the outreach pattern.
+When approaching a potential mentor, the ask is small and specific: "would you spend 30 minutes practising interview questions with me?", or "could we have one conversation about how you navigated [a transition you went through]?". Make the yes easy. See [[how-to-approach-a-mentor|How to Approach a Mentor]] for the outreach pattern.
 
 ### Worked example
 
@@ -141,10 +141,10 @@ When the manager is structurally hostile or actively unwilling, and you have evi
 
 ## Related frameworks
 
-- [[frameworks/career-mapping|Career Mapping]], the upstream gap analysis that surfaces what to ask for.
-- [[frameworks/micromobility-strategies|Micromobility Strategies]], the menu of small moves that career conversations often open up.
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]], the closely related outreach pattern when the conversation is with a mentor rather than a manager.
-- [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]], the structure for the mentoring conversation itself once a mentor has agreed.
+- [[career-mapping|Career Mapping]], the upstream gap analysis that surfaces what to ask for.
+- [[micromobility-strategies|Micromobility Strategies]], the menu of small moves that career conversations often open up.
+- [[how-to-approach-a-mentor|How to Approach a Mentor]], the closely related outreach pattern when the conversation is with a mentor rather than a manager.
+- [[mentoring-conversation-cycle|Mentoring Conversation Cycle]], the structure for the mentoring conversation itself once a mentor has agreed.
 
 ---
 

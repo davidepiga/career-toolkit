@@ -34,35 +34,35 @@ Pursuit is the densest stage in the programme in named tools. Eight sessions had
 
 **Achievement to artefact**
 
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]] · the five-field structure
-- [[frameworks/r-car|R-CAR]] · the conversion to CV bullets and cover-letter sentences
-- [[frameworks/third-eye-principle|Third Eye Principle]] · the review pass before submission
+- [[basic-achievement-bank|BASIC Achievement Bank]] · the five-field structure
+- [[r-car|R-CAR]] · the conversion to CV bullets and cover-letter sentences
+- [[third-eye-principle|Third Eye Principle]] · the review pass before submission
 
 **Reading the JD**
 
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the active-phase decoding
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] · the table that drives tailoring
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the active-phase decoding
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · the table that drives tailoring
+- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
 
 **AI-assisted application**
 
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]] · the toolkit map
-- [[frameworks/career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]] · the structured fit analysis followed by the calendar-blocked sprint
-- [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]] · be specific about your level, ask for structure, push it deeper
-- [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · the interview rehearsal
-- [[frameworks/four-prompting-principles|Four Prompting Principles]] · context, iteration, calibrated freedom, format
+- [[five-ai-tool-categories|Five AI Tool Categories]] · the toolkit map
+- [[career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]] · the structured fit analysis followed by the calendar-blocked sprint
+- [[ai-prompting-for-learning|AI Prompting for Learning]] · be specific about your level, ask for structure, push it deeper
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · the interview rehearsal
+- [[four-prompting-principles|Four Prompting Principles]] · context, iteration, calibrated freedom, format
 
 **Interview preparation**
 
-- [[frameworks/smart-method|SMART Method]] · the competency-based interview answer structure
-- [[frameworks/duties-driven-interview-prep|Duties-Driven Interview Prep]] · the preparation method based on the JD's duty bullets
-- [[frameworks/application-review-audiences|Application Review Audiences]] · the four-stage journey of any application
-- [[frameworks/why-this-why-now-why-you|Why This / Why Now / Why You]] · the motivation pitch and letter
+- [[smart-method|SMART Method]] · the competency-based interview answer structure
+- [[duties-driven-interview-prep|Duties-Driven Interview Prep]] · the preparation method based on the JD's duty bullets
+- [[application-review-audiences|Application Review Audiences]] · the four-stage journey of any application
+- [[why-this-why-now-why-you|Why This / Why Now / Why You]] · the motivation pitch and letter
 
 **Diagnostic on my own materials**
 
-- [[frameworks/evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · the recruiter-side stripping test
-- [[frameworks/3es-of-development|3 E's of Development]] · whether any course or AI session will actually move a skill
+- [[evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · the recruiter-side stripping test
+- [[3es-of-development|3 E's of Development]] · whether any course or AI session will actually move a skill
 
 ## Sessions where Pursuit was primary
 
@@ -77,4 +77,4 @@ Pursuit is the densest stage in the programme in named tools. Eight sessions had
 
 ## If your situation is closer to
 
-If you are inside the application loop but the materials feel weak, see [[dimensions/presence|Presence]]. If you are unsure your skills match what the role actually requires, see [[dimensions/capability|Capability]].
+If you are inside the application loop but the materials feel weak, see [[presence|Presence]]. If you are unsure your skills match what the role actually requires, see [[capability|Capability]].

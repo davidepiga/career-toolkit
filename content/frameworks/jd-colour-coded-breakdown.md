@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # JD Colour-Coded Breakdown
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-step method for decoding a job description on a separate document, using a different colour for each category, so that what the role actually does becomes visible at a glance. The output is the working sheet you tailor your application against.
 
@@ -40,7 +40,7 @@ Introduced by Damla Deniz Taskin (OPCW) at the [[sessions/cw-day-3-session-4|Bre
 
 ### When to use it
 
-- During phase two of the [[frameworks/two-phase-job-search|Two-Phase Job Search]], once you have decided to apply.
+- During phase two of the [[two-phase-job-search|Two-Phase Job Search]], once you have decided to apply.
 - When the JD is long enough that key information gets buried (most P-3 and above roles).
 - When you are translating a JD across sectors and need to surface the underlying actions before reframing them.
 
@@ -94,7 +94,7 @@ The recurring legal anchor across the JD was Article 10 of the Chemical Weapons 
 
 ### When not to use it
 
-When you are scanning a vacancy in phase one of the [[frameworks/two-phase-job-search|Two-Phase Job Search]]. The breakdown is for phase two, after the fit decision.
+When you are scanning a vacancy in phase one of the [[two-phase-job-search|Two-Phase Job Search]]. The breakdown is for phase two, after the fit decision.
 
 ## How I use it
 
@@ -102,10 +102,10 @@ When you are scanning a vacancy in phase one of the [[frameworks/two-phase-job-s
 
 ## Related frameworks
 
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]], the upstream framework that determines when to invoke this tool.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the next step after the breakdown is complete.
-- [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology this method operationalises.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the achievements that get mapped to the colour-coded JD.
+- [[two-phase-job-search|Two-Phase Job Search]], the upstream framework that determines when to invoke this tool.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], the next step after the breakdown is complete.
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]], the typology this method operationalises.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the achievements that get mapped to the colour-coded JD.
 
 ---
 

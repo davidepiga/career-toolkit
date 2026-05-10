@@ -34,59 +34,59 @@ This was the largest single block of the week. Twelve of the 40 sessions had Min
 
 **Saboteurs and reactive patterns**
 
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] · Mirka Packard, Lucia Carrera, Katarina Posa
-- [[frameworks/saboteur-catalog|Saboteur Catalog]] · the ten patterns and their counter-moves (reference)
-- [[frameworks/20-80-bucket-system|20/80 Bucket System]] · the Stickler's antidote
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]] · Mirka Packard, Lucia Carrera, Katarina Posa
+- [[saboteur-catalog|Saboteur Catalog]] · the ten patterns and their counter-moves (reference)
+- [[20-80-bucket-system|20/80 Bucket System]] · the Stickler's antidote
 
 **Habits under pressure**
 
-- [[frameworks/habit-loop|Habit Loop]] · cue, craving, response, reward
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]] · the seven steps for engineering a habit that sticks
-- [[frameworks/gratitude-reset|Gratitude Reset]] · the smallest possible career-development habit
+- [[habit-loop|Habit Loop]] · cue, craving, response, reward
+- [[tiny-habits-setup|Tiny Habits Setup]] · the seven steps for engineering a habit that sticks
+- [[gratitude-reset|Gratitude Reset]] · the smallest possible career-development habit
 
 **Self-leadership and regulation**
 
-- [[frameworks/hand-model-of-the-brain|Hand Model of the Brain]] · the structural mental model for emotion
-- [[frameworks/feeling-wheel|Feeling Wheel]] · the granular naming practice
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]] · the body-first sequence for transitions
-- [[frameworks/immunity-to-change|Immunity to Change]] · the diagnostic for the gap between intention and action
+- [[hand-model-of-the-brain|Hand Model of the Brain]] · the structural mental model for emotion
+- [[feeling-wheel|Feeling Wheel]] · the granular naming practice
+- [[one-minute-inner-reset|One-Minute Inner Reset]] · the body-first sequence for transitions
+- [[immunity-to-change|Immunity to Change]] · the diagnostic for the gap between intention and action
 
 **Mobility and identity**
 
-- [[frameworks/mobility-fatigue|Mobility Fatigue]] · the cumulative cost of repeated relocations
-- [[frameworks/cultural-adjustment-curve|Cultural Adjustment Curve]] · the four-phase emotional arc
+- [[mobility-fatigue|Mobility Fatigue]] · the cumulative cost of repeated relocations
+- [[cultural-adjustment-curve|Cultural Adjustment Curve]] · the four-phase emotional arc
 
 **Activating inner resources in uncertainty**
 
-- [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]] · separating change from transition
-- [[frameworks/accurate-thinking|Accurate Thinking]] · the four-question CBT interrupt
-- [[frameworks/schmidt-attention-shift|Schmidt's Attention Shift]] · the psychological vaccination reflection
-- [[frameworks/body-scan|Body Scan]] · observe-only regulation
-- [[frameworks/progressive-muscle-relaxation|Progressive Muscle Relaxation]] · tense-and-release for hypervigilance
-- [[frameworks/circle-of-control|Circle of Control]] · what I control, influence, and only worry about
+- [[william-bridges-transitional-model|William Bridges Transitional Model]] · separating change from transition
+- [[accurate-thinking|Accurate Thinking]] · the four-question CBT interrupt
+- [[schmidt-attention-shift|Schmidt's Attention Shift]] · the psychological vaccination reflection
+- [[body-scan|Body Scan]] · observe-only regulation
+- [[progressive-muscle-relaxation|Progressive Muscle Relaxation]] · tense-and-release for hypervigilance
+- [[circle-of-control|Circle of Control]] · what I control, influence, and only worry about
 
 **Hazard, coping, thriving**
 
-- [[frameworks/hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]] · the diagnostic spine
+- [[hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]] · the diagnostic spine
 
 **Purpose and ownership**
 
-- [[frameworks/intelligent-career-model|Intelligent Career Model]] · Why, How, Whom
-- [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] · surfacing the personal purpose statement
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]] · Values, Purpose, Motivation, Impact
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]] · the role-clarity test
-- [[frameworks/five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]] · the unsticking tool
+- [[intelligent-career-model|Intelligent Career Model]] · Why, How, Whom
+- [[five-whys-for-purpose|Five Whys for Purpose]] · surfacing the personal purpose statement
+- [[four-loop-alignment|Four-Loop Alignment]] · Values, Purpose, Motivation, Impact
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]] · the role-clarity test
+- [[five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]] · the unsticking tool
 
 **Behavioural science layer**
 
-- [[frameworks/com-b-model|COM-B Model]] · Capability, Opportunity, Motivation
-- [[frameworks/east-framework|EAST Framework]] · Easy, Attractive, Social, Timely
+- [[com-b-model|COM-B Model]] · Capability, Opportunity, Motivation
+- [[east-framework|EAST Framework]] · Easy, Attractive, Social, Timely
 
 **Strengths and growth**
 
-- [[frameworks/strengths-profile|Strengths Profile]] · the four-quadrant model
-- [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] · 24 questions to activate one strength
-- [[frameworks/reframe-adapt-lead|Reframe, Adapt, Lead]] · the growth-mindset operating layer
+- [[strengths-profile|Strengths Profile]] · the four-quadrant model
+- [[silent-coaching-sequence|Silent Coaching Sequence]] · 24 questions to activate one strength
+- [[reframe-adapt-lead|Reframe, Adapt, Lead]] · the growth-mindset operating layer
 
 ## Sessions where Mindset was primary
 
@@ -105,4 +105,4 @@ This was the largest single block of the week. Twelve of the 40 sessions had Min
 
 ## If your situation is closer to
 
-If you are clear on your inner state but unsure what to build next, see [[dimensions/capability|Capability]]. If you are settled inside but unsure where to point yourself, see [[dimensions/direction|Direction]].
+If you are clear on your inner state but unsure what to build next, see [[capability|Capability]]. If you are settled inside but unsure where to point yourself, see [[direction|Direction]].

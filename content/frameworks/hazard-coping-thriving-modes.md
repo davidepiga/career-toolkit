@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Hazard, Coping, Thriving Modes
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 Three modes for diagnosing how you currently relate to your career situation: stuck (hazard), surviving (coping), or growing (thriving). The same external system can produce all three, depending on how you interact with it.
 
@@ -68,7 +68,7 @@ Honest self-reflection. The diagnostic is light on tools and heavy on candour. O
 
 *Behaviours.* Going through the motions. Minimal engagement, minimal investment. Doing what is required, not more. Some self-protective routines (taking lunch, exercising, keeping social plans), but no career-development activity.
 
-*Health signals.* Lower-grade fatigue. Lower-grade dissatisfaction. The "performance is fine, engagement is dropping" pattern from the [[frameworks/engagement-performance-matrix|Engagement-Performance Matrix]].
+*Health signals.* Lower-grade fatigue. Lower-grade dissatisfaction. The "performance is fine, engagement is dropping" pattern from the [[engagement-performance-matrix|Engagement-Performance Matrix]].
 
 *What it costs.* Sustainable for short periods. Becomes the default mode if not interrupted. Erodes the option of moving back to thriving as the muscle weakens.
 
@@ -84,7 +84,7 @@ Honest self-reflection. The diagnostic is light on tools and heavy on candour. O
 
 1. **Diagnose your current mode honestly.** Across the major dimensions of your work (current role, your manager relationship, your career trajectory, your peer network, your skill development), where would you place yourself?
 2. **Look for asymmetry.** Most people are not in one mode across everything. You might be thriving on a specific project and in hazard mode on the broader career trajectory.
-3. **Identify the move toward the next mode.** From hazard, the move is one specific inner-ring action (see the [[frameworks/circle-of-control|Circle of Control]]). From coping, the move is a small re-engagement (a feedback request, a micromobility application). From thriving, the move is to keep the routines that are producing the engagement.
+3. **Identify the move toward the next mode.** From hazard, the move is one specific inner-ring action (see the [[circle-of-control|Circle of Control]]). From coping, the move is a small re-engagement (a feedback request, a micromobility application). From thriving, the move is to keep the routines that are producing the engagement.
 4. **Re-diagnose monthly.** The point is not the label; it is the monthly nudge to act on what the diagnosis surfaces.
 
 ### Worked example
@@ -117,10 +117,10 @@ When you are in genuine crisis (acute mental health, safety issues, abusive work
 
 ## Related frameworks
 
-- [[frameworks/circle-of-control|Circle of Control]], the energy-redirection exercise that turns a hazard-mode diagnosis into an inner-ring action.
-- [[frameworks/engagement-performance-matrix|Engagement-Performance Matrix]], a finer-grained diagnostic per project or responsibility.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the reactive patterns that pull you toward hazard mode.
-- [[frameworks/mobility-fatigue|Mobility Fatigue]], the cumulative-cost frame that often sits underneath a hazard-mode diagnosis after multiple moves.
+- [[circle-of-control|Circle of Control]], the energy-redirection exercise that turns a hazard-mode diagnosis into an inner-ring action.
+- [[engagement-performance-matrix|Engagement-Performance Matrix]], a finer-grained diagnostic per project or responsibility.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the reactive patterns that pull you toward hazard mode.
+- [[mobility-fatigue|Mobility Fatigue]], the cumulative-cost frame that often sits underneath a hazard-mode diagnosis after multiple moves.
 
 ---
 

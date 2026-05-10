@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Strengths Profile
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-quadrant model that maps your abilities against energy and current use, with a sharp definition of what counts as a strength: it must energise you, you must perform it well, and you must use it.
 
@@ -87,7 +87,7 @@ Map each of your abilities into one of four cells, defined by two axes: do you d
 
 *Good at, enjoy, but not currently using.* Your untapped potential. Often things you did in the past, or skills you developed but no longer have a platform for.
 
-*Career action.* This is the most concrete growth lever, because no new skill-building is required. You only need to find a platform. Use the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] to activate one unrealised strength at a time.
+*Career action.* This is the most concrete growth lever, because no new skill-building is required. You only need to find a platform. Use the [[silent-coaching-sequence|Silent Coaching Sequence]] to activate one unrealised strength at a time.
 
 #### Learned Behaviours
 
@@ -130,7 +130,7 @@ Take your answers from the seven questions and place each item into one of the f
 
 For Realised Strengths: ask how you can use them more intentionally in your current role.
 
-For Unrealised Strengths: pick one. Run the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] on it.
+For Unrealised Strengths: pick one. Run the [[silent-coaching-sequence|Silent Coaching Sequence]] on it.
 
 For Learned Behaviours: identify the most draining one. Where can you delegate, partner, or minimise it?
 
@@ -159,7 +159,7 @@ The pattern: her current role has loaded her up with learned behaviours (coordin
 - **Treating "good at" as enough.** The Strength Formula explicitly excludes things you do well but that drain you. Distinguishing strengths from learned behaviours is the framework's central move.
 - **Putting everything in Realised Strengths.** Most people overestimate how many of their strengths are currently being used. Push back on yourself: am I actually using this, or is it sitting?
 - **Investing in weaknesses.** A common career-coaching error. Energy spent on weaknesses produces marginal gains; the same energy spent on realised or unrealised strengths produces compound returns.
-- **Identifying an unrealised strength and then doing nothing.** The point is to activate it. Pick one. Use the [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]] to commit to a specific first action.
+- **Identifying an unrealised strength and then doing nothing.** The point is to activate it. Pick one. Use the [[silent-coaching-sequence|Silent Coaching Sequence]] to commit to a specific first action.
 - **Hiding learned behaviours from yourself.** Naming what drains you is uncomfortable. Some learned behaviours have been part of your professional identity for years. The discomfort is information, not a verdict.
 - **Confusing the framework with personality typing.** The four quadrants are about specific abilities, not about who you are. The same ability can shift quadrants over time as your role and energy change.
 
@@ -179,10 +179,10 @@ The four-quadrant model is widely associated with Cappfinity and the Centre of A
 
 ## Related frameworks
 
-- [[frameworks/silent-coaching-sequence|Silent Coaching Sequence]], the 24-question protocol for activating a single unrealised strength.
-- [[frameworks/career-mapping|Career Mapping]], the upstream gap analysis where strengths identification helps name the destination.
-- [[frameworks/career-conversation-playbook|Career Conversation Playbook]], the structure for translating the strengths analysis into a manager conversation.
-- [[frameworks/5i-framework|5i Framework]], the umbrella where the Strengths Profile sits inside the Inventory dimension.
+- [[silent-coaching-sequence|Silent Coaching Sequence]], the 24-question protocol for activating a single unrealised strength.
+- [[career-mapping|Career Mapping]], the upstream gap analysis where strengths identification helps name the destination.
+- [[career-conversation-playbook|Career Conversation Playbook]], the structure for translating the strengths analysis into a manager conversation.
+- [[5i-framework|5i Framework]], the umbrella where the Strengths Profile sits inside the Inventory dimension.
 
 ---
 

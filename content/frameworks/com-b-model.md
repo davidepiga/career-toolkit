@@ -30,11 +30,11 @@ last_updated: 2026-05-09
 
 # COM-B Model
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A behavioural-science diagnostic for any goal that is not happening. For a behaviour to occur, three components must be in place at the same time: Capability (mental and physical), Opportunity (physical and social environment), Motivation (conscious attitudes and unconscious habits). Most stalled behaviours are blamed on motivation when the bottleneck is actually opportunity.
 
-Introduced by Tiina Likki (Behavioural Scientist, WHO Transformation team) at the [[sessions/cw-day-5-session-1|Behavioural Science for Career Development]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Tiina presented COM-B as the diagnostic foundation for the session's behaviour-change toolkit, paired with the [[frameworks/east-framework|EAST Framework]] for the matched interventions. Tina Stochmal (WHO HR) translated each component into career-development examples. COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour Change and sits at the heart of the Behaviour Change Wheel.
+Introduced by Tiina Likki (Behavioural Scientist, WHO Transformation team) at the [[sessions/cw-day-5-session-1|Behavioural Science for Career Development]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Tiina presented COM-B as the diagnostic foundation for the session's behaviour-change toolkit, paired with the [[east-framework|EAST Framework]] for the matched interventions. Tina Stochmal (WHO HR) translated each component into career-development examples. COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour Change and sits at the heart of the Behaviour Change Wheel.
 
 ## The framework
 
@@ -45,7 +45,7 @@ For any behaviour to actually happen, all three must be in place. The model is m
 - When you have set a career goal and notice you keep not acting on it.
 - When you want to coach someone through a behaviour change (your own or a colleague's) without defaulting to "you just need more discipline".
 - Before designing any intervention to change your own habits, to make sure you target the right component.
-- As the upstream diagnostic that tells you whether the [[frameworks/east-framework|EAST Framework]] principles will help, or whether the issue is upstream of behaviour design entirely.
+- As the upstream diagnostic that tells you whether the [[east-framework|EAST Framework]] principles will help, or whether the issue is upstream of behaviour design entirely.
 
 ### The three components
 
@@ -70,7 +70,7 @@ When in doubt, look at opportunity first. Most failed habits are misdiagnosed as
 - **Reflective motivation.** Conscious attitudes, intentions, beliefs, plans. The kind of motivation we usually mean when we say "I am motivated".
 - **Automatic motivation.** Habits, emotions, automatic responses, impulses. What System 1 (in Kahneman's dual-process terms) does without conscious thought.
 
-The mistake most behaviour-change interventions make is targeting only reflective motivation through information and willpower. Automatic motivation is what runs most daily behaviour, and it does not respond to information campaigns or pep talks. It responds to changes in cues, rewards, and repetition (see [[frameworks/habit-loop|Habit Loop]]).
+The mistake most behaviour-change interventions make is targeting only reflective motivation through information and willpower. Automatic motivation is what runs most daily behaviour, and it does not respond to information campaigns or pep talks. It responds to changes in cues, rewards, and repetition (see [[habit-loop|Habit Loop]]).
 
 ### Steps
 
@@ -84,9 +84,9 @@ The mistake most behaviour-change interventions make is targeting only reflectiv
     - *Capability gap:* learning, course, mentoring, shadowing.
     - *Physical opportunity gap:* change the environment (move the gym bag near the door, block the calendar, install the website blocker).
     - *Social opportunity gap:* find a different group, ask a peer to join, make the behaviour public.
-    - *Reflective motivation gap:* clarify the why (use [[frameworks/smarteer-goals|SMARTEER Goals]], reconnect to values via the [[frameworks/5i-framework|5i Framework]] Identify dimension).
-    - *Automatic motivation gap:* engineer new cues and rewards (use the [[frameworks/habit-loop|Habit Loop]] and [[frameworks/tiny-habits-setup|Tiny Habits Setup]]).
-5. **Apply the [[frameworks/east-framework|EAST Framework]] principles.** Once you know the bottleneck, EAST gives you four design principles for closing it: Easy, Attractive, Social, Timely.
+    - *Reflective motivation gap:* clarify the why (use [[smarteer-goals|SMARTEER Goals]], reconnect to values via the [[5i-framework|5i Framework]] Identify dimension).
+    - *Automatic motivation gap:* engineer new cues and rewards (use the [[habit-loop|Habit Loop]] and [[tiny-habits-setup|Tiny Habits Setup]]).
+5. **Apply the [[east-framework|EAST Framework]] principles.** Once you know the bottleneck, EAST gives you four design principles for closing it: Easy, Attractive, Social, Timely.
 6. **Re-diagnose if the intervention fails.** A failed intervention usually means the diagnosis was wrong, not that the behaviour is impossible. Re-run the COM-B test and look for the bottleneck you missed.
 
 ### Worked example
@@ -102,7 +102,7 @@ Bottleneck diagnosis: opportunity (physical timing) plus automatic motivation (t
 Interventions:
 - Move the calendar block from Friday 5pm to Tuesday 10am, when energy is higher (physical opportunity).
 - Tell her mentor she is committing to one outreach message a week and that she will report back at their monthly check-in (social opportunity).
-- Anchor the action to an existing morning routine: "after my Tuesday team standup ends, I will send one outreach message before opening my email" (use [[frameworks/tiny-habits-setup|Tiny Habits Setup]] to engineer the new automatic pattern).
+- Anchor the action to an existing morning routine: "after my Tuesday team standup ends, I will send one outreach message before opening my email" (use [[tiny-habits-setup|Tiny Habits Setup]] to engineer the new automatic pattern).
 
 After four weeks, the behaviour is reliable. The fix was not "more motivation"; it was a redesigned context plus a stronger anchor.
 
@@ -125,9 +125,9 @@ The session highlighted the patterns most likely to lead to a wrong intervention
 
 ### When not to use it
 
-When the behaviour is genuinely not in your interest. The model is for behaviours you have decided you want; it does not adjudicate whether you should want them. For that question, use the [[frameworks/5i-framework|5i Framework]] Identify dimension.
+When the behaviour is genuinely not in your interest. The model is for behaviours you have decided you want; it does not adjudicate whether you should want them. For that question, use the [[5i-framework|5i Framework]] Identify dimension.
 
-When the behaviour is acutely contextual (a single high-stakes conversation, a one-off decision). COM-B is for recurring behaviours; for one-offs, the [[frameworks/career-conversation-playbook|Career Conversation Playbook]] or [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]] is faster.
+When the behaviour is acutely contextual (a single high-stakes conversation, a one-off decision). COM-B is for recurring behaviours; for one-offs, the [[career-conversation-playbook|Career Conversation Playbook]] or [[notice-pause-shift-act|Notice, Pause, Shift, Act]] is faster.
 
 ### A note on the source
 
@@ -139,10 +139,10 @@ COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour
 
 ## Related frameworks
 
-- [[frameworks/east-framework|EAST Framework]], the matched intervention principles for closing the bottleneck COM-B identifies.
-- [[frameworks/habit-loop|Habit Loop]], the underlying mechanism for the automatic-motivation component.
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step practice for engineering new automatic patterns.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching automatic-motivation patterns as they activate.
+- [[east-framework|EAST Framework]], the matched intervention principles for closing the bottleneck COM-B identifies.
+- [[habit-loop|Habit Loop]], the underlying mechanism for the automatic-motivation component.
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step practice for engineering new automatic patterns.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching automatic-motivation patterns as they activate.
 
 ---
 

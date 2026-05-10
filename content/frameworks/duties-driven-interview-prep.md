@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Duties-Driven Interview Prep
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A method for preparing competency-based interviews that starts from the vacancy notice's duties section, generating 20 or more likely questions before the interview begins.
 
@@ -48,7 +48,7 @@ The method works directly from the vacancy notice's duties section. Each duty bu
 
 ### What you need
 
-The vacancy notice for the role. Your [[frameworks/basic-achievement-bank|BASIC]] achievement bank, or a notebook with documented examples from your work history. 60 to 90 minutes for the first prep pass; less for subsequent revisits. A document where you can map duties to questions to examples.
+The vacancy notice for the role. Your [[basic-achievement-bank|BASIC]] achievement bank, or a notebook with documented examples from your work history. 60 to 90 minutes for the first prep pass; less for subsequent revisits. A document where you can map duties to questions to examples.
 
 ### The core insight
 
@@ -61,8 +61,8 @@ A more effective approach starts from the duties section of the vacancy notice. 
 1. **Open the vacancy notice and find the duties section.** Not the requirements, not the person specification, the *duties*.
 2. **For each duty bullet, generate three to five likely questions.** Phrase them as competency-based interview questions: *"Tell us about a time when..."*, *"Describe a situation where..."*, *"Walk us through how you have..."*.
 3. **For each question, identify your strongest example.** From your achievement bank or work history. The example should match the seniority level of the role you are applying for.
-4. **Structure each example using [[frameworks/smart-method|SMART]] or [[frameworks/r-car|R-CAR]].** Five elements, three to five minutes spoken.
-5. **Practise out loud.** Reading produces a different quality than speaking. Use [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] for repetitions under realistic conditions.
+4. **Structure each example using [[smart-method|SMART]] or [[r-car|R-CAR]].** Five elements, three to five minutes spoken.
+5. **Practise out loud.** Reading produces a different quality than speaking. Use [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] for repetitions under realistic conditions.
 6. **In the interview: adapt, do not recite.** The actual question may not match your prepared one exactly. Find the closest example in your toolkit and adapt on the fly.
 
 ### Worked example
@@ -152,10 +152,10 @@ When the vacancy notice is unusually short or vague. In that case, supplement wi
 
 ## Related frameworks
 
-- [[frameworks/smart-method|SMART Method]], the answer structure for the prepared examples this method generates.
-- [[frameworks/r-car|R-CAR]], the parallel structure for written application bullets.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the examples that fuel the prepared scenarios.
-- [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the rehearsal method for practising the prepared answers under realistic conditions.
+- [[smart-method|SMART Method]], the answer structure for the prepared examples this method generates.
+- [[r-car|R-CAR]], the parallel structure for written application bullets.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the examples that fuel the prepared scenarios.
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the rehearsal method for practising the prepared answers under realistic conditions.
 
 ---
 

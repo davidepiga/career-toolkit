@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # When to Build an AI Agent
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A four-criterion decision rule for choosing between a custom AI agent and the standard chat. Most people default to chat for everything; agents are worth the upfront cost in four specific situations.
 
@@ -62,7 +62,7 @@ Examples: an agent for CV reviews using the UN competency framework; an agent fo
 
 **3. You are working with a specific framework or methodology.**
 
-When the AI's output should always be structured against a particular framework (UN core competencies, the [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], a specific feedback rubric, the [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] categories), an agent codifies the framework once. Every conversation respects it.
+When the AI's output should always be structured against a particular framework (UN core competencies, the [[basic-achievement-bank|BASIC Achievement Bank]], a specific feedback rubric, the [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] categories), an agent codifies the framework once. Every conversation respects it.
 
 Doing this in chat is possible but unreliable; you can forget to include the framework, or include only part of it.
 
@@ -114,7 +114,7 @@ All four. Build an agent. She did. The Career Compass is the strongest example i
 
 ### Pitfalls
 
-- **Building an agent for one-off tasks.** The setup cost wastes time. Use chat with the [[frameworks/four-prompting-principles|Four Prompting Principles]] instead.
+- **Building an agent for one-off tasks.** The setup cost wastes time. Use chat with the [[four-prompting-principles|Four Prompting Principles]] instead.
 - **Building an oversized agent.** When the instruction field hits character limits, the agent often ignores parts of the logic. Split into smaller specialised agents.
 - **Skipping testing.** An agent that has never been tested with two distinct scenarios will fail in subtle ways during real use. Run two or three calibration runs before relying on it.
 - **Treating an agent as a one-time build.** Agents drift over time as the underlying model updates and as your needs change. Plan to revisit and refine periodically.
@@ -133,10 +133,10 @@ When you are working with sensitive personal data or confidential organisational
 
 ## Related frameworks
 
-- [[frameworks/how-to-build-a-career-ai-agent|How to Build a Career AI Agent]], the practical tutorial that follows from a yes decision here.
-- [[frameworks/four-prompting-principles|Four Prompting Principles]], the principles that go inside the agent's instructions field.
-- [[frameworks/five-ai-tool-categories|Five AI Tool Categories]], the broader taxonomy of where agents fit in the AI-for-applications stack.
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]], the four signals that should run through any AI-assisted output, including agent output.
+- [[how-to-build-a-career-ai-agent|How to Build a Career AI Agent]], the practical tutorial that follows from a yes decision here.
+- [[four-prompting-principles|Four Prompting Principles]], the principles that go inside the agent's instructions field.
+- [[five-ai-tool-categories|Five AI Tool Categories]], the broader taxonomy of where agents fit in the AI-for-applications stack.
+- [[ai-use-as-skill|AI Use as a Skill]], the four signals that should run through any AI-assisted output, including agent output.
 
 ---
 

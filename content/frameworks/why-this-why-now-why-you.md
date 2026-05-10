@@ -32,7 +32,7 @@ last_updated: 2026-05-09
 
 # Why This, Why Now, Why You
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A three-question test for any motivation letter or cover letter. Hiring managers read the motivation letter before the CV. The letter has to answer three things in the first read: why this organisation, why now, why you. If the answer to any of the three is missing or generic, the letter does not survive.
 
@@ -49,7 +49,7 @@ Introduced by Mariam Kakkar (Director of Human Resources, OSCE) at the [[session
 
 ### What you need
 
-The job description for the specific role. Your CV and ideally your [[frameworks/basic-achievement-bank|BASIC Achievement Bank]]. Thirty to forty-five minutes for the first draft. The result of a [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] on the JD, if you have done one.
+The job description for the specific role. Your CV and ideally your [[basic-achievement-bank|BASIC Achievement Bank]]. Thirty to forty-five minutes for the first draft. The result of a [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] on the JD, if you have done one.
 
 ### The three questions
 
@@ -59,7 +59,7 @@ A strong motivation letter answers all three explicitly, not implicitly. The rea
 
 **2. Why now.** Why this moment in your career, and why this moment in the organisation's life. Two questions in one. For your career: what trajectory has brought you to this point, and why is this the natural next step? For the organisation: are they at a moment where what you bring is particularly relevant? A restructuring, a new strategic direction, a recent operational shift? The "why now" question is what makes the application feel timely rather than opportunistic. A letter without it reads as if you sent it because the vacancy was open, not because the timing was right.
 
-**3. Why you.** Not "why I am qualified" (the CV answers that). Why you specifically, in a way that no other candidate could write the same sentence. Concrete moves: surface the [[frameworks/un-transferable-capabilities|UN-Honed Transferable Capabilities]] if you are transitioning out of the UN; use one or two specific [[frameworks/basic-achievement-bank|BASIC]] entries to illustrate; connect the experience explicitly to the role's accountabilities. The test: if you replaced your name with another candidate's, would the same sentences still apply? If yes, the letter has not answered why-you; it has answered why-anyone-with-this-CV.
+**3. Why you.** Not "why I am qualified" (the CV answers that). Why you specifically, in a way that no other candidate could write the same sentence. Concrete moves: surface the [[un-transferable-capabilities|UN-Honed Transferable Capabilities]] if you are transitioning out of the UN; use one or two specific [[basic-achievement-bank|BASIC]] entries to illustrate; connect the experience explicitly to the role's accountabilities. The test: if you replaced your name with another candidate's, would the same sentences still apply? If yes, the letter has not answered why-you; it has answered why-anyone-with-this-CV.
 
 ### Steps
 
@@ -68,8 +68,8 @@ A strong motivation letter answers all three explicitly, not implicitly. The rea
 3. **Strengthen the weakest answer first.** Most drafts have one of the three thin or missing.
 4. **Test for genericness.** For each answer, ask: would this sentence work for another organisation? Another candidate? If yes, sharpen.
 5. **Order the letter so the strongest answer leads.** Hiring managers read the first paragraph carefully and skim what follows.
-6. **Pair with the [[frameworks/application-review-audiences|Application Review Audiences]] check.** The three-question test addresses the hiring manager specifically; the four-audience review covers the recruiter, the system screen, and the panel as well.
-7. **Run all three layers of [[frameworks/third-eye-principle|Third Eye Principle]] before submission.**
+6. **Pair with the [[application-review-audiences|Application Review Audiences]] check.** The three-question test addresses the hiring manager specifically; the four-audience review covers the recruiter, the system screen, and the panel as well.
+7. **Run all three layers of [[third-eye-principle|Third Eye Principle]] before submission.**
 
 ### Worked example
 
@@ -113,11 +113,11 @@ When the application requires no cover letter (rare). For application formats th
 
 ## Related frameworks
 
-- [[frameworks/un-transferable-capabilities|UN-Honed Transferable Capabilities]], the reservoir of "why you" content for staff transitioning out of the UN.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the specific achievements that fill out "why you".
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the upstream tool that surfaces what the role actually requires.
-- [[frameworks/application-review-audiences|Application Review Audiences]], the broader four-audience model in which the hiring-manager stage sits.
-- [[frameworks/r-car|R-CAR]], the writing pattern for the specific bullets supporting the three answers.
+- [[un-transferable-capabilities|UN-Honed Transferable Capabilities]], the reservoir of "why you" content for staff transitioning out of the UN.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the specific achievements that fill out "why you".
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the upstream tool that surfaces what the role actually requires.
+- [[application-review-audiences|Application Review Audiences]], the broader four-audience model in which the hiring-manager stage sits.
+- [[r-car|R-CAR]], the writing pattern for the specific bullets supporting the three answers.
 
 ---
 

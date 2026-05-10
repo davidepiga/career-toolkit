@@ -34,28 +34,28 @@ Presence is one of the thinnest stages in the official programme. Two of the 40 
 
 **Achievement banking**
 
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]] · the five-field structure for documenting one achievement
-- [[frameworks/r-car|R-CAR]] · the structure for turning a BASIC entry into a CV bullet or a cover-letter sentence
-- [[frameworks/third-eye-principle|Third Eye Principle]] · peer review, ATS check, proofreading
+- [[basic-achievement-bank|BASIC Achievement Bank]] · the five-field structure for documenting one achievement
+- [[r-car|R-CAR]] · the structure for turning a BASIC entry into a CV bullet or a cover-letter sentence
+- [[third-eye-principle|Third Eye Principle]] · peer review, ATS check, proofreading
 
 **Reading the application as the recruiter does**
 
-- [[frameworks/application-review-audiences|Application Review Audiences]] · the four-stage journey of any application
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]] · the table that maps achievements to JD requirements
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the analytic reading method
-- [[frameworks/evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · the recruiter-side stripping test
+- [[application-review-audiences|Application Review Audiences]] · the four-stage journey of any application
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · the table that maps achievements to JD requirements
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the analytic reading method
+- [[evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · the recruiter-side stripping test
 
 **Skills made credible**
 
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · the writing pattern for skills-first CVs
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]] · the three-part rewrite test
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · the writing pattern for skills-first CVs
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]] · the three-part rewrite test
 
 **Interview presence**
 
-- [[frameworks/smart-method|SMART Method]] · the competency-based interview answer structure
-- [[frameworks/duties-driven-interview-prep|Duties-Driven Interview Prep]] · the preparation method based on the JD's duty bullets
-- [[frameworks/why-this-why-now-why-you|Why This / Why Now / Why You]] · the four-beat motivation pitch
-- [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · the interview-rehearsal practice
+- [[smart-method|SMART Method]] · the competency-based interview answer structure
+- [[duties-driven-interview-prep|Duties-Driven Interview Prep]] · the preparation method based on the JD's duty bullets
+- [[why-this-why-now-why-you|Why This / Why Now / Why You]] · the four-beat motivation pitch
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · the interview-rehearsal practice
 
 ## Sessions where Presence was primary
 
@@ -64,4 +64,4 @@ Presence is one of the thinnest stages in the official programme. Two of the 40 
 
 ## If your situation is closer to
 
-If your materials look right but the right opportunities are not reaching you, see [[dimensions/visibility|Visibility]]. If your CV is in good shape but you cannot decide what to apply to, see [[dimensions/choice|Choice]]. If the materials are ready and you are inside the application loop, see [[dimensions/pursuit|Pursuit]].
+If your materials look right but the right opportunities are not reaching you, see [[visibility|Visibility]]. If your CV is in good shape but you cannot decide what to apply to, see [[choice|Choice]]. If the materials are ready and you are inside the application loop, see [[pursuit|Pursuit]].

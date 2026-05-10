@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Evidence vs Polish Diagnostic
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A single recruiter-side question to run on your own application before submitting: *"If a recruiter stripped away all the polished language from this CV today, what real evidence would still remain?"* The honest answer separates an AI-augmented strong application from an AI-fluent empty one.
 
@@ -41,7 +41,7 @@ Introduced by Godwin Otim (People and Culture Specialist, UNICEF) at the [[sessi
 
 ### When to use it
 
-- Before submitting any application, after layer one of the [[frameworks/third-eye-principle|Third Eye Principle]].
+- Before submitting any application, after layer one of the [[third-eye-principle|Third Eye Principle]].
 - When you are tempted to apply broadly because the AI-polished cover letters sound good.
 - As a periodic gut check on whether your CV is keeping up with your real work, or has drifted into self-presentation that the work cannot back up.
 
@@ -118,11 +118,11 @@ When you are at the very early-draft stage, before the cover letter and CV have 
 
 ## Related frameworks
 
-- [[frameworks/skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing pattern that produces residue-rich bullets.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that makes the residue retrievable.
-- [[frameworks/third-eye-principle|Third Eye Principle]], the upstream review pass.
-- [[frameworks/career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the workflow that catches gaps before this diagnostic runs.
-- [[frameworks/jd-vs-profile-comparison|JD vs Profile Comparison]], the structured fit articulation that supports the residue.
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]], the writing pattern that produces residue-rich bullets.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that makes the residue retrievable.
+- [[third-eye-principle|Third Eye Principle]], the upstream review pass.
+- [[career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the workflow that catches gaps before this diagnostic runs.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]], the structured fit articulation that supports the residue.
 
 ---
 

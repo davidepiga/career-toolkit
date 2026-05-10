@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Reframe, Adapt, Lead
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 Three moves to keep the growth-mindset stance from drifting into a slogan: reframe what AI is doing to your role, adapt by stacking skills, lead by building learning rituals.
 
@@ -67,7 +67,7 @@ The second move is structural. Skills have a short shelf life; careers are now a
 
 The two most durable competencies, the ones that compound across all the others, are *curiosity* and *the ability to learn fast*. Investing in those pays back in every transition.
 
-*Practice.* Pick one skill at the edge of your current capability that compounds with what you already have. Set a 30 to 60 day investment plan, modest but specific. Run the [[frameworks/skill-matrix-audit|Skill Matrix Audit]] at least every twelve months.
+*Practice.* Pick one skill at the edge of your current capability that compounds with what you already have. Set a 30 to 60 day investment plan, modest but specific. Run the [[skill-matrix-audit|Skill Matrix Audit]] at least every twelve months.
 
 #### 3. Lead
 
@@ -138,10 +138,10 @@ When the question is not actually about growth but about coping with a specific 
 
 ## Related frameworks
 
-- [[frameworks/skill-matrix-audit|Skill Matrix Audit]], the recurring practice that supports the Adapt move.
-- [[frameworks/5i-framework|5i Framework]], the upstream stance the three moves operationalise.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that complements the Reframe at a smaller timescale.
-- [[frameworks/career-mapping|Career Mapping]], the gap analysis that often produces the specific Adapt commitments.
+- [[skill-matrix-audit|Skill Matrix Audit]], the recurring practice that supports the Adapt move.
+- [[5i-framework|5i Framework]], the upstream stance the three moves operationalise.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that complements the Reframe at a smaller timescale.
+- [[career-mapping|Career Mapping]], the gap analysis that often produces the specific Adapt commitments.
 
 ---
 

@@ -29,11 +29,11 @@ last_updated: 2026-05-09
 
 # Skill Matrix Audit
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A six-column matrix for auditing your skills against your target career path. The operational artefact for the Inventory dimension of the 5i Framework.
 
-Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin presented the matrix as the operational artefact for the Inventory dimension of the [[frameworks/5i-framework|5i Framework]]. The worksheet itself is published as the Career Tips Thursday Session 46 worksheet.
+Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin presented the matrix as the operational artefact for the Inventory dimension of the [[5i-framework|5i Framework]]. The worksheet itself is published as the Career Tips Thursday Session 46 worksheet.
 
 ## The framework
 
@@ -41,7 +41,7 @@ A row-per-skill matrix that produces a development plan in one sitting. Six colu
 
 ### When to use it
 
-- During the Inventory dimension of the [[frameworks/5i-framework|5i Framework]], when you have moved from values clarification to skill assessment.
+- During the Inventory dimension of the [[5i-framework|5i Framework]], when you have moved from values clarification to skill assessment.
 - After a skills self-audit, to operationalise the Evolve bucket into specific development plans.
 - When preparing for a deliberate career transition and you need to convert a vague sense of "skills I should develop" into a concrete plan.
 - As an annual exercise to keep your development pointed at the skills the market actually rewards.
@@ -101,7 +101,7 @@ What you need to take the action steps. A budget for a course, a few hours of we
 
 #### Column 7. Timeline
 
-When the development will happen. Specific. Not "this year"; "by end of Q2" or "12 weeks from today". Pair with the Evaluate cadence from your [[frameworks/smarteer-goals|SMARTEER Goals]] so the matrix has built-in checkpoints.
+When the development will happen. Specific. Not "this year"; "by end of Q2" or "12 weeks from today". Pair with the Evaluate cadence from your [[smarteer-goals|SMARTEER Goals]] so the matrix has built-in checkpoints.
 
 ### Steps
 
@@ -145,9 +145,9 @@ The matrix took about 75 minutes to fill in honestly. The development plan is no
 
 ### When not to use it
 
-When you have not done the upstream work of the [[frameworks/5i-framework|5i Framework]] Identify dimension. The matrix assumes you know what direction you are pointed at; if you do not, the matrix produces premature precision.
+When you have not done the upstream work of the [[5i-framework|5i Framework]] Identify dimension. The matrix assumes you know what direction you are pointed at; if you do not, the matrix produces premature precision.
 
-When the change you want is not skill-based (a culture change, a different team, a different pace of work). The matrix is a skill-development tool; for non-skill changes, use [[frameworks/career-mapping|Career Mapping]].
+When the change you want is not skill-based (a culture change, a different team, a different pace of work). The matrix is a skill-development tool; for non-skill changes, use [[career-mapping|Career Mapping]].
 
 When you are at a very early career stage with limited evidence of skill levels. The matrix needs a track record to rate against. Earlier in a career, exploration matters more than auditing.
 
@@ -157,10 +157,10 @@ When you are at a very early career stage with limited evidence of skill levels.
 
 ## Related frameworks
 
-- [[frameworks/5i-framework|5i Framework]], the umbrella framework where the matrix sits as the Inventory dimension's operational artefact.
-- [[frameworks/strengths-profile|Strengths Profile]], the complementary lens that adds energy and use dimensions on top of skill ratings.
-- [[frameworks/smarteer-goals|SMARTEER Goals]], the way to formalise one matrix row into a sustained development goal.
-- [[frameworks/career-mapping|Career Mapping]], the upstream gap analysis that names the target direction.
+- [[5i-framework|5i Framework]], the umbrella framework where the matrix sits as the Inventory dimension's operational artefact.
+- [[strengths-profile|Strengths Profile]], the complementary lens that adds energy and use dimensions on top of skill ratings.
+- [[smarteer-goals|SMARTEER Goals]], the way to formalise one matrix row into a sustained development goal.
+- [[career-mapping|Career Mapping]], the upstream gap analysis that names the target direction.
 
 ---
 

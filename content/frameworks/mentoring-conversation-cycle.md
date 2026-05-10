@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Seven-Step Mentoring Conversation Cycle
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A structured sequence for running a single mentoring conversation: establish trust, align expectations, listen actively, foster self-reflection, share with permission, define actions, evaluate learning. Active listening and confidentiality run through all seven, not as stages but as constants.
 
@@ -117,7 +117,7 @@ The seven-step cycle is the conversation-level structure for any mentoring conve
 
 #### In reverse mentoring
 
-See [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]] for the broader structural layer (Five Principles, REAL Goals, five-step Action Plan). Inside a single conversation, the seven steps still apply, with three points of extra emphasis:
+See [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] for the broader structural layer (Five Principles, REAL Goals, five-step Action Plan). Inside a single conversation, the seven steps still apply, with three points of extra emphasis:
 
 - **Step 1, establish trust.** The vulnerability is asymmetric (the senior has more institutional risk in admitting what they do not know; the junior has more interpersonal risk in giving real feedback). Spend more time here than in traditional mentoring; the cost of skipping is that one or both sides perform.
 - **Step 2, align expectations.** Use the REAL framework explicitly. Goals matter to both parties, allow experimentation, are aspirational, and prioritise learning over task completion. Without REAL framing, reverse mentoring drifts into one-direction teaching.
@@ -125,7 +125,7 @@ See [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]] for the
 
 #### In on-the-job learning
 
-See [[frameworks/on-the-job-learning|On-the-Job Learning]] for the broader structural layer (Mentoring Plan Map, Skills + Mindset + Toolkit). Inside a single OJL conversation:
+See [[on-the-job-learning|On-the-Job Learning]] for the broader structural layer (Mentoring Plan Map, Skills + Mindset + Toolkit). Inside a single OJL conversation:
 
 - **Step 4, foster self-reflection.** The mentee is performing real work. The mentor's question is often "how did you decide to approach it that way?" rather than "what would your wisest self do?". Reflection is anchored to specific, observable work.
 - **Step 6, define concrete actions.** OJL conversations almost always close with a specific next task. The 1-to-10 commitment check still applies, but the actions are usually narrower and more concrete than in traditional mentoring (a specific deliverable for next week, a particular skill to practise on Tuesday's call).
@@ -146,7 +146,7 @@ The seven steps run as originally specified, with active listening and confident
 
 ### When not to use it
 
-When the conversation is actually counselling territory (acute distress, mental health concerns, traumatic personal events). Mentoring shares experience; counselling addresses psychological and emotional needs that require different training. If you sense the conversation has moved into counselling territory, pause and direct the mentee to professional support (staff counsellors, ombudsmen, qualified therapists). See [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
+When the conversation is actually counselling territory (acute distress, mental health concerns, traumatic personal events). Mentoring shares experience; counselling addresses psychological and emotional needs that require different training. If you sense the conversation has moved into counselling territory, pause and direct the mentee to professional support (staff counsellors, ombudsmen, qualified therapists). See [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
 
 ## How I use it
 
@@ -154,10 +154,10 @@ When the conversation is actually counselling territory (acute distress, mental 
 
 ## Related frameworks
 
-- [[frameworks/how-to-approach-a-mentor|How to Approach a Mentor]], the upstream reach-out that produces the conversation this cycle structures.
-- [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinctions that prevent mentoring from drifting into coaching, consulting, or counselling.
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]], the structural layer for reverse mentoring (Five Principles, REAL Goals, five-step Action Plan).
-- [[frameworks/on-the-job-learning|On-the-Job Learning]], the structural layer for embedded skill transfer (Mentoring Plan Map, Skills + Mindset + Toolkit).
+- [[how-to-approach-a-mentor|How to Approach a Mentor]], the upstream reach-out that produces the conversation this cycle structures.
+- [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the distinctions that prevent mentoring from drifting into coaching, consulting, or counselling.
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]], the structural layer for reverse mentoring (Five Principles, REAL Goals, five-step Action Plan).
+- [[on-the-job-learning|On-the-Job Learning]], the structural layer for embedded skill transfer (Mentoring Plan Map, Skills + Mindset + Toolkit).
 
 ---
 

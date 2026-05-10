@@ -29,11 +29,11 @@ last_updated: 2026-05-09
 
 # Silent Coaching Sequence
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A 24-question self-coaching protocol designed to activate a single unrealised strength, ending with a specific committed first action and an exact date.
 
-Introduced by Katarina Posa (IOM) at the [[sessions/cw-day-4-session-5|Use Your Strengths to Boost Your Career]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Kata ran the sequence live with the audience, walking through all 24 questions with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. The strengths-focused complement to the [[frameworks/silent-coaching-for-goals|Silent Coaching for Goals]] sequence introduced by Erin Bowser at Day 4 Session 8.
+Introduced by Katarina Posa (IOM) at the [[sessions/cw-day-4-session-5|Use Your Strengths to Boost Your Career]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Kata ran the sequence live with the audience, walking through all 24 questions with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. The strengths-focused complement to the [[silent-coaching-for-goals|Silent Coaching for Goals]] sequence introduced by Erin Bowser at Day 4 Session 8.
 
 ## The framework
 
@@ -41,7 +41,7 @@ A silent, written self-coaching protocol designed to take you from "I have an un
 
 ### When to use it
 
-- After running the [[frameworks/strengths-profile|Strengths Profile]], once you have identified an unrealised strength you want to activate.
+- After running the [[strengths-profile|Strengths Profile]], once you have identified an unrealised strength you want to activate.
 - When you have a capability you know you have but cannot find a way to use, and you want to break through that pattern.
 - When a previous attempt at activating an unrealised strength fizzled because the commitment was too vague.
 
@@ -95,14 +95,14 @@ The repetition in questions 22 to 24 is intentional. The first time you answer "
 
 ### Worked example
 
-A senior programme officer has identified "coaching and developing others" as her unrealised strength after running the [[frameworks/strengths-profile|Strengths Profile]]. She runs the sequence:
+A senior programme officer has identified "coaching and developing others" as her unrealised strength after running the [[strengths-profile|Strengths Profile]]. She runs the sequence:
 
 - *Q1.* The strength: developing junior colleagues through structured coaching conversations.
 - *Q2.* If she did this more, the team's bench strength would deepen and her own role would feel more meaningful.
 - *Q3.* Highest value: in monthly one-to-ones with her three junior team members, currently used for status updates only.
 - *Q4.* Already showing up: she occasionally pulls a junior aside informally after a meeting to debrief.
 - *Q5.* It worked before: in her previous role, she ran a structured monthly coaching conversation with each direct report.
-- *Q6.* What made it work: she protected the time, used a consistent structure (the [[frameworks/career-conversation-playbook|Career Conversation Playbook]]), and asked questions rather than giving advice.
+- *Q6.* What made it work: she protected the time, used a consistent structure (the [[career-conversation-playbook|Career Conversation Playbook]]), and asked questions rather than giving advice.
 - *Q7.* Where she could use it next week: her Monday morning one-to-one with the junior officer who is preparing for an internal P3 application.
 - *Q8.* What it would look like: a 45-minute conversation, agenda set in advance, focused on her career direction rather than current tasks.
 - *Q9.* Smallest first step: send the junior officer a meeting invitation today titled "career-development conversation" with a 5-line agenda.
@@ -112,7 +112,7 @@ A senior programme officer has identified "coaching and developing others" as he
 - *Q14.* Current use of the strength: 2 out of 10.
 - *Q15.* What would move her to 3: running the structured conversation with one junior officer once a month.
 - *Q16.* Specific action: send the meeting invite this afternoon.
-- *Q17.* Other moves: read the [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]] before the meeting; tell her manager.
+- *Q17.* Other moves: read the [[mentoring-conversation-cycle|Mentoring Conversation Cycle]] before the meeting; tell her manager.
 - *Q18.* The one action: send the meeting invite, with a clear five-line agenda, by end of day.
 - *Q19.* When exactly: 4:30pm today, after this session.
 - *Q20.* Commitment level: 8.
@@ -124,7 +124,7 @@ She closes her notebook. At 4:30pm, the invitation goes out. The sequence took 3
 ### Pitfalls
 
 - **Skipping the early questions to get to the action.** The early questions surface the context and confidence that make the action feel reasonable. Without them, the late-phase commitment is brittle.
-- **Treating the action as the answer to "what should I do with my career?".** The sequence is about activating one strength in one situation. It is not about choosing a destination. Use [[frameworks/career-mapping|Career Mapping]] for that.
+- **Treating the action as the answer to "what should I do with my career?".** The sequence is about activating one strength in one situation. It is not about choosing a destination. Use [[career-mapping|Career Mapping]] for that.
 - **Picking too big an unrealised strength.** "Strategic leadership" is too big to activate with one action. Pick a more specific instance: "running structured one-to-ones", "facilitating a cross-team workshop", "writing a thought-leadership piece on my domain".
 - **Defining the action as a goal rather than a step.** "Coach my team better" is a goal. "Send a meeting invitation today at 4:30pm" is a step. The sequence wants the step.
 - **Setting "next week" as the date.** Be specific. Day, time, location if relevant. The vague date is the failure mode.
@@ -132,7 +132,7 @@ She closes her notebook. At 4:30pm, the invitation goes out. The sequence took 3
 
 ### When not to use it
 
-When the unrealised strength has structural blockers that no first action can address (a role that genuinely has no platform for it, a manager who actively prevents it). In those cases, the activation question is upstream: how do you change the role context? Use [[frameworks/career-mapping|Career Mapping]] and [[frameworks/career-conversation-playbook|Career Conversation Playbook]] first.
+When the unrealised strength has structural blockers that no first action can address (a role that genuinely has no platform for it, a manager who actively prevents it). In those cases, the activation question is upstream: how do you change the role context? Use [[career-mapping|Career Mapping]] and [[career-conversation-playbook|Career Conversation Playbook]] first.
 
 When you are in acute fatigue or burnout. The sequence requires reflective energy. Stabilise first; come back to it.
 
@@ -142,10 +142,10 @@ When you are in acute fatigue or burnout. The sequence requires reflective energ
 
 ## Related frameworks
 
-- [[frameworks/strengths-profile|Strengths Profile]], the upstream four-quadrant model that surfaces unrealised strengths in the first place.
-- [[frameworks/silent-coaching-for-goals|Silent Coaching for Goals]], Erin Bowser's 14-question variant focused on goal-to-action conversion.
-- [[frameworks/career-mapping|Career Mapping]], the longer-arc gap analysis that names where unrealised strengths could lead.
-- [[frameworks/career-conversation-playbook|Career Conversation Playbook]], the structure for the conversation an activated strength often produces with a manager.
+- [[strengths-profile|Strengths Profile]], the upstream four-quadrant model that surfaces unrealised strengths in the first place.
+- [[silent-coaching-for-goals|Silent Coaching for Goals]], Erin Bowser's 14-question variant focused on goal-to-action conversion.
+- [[career-mapping|Career Mapping]], the longer-arc gap analysis that names where unrealised strengths could lead.
+- [[career-conversation-playbook|Career Conversation Playbook]], the structure for the conversation an activated strength often produces with a manager.
 
 ---
 

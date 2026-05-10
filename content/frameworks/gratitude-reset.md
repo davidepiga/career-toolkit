@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Gratitude Reset
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A daily 30-second pause, three or four times a day, to name what you are grateful for. Done consistently, it shifts attentional bias from what is wrong to what is possible. The smallest possible career-development habit, with the largest underlying neuroscience.
 
@@ -38,7 +38,7 @@ Introduced by Sara Canna (Team Lead, Talent Acquisition and Management Unit, WHO
 
 ## The framework
 
-The Gratitude Reset is a small habit with measurable effects on stress physiology and attentional bias. It runs on the [[frameworks/habit-loop|Habit Loop]] and installs cleanly through the [[frameworks/tiny-habits-setup|Tiny Habits Setup]].
+The Gratitude Reset is a small habit with measurable effects on stress physiology and attentional bias. It runs on the [[habit-loop|Habit Loop]] and installs cleanly through the [[tiny-habits-setup|Tiny Habits Setup]].
 
 ### When to use it
 
@@ -60,7 +60,7 @@ The neuroscience the session presented:
 - **Boosts neurotransmitters linked to wellbeing.** Dopamine and serotonin in particular.
 - **Shifts attentional bias.** Over time, the brain starts noticing what is positive and what is possible by default, rather than what is wrong or missing. This is the most useful change for career navigation, where attention to opportunity matters more than attention to obstacles.
 
-The mechanism is the [[frameworks/habit-loop|Habit Loop]]. The cue is the reminder. The craving builds once the brain learns the practice produces calm. The response is the pause and the naming. The reward is the felt sense of slight relief, accumulated across repetitions.
+The mechanism is the [[habit-loop|Habit Loop]]. The cue is the reminder. The craving builds once the brain learns the practice produces calm. The response is the pause and the naming. The reward is the felt sense of slight relief, accumulated across repetitions.
 
 ### Steps
 
@@ -89,7 +89,7 @@ The session's argument: this is what happens every time you do the practice, eve
 
 A common mistake is to do a long gratitude journal once a week instead of brief pauses three to four times daily. The neuroscience favours the second pattern. The brain rewires through frequent small repetitions, not through occasional intense sessions. Three pauses of 30 seconds each beat one journal session of 30 minutes a week, every time.
 
-This is the consistency-over-intensity rule from the [[frameworks/tiny-habits-setup|Tiny Habits Setup]], applied to the specific practice.
+This is the consistency-over-intensity rule from the [[tiny-habits-setup|Tiny Habits Setup]], applied to the specific practice.
 
 ### Pitfalls
 
@@ -112,10 +112,10 @@ When the gratitude framing actively suppresses honest acknowledgement of difficu
 
 ## Related frameworks
 
-- [[frameworks/habit-loop|Habit Loop]], the underlying mechanism that explains why three daily pauses beat a weekly journal.
-- [[frameworks/tiny-habits-setup|Tiny Habits Setup]], the seven-step process that fits this practice naturally.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with gratitude as a more deliberate intervention.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], the longer body-first sequence for harder transitions.
+- [[habit-loop|Habit Loop]], the underlying mechanism that explains why three daily pauses beat a weekly journal.
+- [[tiny-habits-setup|Tiny Habits Setup]], the seven-step process that fits this practice naturally.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine that pairs with gratitude as a more deliberate intervention.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], the longer body-first sequence for harder transitions.
 
 ---
 

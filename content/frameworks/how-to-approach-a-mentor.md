@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # How to Approach a Mentor
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A structure for the first message you send to a potential mentor: clarify your objective, look beyond hierarchy, write a brief specific message with a hook, propose a light bounded commitment.
 
@@ -94,7 +94,7 @@ The default expectation should be a single conversation. Not a programme, not a 
 4. **Draft the message.** Personal opener, hook, ask, light commitment, professional close. Aim for under 150 words.
 5. **Re-read the message before sending.** Does it sound like every other outreach message? If yes, the hook is missing.
 6. **Send.** Then move on to the next person on your shortlist. Do not wait on a single response.
-7. **If they say yes, prepare.** Come to the conversation with the [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]] in mind, especially the alignment-of-expectations step.
+7. **If they say yes, prepare.** Come to the conversation with the [[mentoring-conversation-cycle|Mentoring Conversation Cycle]] in mind, especially the alignment-of-expectations step.
 8. **Follow up afterwards.** A short thank-you message that summarises what you took away. Mention what you will do next as a result. This is what turns a one-off conversation into a relationship.
 
 ### Template
@@ -160,7 +160,7 @@ The script does three things in one sentence: it names the topic, it positions t
 
 When the relationship is already mentor-mentee in nature (a former manager, a long-standing senior colleague who already knows your work). In those cases, the outreach is shorter and lighter. *"Could I borrow 20 minutes for a specific question?"* is enough.
 
-When the conversation needs to be coaching, consulting, or counselling rather than mentoring. See [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
+When the conversation needs to be coaching, consulting, or counselling rather than mentoring. See [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
 
 ## How I use it
 
@@ -168,10 +168,10 @@ When the conversation needs to be coaching, consulting, or counselling rather th
 
 ## Related frameworks
 
-- [[frameworks/mentoring-conversation-cycle|Mentoring Conversation Cycle]], the structure for the conversation once the mentor has agreed.
-- [[frameworks/mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the clarifier on whether mentoring is the right ask in the first place.
-- [[frameworks/reverse-mentoring-playbook|Reverse Mentoring Playbook]], the structural layer for reverse mentoring once the outreach lands.
-- [[frameworks/career-conversation-playbook|Career Conversation Playbook]], a related outreach approach for conversations with managers, also built around the easy-yes ask.
+- [[mentoring-conversation-cycle|Mentoring Conversation Cycle]], the structure for the conversation once the mentor has agreed.
+- [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]], the clarifier on whether mentoring is the right ask in the first place.
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]], the structural layer for reverse mentoring once the outreach lands.
+- [[career-conversation-playbook|Career Conversation Playbook]], a related outreach approach for conversations with managers, also built around the easy-yes ask.
 
 ---
 

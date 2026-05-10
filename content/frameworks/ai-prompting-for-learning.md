@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # AI Prompting for Learning
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 Three principles for getting useful learning support from any AI assistant: be specific about your level, ask for structure, and push it deeper than the default answer.
 
@@ -87,7 +87,7 @@ These questions force the AI to surface the non-obvious, which is where the gain
 2. **State your current level.** "I have never built an AI agent before but I have used ChatGPT for routine tasks for a year." This anchors the AI's response.
 3. **Ask for the roadmap with structure.** "Give me a four-week roadmap with weekly milestones, named resources, and one concrete practice task per week."
 4. **Push for depth.** Once you have the roadmap, follow up: "What would an expert in prompt engineering say is the most overlooked aspect of this roadmap?"
-5. **Pair with practice.** AI output is Education in the [[frameworks/3es-of-development|3 E's of Development]]. Without an Experience commitment ("where will I apply this next week?") the learning will not move.
+5. **Pair with practice.** AI output is Education in the [[3es-of-development|3 E's of Development]]. Without an Experience commitment ("where will I apply this next week?") the learning will not move.
 
 ### Worked example
 
@@ -104,14 +104,14 @@ The same approach works on any general-purpose AI assistant. The point is in the
 - **Asking the broad question and accepting the broad answer.** "Tell me about M&E" produces a generic overview. "Explain results-based M&E to someone with three years of programme management experience but no formal M&E training, with a focus on what most programme officers misunderstand about indicator design" produces something usable.
 - **Skipping the depth-push step.** Most useful learning is one prompt past the default. The third principle is the one that produces real depth.
 - **Treating AI output as authoritative without verification.** AI can be confident and wrong. For high-stakes learning, cross-check against a primary source: a published course, a textbook, a colleague who actually does the work.
-- **Using AI for learning without committing to practice.** AI is the most efficient Education-dimension tool ever built; it is still only Education. Without Experience and Exposure, the learning does not move (see [[frameworks/3es-of-development|3 E's of Development]]).
+- **Using AI for learning without committing to practice.** AI is the most efficient Education-dimension tool ever built; it is still only Education. Without Experience and Exposure, the learning does not move (see [[3es-of-development|3 E's of Development]]).
 - **Confusing fluency with understanding.** AI explanations make you feel like you understand. The test is whether you can apply the concept on a real task; if not, the comprehension was performative.
 
 ### When not to use it
 
 When the topic involves contested or fast-moving policy details, where the AI's training data may be outdated or simplified. For sensitive technical or legal content (compliance, ethics frameworks, sanctions regimes), use AI as a starting point and verify against authoritative sources.
 
-When you are practising a skill rather than learning a topic. AI prompting is for understanding; [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] is for performing.
+When you are practising a skill rather than learning a topic. AI prompting is for understanding; [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] is for performing.
 
 ## How I use it
 
@@ -119,10 +119,10 @@ When you are practising a skill rather than learning a topic. AI prompting is fo
 
 ## Related frameworks
 
-- [[frameworks/3es-of-development|3 E's of Development]], the broader frame in which AI prompting for learning sits as the Education dimension.
-- [[frameworks/ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the companion approach for practising rather than learning.
-- [[frameworks/four-prompting-principles|Four Prompting Principles]], the broader prompting framework that applies to any AI use, not just learning.
-- [[frameworks/career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the more specific career-development application of structured prompting.
+- [[3es-of-development|3 E's of Development]], the broader frame in which AI prompting for learning sits as the Education dimension.
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]], the companion approach for practising rather than learning.
+- [[four-prompting-principles|Four Prompting Principles]], the broader prompting framework that applies to any AI use, not just learning.
+- [[career-gap-to-sprint-workflow|Career Gap to Sprint Workflow]], the more specific career-development application of structured prompting.
 
 ---
 

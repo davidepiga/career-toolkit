@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Micromobility Strategies
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A menu of small career moves you can make without changing roles: task forces, cross-functional projects, acting roles, stretch assignments, shadowing, interagency loans, coffee chats.
 
@@ -42,7 +42,7 @@ A menu of small career moves that build skills, networks, or evidence without re
 ### When to use it
 
 - When you want to grow but a new role is not on the horizon.
-- When you have identified a skill or network gap (often via [[frameworks/career-mapping|Career Mapping]]) and need ways to close it.
+- When you have identified a skill or network gap (often via [[career-mapping|Career Mapping]]) and need ways to close it.
 - During hiring freezes or organisational restructuring, when vertical moves are paused but lateral moves are still possible.
 - When you are testing whether a new direction (a different sector, a different type of work) actually fits before committing to a role change.
 
@@ -128,11 +128,11 @@ Each option below trades a different ratio of effort, time, and visibility. Choo
 
 ### Steps
 
-1. **Diagnose the gap.** From [[frameworks/career-mapping|Career Mapping]] or a recent reflection, name what you are trying to close. Skill, network, visibility, exposure, evidence.
+1. **Diagnose the gap.** From [[career-mapping|Career Mapping]] or a recent reflection, name what you are trying to close. Skill, network, visibility, exposure, evidence.
 2. **Pick the smallest option from the menu that addresses the gap.** Do not over-commit on the first move. A coffee chat that produces clarity beats a six-month task force you cannot sustain.
-3. **Negotiate the manager hand-off.** Most options require manager agreement. Use the [[frameworks/career-conversation-playbook|Career Conversation Playbook]] to frame the ask: how does this also benefit the team or the unit?
+3. **Negotiate the manager hand-off.** Most options require manager agreement. Use the [[career-conversation-playbook|Career Conversation Playbook]] to frame the ask: how does this also benefit the team or the unit?
 4. **Time-bound the commitment.** Set a start and end date. Open-ended commitments are how micromobility turns into invisible second jobs.
-5. **Document the work.** Whatever the move produces (a deliverable, a relationship, a learning), capture it in your [[frameworks/basic-achievement-bank|BASIC achievement bank]] as you go. Do not wait until the move is over.
+5. **Document the work.** Whatever the move produces (a deliverable, a relationship, a learning), capture it in your [[basic-achievement-bank|BASIC achievement bank]] as you go. Do not wait until the move is over.
 6. **Re-diagnose after the move.** Did it close the gap? What is the next smallest move?
 
 ### Worked example
@@ -151,7 +151,7 @@ The micromobility chain is the bridge. None of the moves required leaving her cu
 
 - **Picking too big.** Stretch assignments and interagency loans are strong moves, but they fail when chosen before smaller moves have built the foundation.
 - **Open-ended commitments.** Without an end date, micromobility becomes invisible labour. The manager forgets. The home team resents. You burn out.
-- **Skipping the manager conversation.** Micromobility without manager agreement breeds friction. Use the [[frameworks/career-conversation-playbook|Career Conversation Playbook]] to set it up properly.
+- **Skipping the manager conversation.** Micromobility without manager agreement breeds friction. Use the [[career-conversation-playbook|Career Conversation Playbook]] to set it up properly.
 - **Forgetting to document.** A six-month cross-functional project that does not turn into a CV bullet was not worth the hours. Capture as you go, not at the end.
 - **Treating the menu as exhaustive.** The named options are common; specific organisations have specific channels (rotation programmes, secondments, fellowships). Ask your HR partner or learning officer what your organisation supports.
 
@@ -165,10 +165,10 @@ When the answer is actually a vertical move you have been delaying. Sometimes mi
 
 ## Related frameworks
 
-- [[frameworks/career-mapping|Career Mapping]], the gap analysis that defines what a micromobility move should close.
-- [[frameworks/career-conversation-playbook|Career Conversation Playbook]], the structure for negotiating the manager hand-off.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that turns a micromobility move into reusable application material.
-- [[frameworks/5i-framework|5i Framework]], where micromobility moves often sit inside the Investment dimension.
+- [[career-mapping|Career Mapping]], the gap analysis that defines what a micromobility move should close.
+- [[career-conversation-playbook|Career Conversation Playbook]], the structure for negotiating the manager hand-off.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the documentation tool that turns a micromobility move into reusable application material.
+- [[5i-framework|5i Framework]], where micromobility moves often sit inside the Investment dimension.
 
 ---
 

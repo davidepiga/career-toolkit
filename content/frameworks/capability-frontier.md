@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Capability Frontier
 
-*Dimension: [[dimensions/capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A four-level maturity scale for AI use, plotted across capability areas rather than across job levels: Explorer, Adopter, Practitioner, Builder. Locate yourself honestly, pick one or two adjacent moves, do not try to advance everywhere at once.
 
@@ -134,10 +134,10 @@ The assessment is openly available at [https://ai-skills-shift.lovable.app](http
 
 ## Related frameworks
 
-- [[frameworks/ai-use-as-skill|AI Use as a Skill]], the four-signal framework for how you use AI; the frontier is where you are, the four signals are how you operate at any level.
-- [[frameworks/skills-first-approach|Skills-First Approach]], the broader stance that the frontier operationalises in the AI dimension.
-- [[frameworks/skills-self-audit|Skills Self-Audit]], the broader skills inventory; the frontier slots in as the AI-specific column.
-- [[frameworks/capability-outputs-evidence|Capability + Outputs + Evidence]], the rewrite formula that surfaces the frontier level in application prose.
+- [[ai-use-as-skill|AI Use as a Skill]], the four-signal framework for how you use AI; the frontier is where you are, the four signals are how you operate at any level.
+- [[skills-first-approach|Skills-First Approach]], the broader stance that the frontier operationalises in the AI dimension.
+- [[skills-self-audit|Skills Self-Audit]], the broader skills inventory; the frontier slots in as the AI-specific column.
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]], the rewrite formula that surfaces the frontier level in application prose.
 
 ---
 

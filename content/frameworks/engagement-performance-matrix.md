@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Engagement-Performance Matrix
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A 2x2 self-diagnostic that places each of your major projects or responsibilities on two axes, performance and engagement, producing four quadrants. Used to ground a career conversation in concrete examples instead of a general sense of dissatisfaction.
 
@@ -103,10 +103,10 @@ When you are in genuine crisis (acute mental health, hostile workplace, immediat
 
 ## Related frameworks
 
-- [[frameworks/hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the broader mode diagnostic that the matrix complements at project level.
-- [[frameworks/circle-of-control|Circle of Control]], useful when the matrix surfaces concerns that are outside your direct control.
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that pairs with the matrix on the engagement axis.
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]], the role-clarity test that pairs with the matrix to defend your calendar.
+- [[hazard-coping-thriving-modes|Hazard, Coping, Thriving Modes]], the broader mode diagnostic that the matrix complements at project level.
+- [[circle-of-control|Circle of Control]], useful when the matrix surfaces concerns that are outside your direct control.
+- [[four-loop-alignment|Four-Loop Alignment]], the personal-organisational alignment exercise that pairs with the matrix on the engagement axis.
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]], the role-clarity test that pairs with the matrix to defend your calendar.
 
 ---
 

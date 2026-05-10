@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Accurate Thinking
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-question interrupt for catastrophic thoughts: what evidence holds up in court, what is a realistic alternative, if the worst case happened how exactly would I cope, and what one small step can I take today. Realistic and self-compassionate, not forced positivity.
 
@@ -44,7 +44,7 @@ The brain is naturally designed to detect threat, not to interpret accurately un
 ### When to use it
 
 - When a recurring thought is hijacking your week ("they are about to fire me", "I will never find another contract", "this email means something is wrong").
-- During a [[frameworks/william-bridges-transitional-model|William Bridges]] transition's anxiety or low-point stage, when the body is reacting as if the worst case is already happening.
+- During a [[william-bridges-transitional-model|William Bridges]] transition's anxiety or low-point stage, when the body is reacting as if the worst case is already happening.
 - When a small trigger is producing a disproportionate reaction (a Slack ping, a "can we speak tomorrow" email).
 - When you notice a thinking trap (catastrophisation, mind-reading, all-or-nothing).
 
@@ -86,7 +86,7 @@ The meeting turned out to be about a planning question. The thought never had ev
 
 A useful diagnostic before reaching for the four questions: ask whether the distress comes from the event itself or from the appraisal of your coping capacity.
 
-If the event is genuinely catastrophic and the appraisal is accurate (the contract has actually ended), Accurate Thinking is not the right tool. Use the [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]] to locate yourself on the curve and body-based regulation tools.
+If the event is genuinely catastrophic and the appraisal is accurate (the contract has actually ended), Accurate Thinking is not the right tool. Use the [[william-bridges-transitional-model|William Bridges Transitional Model]] to locate yourself on the curve and body-based regulation tools.
 
 If the event is uncertain or hypothetical and the appraisal is doing most of the work, Accurate Thinking is the right tool. It works on the appraisal directly. This Lazarus check is what stops the four questions becoming a way to talk yourself out of legitimate alarm.
 
@@ -106,9 +106,9 @@ A complementary metaphor that often pairs with Accurate Thinking. In the Japanes
 
 ### When not to use it
 
-When you are in acute distress and need regulation first. Run a body-based reset or [[frameworks/body-scan|Body Scan]] first; come back to Accurate Thinking when the body is settled.
+When you are in acute distress and need regulation first. Run a body-based reset or [[body-scan|Body Scan]] first; come back to Accurate Thinking when the body is settled.
 
-When the situation is genuinely catastrophic and the appraisal is accurate. The four questions will not change the reality. Locate yourself with the [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]] and ask for professional support.
+When the situation is genuinely catastrophic and the appraisal is accurate. The four questions will not change the reality. Locate yourself with the [[william-bridges-transitional-model|William Bridges Transitional Model]] and ask for professional support.
 
 When the thought is about another person and is closer to a values disagreement than a thinking trap. Accurate Thinking is for self-directed thoughts; relational issues need different tools.
 
@@ -118,10 +118,10 @@ When the thought is about another person and is closer to a values disagreement 
 
 ## Related frameworks
 
-- [[frameworks/william-bridges-transitional-model|William Bridges Transitional Model]], the upstream curve that tells you when Accurate Thinking is the right tool.
-- [[frameworks/schmidt-attention-shift|Schmidt's Attention Shift]], the complementary attention-direction move once the catastrophic reading has been interrupted.
-- [[frameworks/circle-of-control|Circle of Control]], the agency question that often follows the realistic-reading question.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the thinking trap before it spirals.
+- [[william-bridges-transitional-model|William Bridges Transitional Model]], the upstream curve that tells you when Accurate Thinking is the right tool.
+- [[schmidt-attention-shift|Schmidt's Attention Shift]], the complementary attention-direction move once the catastrophic reading has been interrupted.
+- [[circle-of-control|Circle of Control]], the agency question that often follows the realistic-reading question.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the in-the-moment routine for catching the thinking trap before it spirals.
 
 ---
 

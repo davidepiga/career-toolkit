@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # JD vs Profile Comparison
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A two-column working document that maps the job's requirements and duties to your own profile, so the application you write reflects what the JD actually asks for and where your transferable experience answers it. The point is to force articulation, not to produce a final document.
 
@@ -41,13 +41,13 @@ Introduced first by Milan Jelenkovic (OPCW) at the [[sessions/cw-day-3-session-4
 
 ### When to use it
 
-- During phase two of the [[frameworks/two-phase-job-search|Two-Phase Job Search]], after you have run the [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]].
+- During phase two of the [[two-phase-job-search|Two-Phase Job Search]], after you have run the [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]].
 - When you suspect your CV is strong on credentials but weak on duty-level fit (a common pattern flagged by recruiters).
 - When you need to articulate how your experience transfers from one sector to another and need to see the mapping clearly before drafting.
 
 ### What you need
 
-The JD, broken down with the colour-coded method. Your CV plus your [[frameworks/basic-achievement-bank|BASIC Achievement Bank]]. Forty-five to sixty minutes for the first pass.
+The JD, broken down with the colour-coded method. Your CV plus your [[basic-achievement-bank|BASIC Achievement Bank]]. Forty-five to sixty minutes for the first pass.
 
 ### Sub-table 1, person specification
 
@@ -115,11 +115,11 @@ When you are applying to a generic talent pool with no role-specific JD attached
 
 ## Related frameworks
 
-- [[frameworks/jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the upstream tool whose output feeds sub-table 2.
-- [[frameworks/basic-achievement-bank|BASIC Achievement Bank]], the source of the evidence column.
-- [[frameworks/r-car|R-CAR]], the structure that turns a row in this table into a CV bullet or cover-letter sentence.
-- [[frameworks/third-eye-principle|Third Eye Principle]], the review pass that should validate the alignment claims this table sets up.
-- [[frameworks/seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the upstream filter that tells you whether to invest in building this table at all.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]], the upstream tool whose output feeds sub-table 2.
+- [[basic-achievement-bank|BASIC Achievement Bank]], the source of the evidence column.
+- [[r-car|R-CAR]], the structure that turns a row in this table into a CV bullet or cover-letter sentence.
+- [[third-eye-principle|Third Eye Principle]], the review pass that should validate the alignment claims this table sets up.
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]], the upstream filter that tells you whether to invest in building this table at all.
 
 ---
 

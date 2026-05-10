@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # AI Roleplay for Skill Practice
 
-*Dimension: [[dimensions/pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A practice routine that uses AI personas to rehearse high-stakes conversations (interviews, stakeholder pushbacks, performance discussions) before they happen for real. Builds confidence through repetition in private, with immediate structured feedback.
 
@@ -67,7 +67,7 @@ A programme officer has a competency-based interview in two weeks for an interna
 
 - **Scenario.** Competency-based interview for a P-3 programme management role. Five questions covering planning and organising, partnership management, results-based management, accountability, and adaptability.
 - **Persona.** A panel chair, experienced UN hiring manager, polite but probing. Pushes back when an answer lacks specificity. Asks a follow-up like "what would you have done differently?" after each main answer.
-- **Rubric.** STAR-structured answers ([[frameworks/r-car|R-CAR]] for written; STAR is the spoken-equivalent: Situation, Task, Action, Result). Concrete examples drawn from her [[frameworks/basic-achievement-bank|BASIC]] bank. No filler, no generic claims.
+- **Rubric.** STAR-structured answers ([[r-car|R-CAR]] for written; STAR is the spoken-equivalent: Situation, Task, Action, Result). Concrete examples drawn from her [[basic-achievement-bank|BASIC]] bank. No filler, no generic claims.
 - **Round 1.** She runs through five questions. The AI pushes back twice on weak specificity. The feedback identifies that her partnership-management answer used the word "stakeholders" five times without naming any specific person, agency, or working relationship.
 - **Round 2.** Same scenario, sharper answers. The AI flags that her adaptability example covered the situation but not the result.
 - **Round 3 to 6.** Iterating, with each round addressing the prior round's feedback.
@@ -80,8 +80,8 @@ By the day of the actual interview, she has had ten rounds of practice. The mist
 Tamara Roura's prescription was to treat AI as a multi-purpose prep partner and to run each use as a separate, focused prompt rather than asking AI to "help me prepare". The five uses:
 
 1. **Interview simulator.** Paste the JD and ask the model to run a roleplay with three to four competency questions drawn from the post. This is the live-rehearsal use covered in detail above.
-2. **Organisation researcher.** Ask the model to summarise the entity's mandate, current strategic priorities, recent major decisions, and likely operational challenges, with citations or links you can verify. The output feeds the [[frameworks/why-this-why-now-why-you|Why This / Why Now / Why You]] test.
-3. **Question generator.** Ask the model to produce 8 to 10 likely interview questions from the JD, then practise answering each one out loud. This complements [[frameworks/duties-driven-interview-prep|Duties-Driven Interview Prep]], which generates questions from the duty bullets specifically.
+2. **Organisation researcher.** Ask the model to summarise the entity's mandate, current strategic priorities, recent major decisions, and likely operational challenges, with citations or links you can verify. The output feeds the [[why-this-why-now-why-you|Why This / Why Now / Why You]] test.
+3. **Question generator.** Ask the model to produce 8 to 10 likely interview questions from the JD, then practise answering each one out loud. This complements [[duties-driven-interview-prep|Duties-Driven Interview Prep]], which generates questions from the duty bullets specifically.
 4. **STAR+L story editor.** Paste a draft answer (Situation, Task, Action, Result, Lesson) and ask the model: is the action section roughly 70%? Is the example calibrated to the seniority of the post? Are there gaps? Is the lesson generalisable? This is a content-quality check, not a writing assistant.
 5. **Motivation pitch editor.** Paste your 60 to 90 second pitch and ask: does it feel authentic, is it adapted to the entity, are the four beats present (who you are, how you got here, why this role, why this entity)?
 
@@ -114,10 +114,10 @@ Tom Frohner cited the science of deliberate practice: 70% of skills are learned 
 
 ## Related frameworks
 
-- [[frameworks/duties-driven-interview-prep|Duties-Driven Interview Prep]], the upstream method that generates the questions to rehearse with.
-- [[frameworks/ai-prompting-for-learning|AI Prompting for Learning]], the companion prompting principles for setting up effective AI sessions.
-- [[frameworks/3es-of-development|3 E's of Development]], where AI roleplay sits inside Education while creating Experience-like rehearsal.
-- [[frameworks/r-car|R-CAR]], the structure for the answers being rehearsed.
+- [[duties-driven-interview-prep|Duties-Driven Interview Prep]], the upstream method that generates the questions to rehearse with.
+- [[ai-prompting-for-learning|AI Prompting for Learning]], the companion prompting principles for setting up effective AI sessions.
+- [[3es-of-development|3 E's of Development]], where AI roleplay sits inside Education while creating Experience-like rehearsal.
+- [[r-car|R-CAR]], the structure for the answers being rehearsed.
 
 ---
 

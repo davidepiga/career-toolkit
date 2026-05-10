@@ -29,11 +29,11 @@ last_updated: 2026-05-09
 
 # SMARTEER Goals
 
-*Dimension: [[dimensions/direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 SMART goals plus three additions that make them human enough to follow through on: Enjoyable, Evaluate, Reward.
 
-Introduced by Shihui Xu (UNDP) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Shihui presented SMARTEER as the second dimension (Intentional) of the [[frameworks/5i-framework|5i Framework]], with the explicit argument that SMART goals fail because they are not human enough.
+Introduced by Shihui Xu (UNDP) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Shihui presented SMARTEER as the second dimension (Intentional) of the [[5i-framework|5i Framework]], with the explicit argument that SMART goals fail because they are not human enough.
 
 ## The framework
 
@@ -43,7 +43,7 @@ SMARTEER extends SMART with three additions: Enjoyable, Evaluate, Reward. The ar
 
 - When setting career or development goals that need to last beyond the first burst of motivation.
 - When previous SMART goals you have set have technically been "well-formed" and yet have failed to produce the change.
-- As the Intentional dimension of the [[frameworks/5i-framework|5i Framework]].
+- As the Intentional dimension of the [[5i-framework|5i Framework]].
 - For personal goals that compete with daily work pressure (a learning track, a fitness routine, a side project).
 
 ### What you need
@@ -146,10 +146,10 @@ When the goal is genuinely imposed (a manager's deliverable, an organisational t
 
 ## Related frameworks
 
-- [[frameworks/5i-framework|5i Framework]], the umbrella framework where SMARTEER sits as the Intentional dimension.
-- [[frameworks/silent-coaching-for-goals|Silent Coaching for Goals]], the protocol that converts a SMARTEER goal into a committed first action.
-- [[frameworks/skill-matrix-audit|Skill Matrix Audit]], the operational artefact that surfaces specific development goals worth formalising as SMARTEER.
-- [[frameworks/career-mapping|Career Mapping]], the upstream gap analysis that often produces the goals SMARTEER then formalises.
+- [[5i-framework|5i Framework]], the umbrella framework where SMARTEER sits as the Intentional dimension.
+- [[silent-coaching-for-goals|Silent Coaching for Goals]], the protocol that converts a SMARTEER goal into a committed first action.
+- [[skill-matrix-audit|Skill Matrix Audit]], the operational artefact that surfaces specific development goals worth formalising as SMARTEER.
+- [[career-mapping|Career Mapping]], the upstream gap analysis that often produces the goals SMARTEER then formalises.
 
 ---
 

@@ -34,35 +34,35 @@ Direction was one of the heavier blocks of the week, comparable to Mindset. Ten 
 
 **Working compass tools**
 
-- [[frameworks/5i-framework|5i Framework]] · Identify, Intentional, Inventory, Investment, Inhibitors
-- [[frameworks/smarteer-goals|SMARTEER Goals]] · SMART plus Enjoyable, Evaluate, Reward
-- [[frameworks/silent-coaching-for-goals|Silent Coaching for Goals]] · the 14-question goal-to-action protocol
-- [[frameworks/skill-matrix-audit|Skill Matrix Audit]] · the six-column worksheet for the Inventory dimension
+- [[5i-framework|5i Framework]] · Identify, Intentional, Inventory, Investment, Inhibitors
+- [[smarteer-goals|SMARTEER Goals]] · SMART plus Enjoyable, Evaluate, Reward
+- [[silent-coaching-for-goals|Silent Coaching for Goals]] · the 14-question goal-to-action protocol
+- [[skill-matrix-audit|Skill Matrix Audit]] · the six-column worksheet for the Inventory dimension
 
 **Career narrative and translation**
 
-- [[frameworks/un-transferable-capabilities|UN-Honed Transferable Capabilities]] · the three capabilities that travel across IGOs
-- [[frameworks/why-this-why-now-why-you|Why This / Why Now / Why You]] · the three-question test for the motivation letter
-- [[frameworks/intelligent-career-model|Intelligent Career Model]] · Why, How, Whom
+- [[un-transferable-capabilities|UN-Honed Transferable Capabilities]] · the three capabilities that travel across IGOs
+- [[why-this-why-now-why-you|Why This / Why Now / Why You]] · the three-question test for the motivation letter
+- [[intelligent-career-model|Intelligent Career Model]] · Why, How, Whom
 
 **Closing the gap deliberately**
 
-- [[frameworks/career-mapping|Career Mapping]] · the upstream gap analysis
-- [[frameworks/micromobility-strategies|Micromobility Strategies]] · the menu of small moves that close the gaps
-- [[frameworks/career-conversation-playbook|Career Conversation Playbook]] · the three-part structure for any deliberate manager or mentor conversation
-- [[frameworks/3-5-key-result-areas|3 to 5 Key Result Areas]] · the role-clarity test that anchors direction in the current role
-- [[frameworks/five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]] · the unsticking tool for analysis paralysis
+- [[career-mapping|Career Mapping]] · the upstream gap analysis
+- [[micromobility-strategies|Micromobility Strategies]] · the menu of small moves that close the gaps
+- [[career-conversation-playbook|Career Conversation Playbook]] · the three-part structure for any deliberate manager or mentor conversation
+- [[3-5-key-result-areas|3 to 5 Key Result Areas]] · the role-clarity test that anchors direction in the current role
+- [[five-ws-plus-how-career-scaffold|Five Ws Plus How, Career Scaffold]] · the unsticking tool for analysis paralysis
 
 **Purpose, values, and mid-career reframe**
 
-- [[frameworks/five-whys-for-purpose|Five Whys for Purpose]] · the recursive sequence to surface a personal purpose statement
-- [[frameworks/four-loop-alignment|Four-Loop Alignment]] · Values, Purpose, Motivation, Impact
-- [[frameworks/reframe-adapt-lead|Reframe, Adapt, Lead]] · the growth-mindset operating layer
+- [[five-whys-for-purpose|Five Whys for Purpose]] · the recursive sequence to surface a personal purpose statement
+- [[four-loop-alignment|Four-Loop Alignment]] · Values, Purpose, Motivation, Impact
+- [[reframe-adapt-lead|Reframe, Adapt, Lead]] · the growth-mindset operating layer
 
 **Direction-as-decision under pressure**
 
-- [[frameworks/sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · the self-classification before any JD work
-- [[frameworks/two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · the self-classification before any JD work
+- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
 
 ## Sessions where Direction was primary
 
@@ -79,4 +79,4 @@ Direction was one of the heavier blocks of the week, comparable to Mindset. Ten 
 
 ## If your situation is closer to
 
-If you have a clear direction but no awareness of what is on offer, see [[dimensions/visibility|Visibility]]. If you have a clear direction and several options on the table, see [[dimensions/choice|Choice]].
+If you have a clear direction but no awareness of what is on offer, see [[visibility|Visibility]]. If you have a clear direction and several options on the table, see [[choice|Choice]].

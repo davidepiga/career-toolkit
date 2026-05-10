@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Feeling Wheel
 
-*Dimension: [[dimensions/mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A circular reference for naming emotions with precision. Combined with the formula *"I am noticing that I am feeling..."*, the wheel turns vague emotional discomfort into specific, regulable information.
 
@@ -120,10 +120,10 @@ When the cultural context discourages specific emotional vocabulary and the prac
 
 ## Related frameworks
 
-- [[frameworks/hand-model-of-the-brain|Hand Model of the Brain]], the structural model that the labelling practice operationalises.
-- [[frameworks/one-minute-inner-reset|One-Minute Inner Reset]], the five-step sequence that uses naming as one of its core moves.
-- [[frameworks/notice-pause-shift-act|Notice, Pause, Shift, Act]], the broader in-the-moment routine.
-- [[frameworks/saboteur-catalog|Saboteur Catalog]], where naming the saboteur is a parallel practice for naming the protective pattern.
+- [[hand-model-of-the-brain|Hand Model of the Brain]], the structural model that the labelling practice operationalises.
+- [[one-minute-inner-reset|One-Minute Inner Reset]], the five-step sequence that uses naming as one of its core moves.
+- [[notice-pause-shift-act|Notice, Pause, Shift, Act]], the broader in-the-moment routine.
+- [[saboteur-catalog|Saboteur Catalog]], where naming the saboteur is a parallel practice for naming the protective pattern.
 
 ---
 
