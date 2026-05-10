@@ -12,10 +12,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Capability
-
-*Foundation*
-
 ## What this dimension is
 
 *What can I actually do, and what am I building?*

@@ -12,10 +12,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Pursuit
-
-*Stage*
-
 ## What this dimension is
 
 *How do I convert?*

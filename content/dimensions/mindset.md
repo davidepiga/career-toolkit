@@ -12,10 +12,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Mindset
-
-*Foundation*
-
 ## What this dimension is
 
 *Am I in the right state to navigate?*

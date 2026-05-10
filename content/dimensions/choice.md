@@ -12,10 +12,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Choice
-
-*Stage*
-
 ## What this dimension is
 
 *What do I go after?*

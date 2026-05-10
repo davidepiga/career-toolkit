@@ -12,10 +12,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Direction
-
-*Stage*
-
 ## What this dimension is
 
 *Where am I aiming?*
