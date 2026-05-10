@@ -9,7 +9,7 @@ last_updated: 2026-05-10
 
 ## What this is
 
-A structured reference of frameworks, tools, and ideas drawn from the sessions of the [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026), organised through a [seven-dimension career navigation model](frameworks/index.md).
+A structured reference of frameworks, tools, and ideas drawn from the sessions of the [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026), organised through a [seven-dimension career navigation model](dimensions/index.md).
 
 Each page is designed to stand on its own, so you can enter from any topic without needing to read the toolkit sequentially.
 
