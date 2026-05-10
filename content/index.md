@@ -6,9 +6,9 @@ tags: []
 status: published
 ---
 
-**Frameworks and tools for navigating a career in international development and humanitarian work, drawn from the UN Inter-Agency Career Week 2026.**
+**Frameworks and tools for navigating a career in international development and humanitarian work**
 
-This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The [https://learning.unog.ch/interagency-career-week-2026](Inter-Agency Career Week 2026) sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
+This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The [Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026) sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
 
 The toolkit is organised by a model of **seven dimensions**: two foundations that run continuously underneath everything, and five stages that cycle as a career unfolds. [How the model is built →](dimensions)
 
@@ -43,9 +43,9 @@ Much of my work over the years has focused on how knowledge moves inside organis
 
 ## Beyond the toolkit
 
-While organising the material, another pattern became visible. Much of the event naturally reflected the perspective of those hiring talent: recruiters, HR professionals, coaches, and leadership advisors. That perspective is valuable and necessary, but it also raised another question: how does all of this look from the perspective of people on the other side of the hiring table, those navigating uncertainty, transition, career stagnation, or job search directly?
+While organising the material, a pattern emerged: much of the event naturally reflected the perspective of those hiring talent: recruiters, HR professionals, coaches, and leadership advisors. That perspective is valuable and necessary, but it also raised another question: how does all of this look from the perspective of people on the other side of the hiring table, those navigating uncertainty, transition, career stagnation, or job search directly?
 
-The question feels particularly relevant at a moment when many international organisations are going through significant change: funding pressure, restructuring, hiring slowdowns, evolving skill demands, and growing uncertainty across the sector.
+The question feels particularly relevant at a moment when many international organisations are going through significant change: funding pressure, restructuring, hiring slowdowns, evolving skill demands, and growing uncertainty across the sector. And that has affected many of us who have dedicated their careers and lives to making the world a better place for everybody.
 
 To explore this further, I started a series of short career conversations aimed at understanding where professionals in this space experience the greatest friction in navigating their careers today.
 
