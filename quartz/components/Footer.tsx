@@ -15,6 +15,9 @@ export default ((opts?: Options) => {
         <p class="footer-attribution">
           Career Navigation Toolkit. Compiled from <a href="https://learning.unog.ch/interagency-career-week-2026">UN Inter-Agency Career Week 2026</a> sessions. See <a href="/about">About</a> for context.
         </p>
+        <p class="footer-disclaimer">
+          Independent resource. Not affiliated with, endorsed by, or produced by the United Nations, UNOG, or the organizers of UN Inter-Agency Career Week 2026. Summaries reflect the author's interpretation of public sessions.
+        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

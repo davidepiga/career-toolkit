@@ -107,6 +107,14 @@ footer .footer-attribution {
   }
 }
 
+footer .footer-disclaimer {
+  font-size: 0.78rem;
+  color: var(--gray, #888);
+  margin: 0 0 0.75rem 0;
+  line-height: 1.4;
+  opacity: 0.75;
+}
+
 footer ul {
   font-size: 0.85rem;
 }
