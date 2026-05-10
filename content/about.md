@@ -7,8 +7,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# About this project
-
 This project started as a personal attempt to better organise and make sense of a content-rich career event focused on international development and humanitarian sectors.
 
 The IACW 2026 sessions brought together recruiters, hiring managers, coaches, sector specialists, and professionals sharing advice on careers, positioning, applications, networking, transitions, and professional growth. The amount of practical guidance was substantial. At the same time, the density of information made it difficult to fully absorb, connect, and reuse.
@@ -43,7 +41,7 @@ The prototype, the conversations, and this toolkit are three separate pieces. Th
 
 ## Three ways to take part
 
-[The form]([https://forms.gle/PLACEHOLDER](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog)) lets you do one, two, or all three of the following: <!-- Davide to confirm Google Form URL -->
+[The form]([https://forms.gle/PLACEHOLDER](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog)) lets you do one, two, or all three of the following:
 
 1. **Participate in a short career conversation.** Contributes to the mapping of pain points described above. Synthesis is shared with everyone who participates.
 2. **Join early testing of the prototype.** Small group, free, ready in one to two weeks. Imperfect. You shape what it becomes.
