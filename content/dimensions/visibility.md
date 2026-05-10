@@ -36,22 +36,22 @@ For someone using this toolkit: if you are stuck because the right opportunities
 
 **Mapping the landscape**
 
-- [[career-mapping|Career Mapping]] · the upstream gap analysis
-- [[micromobility-strategies|Micromobility Strategies]] · task forces, cross-functional projects, acting roles, shadowing, interagency loans
-- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active
+- [[career-mapping|Career Mapping]] · A structured gap analysis between where you are now and where you want to go, broken down into skills, network, and blockers, with three time-bounded next steps.
+- [[micromobility-strategies|Micromobility Strategies]] · A menu of small career moves you can make without changing roles: task forces, cross-functional projects, acting roles, stretch assignments, shadowing, interagency loans, coffee chats.
+- [[two-phase-job-search|Two-Phase Job Search]] · A separation between two activities that look similar but are not: scanning vacancies to decide whether to apply, and working on a specific application. Each phase has its own purpose, depth, and checks.
 
 **Programme-specific reference**
 
-- [[unv-programme-reference|UNV Programme Reference]] · the four on-site categories plus online, the visible and hidden benefits, the application reality (reference)
+- [[unv-programme-reference|UNV Programme Reference]] · A reference page for evaluating the UN Volunteer programme as a deliberate career move. Categories, visible and hidden benefits, application reality, decision steps.
 
 **Networks and weak ties**
 
-- [[how-to-approach-a-mentor|How to Approach a Mentor]] · the outreach pattern
-- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] · access through reciprocity rather than hierarchy
+- [[how-to-approach-a-mentor|How to Approach a Mentor]] · A structure for the first message you send to a potential mentor: clarify your objective, look beyond hierarchy, write a brief specific message with a hook, propose a light bounded commitment.
+- [[reverse-mentoring-playbook|Reverse Mentoring Playbook]] · A playbook for mutual learning between a junior mentor and senior leader. Five Principles, REAL Goals, and a five-step Action Plan to start without institutional permission.
 
 **Skills as a visibility lever**
 
-- [[skills-first-approach|Skills-First Approach]] · the data showing skills-matched candidates qualify for far more roles than title-matched candidates
+- [[skills-first-approach|Skills-First Approach]] · A career strategy that organises around named skills rather than job titles, and prioritises the skills the labour market is actively rewarding right now.
 
 ## Sessions where Visibility was primary
 

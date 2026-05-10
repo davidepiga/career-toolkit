@@ -36,18 +36,18 @@ The frameworks below are the partial answers the programme offered, mostly absor
 
 **The fit threshold**
 
-- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]] · the rule for deciding whether a role is worth a tailored application
+- [[seventy-percent-fit-threshold|Seventy Percent Fit Threshold]] · A decision rule for when a role is worth a tailored application: aim for around 70% fit, not 100% and not 60%. Below 70% you waste tailoring effort; waiting for 100% means you never apply.
 
 **Reading before applying**
 
-- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · the self-classification before any JD work
-- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the preparatory-phase scan
-- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · the gap-spotting table
-- [[two-phase-job-search|Two-Phase Job Search]] · preparatory vs active phases
+- [[sprinter-runner-marathon-typology|Sprinter, Runner, Marathon Runner Typology]] · A self-diagnostic for how you currently engage with job descriptions: skim and apply, read and adjust by assumption, or read, break down, and tailor based on what the JD actually says.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · A four-step method for decoding a job description on a separate document, using a different colour for each category, so what the role actually does becomes visible at a glance.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · A two-column working document that maps the job's requirements and duties to your own profile, so the application reflects what the JD actually asks for and where your transferable experience answers it.
+- [[two-phase-job-search|Two-Phase Job Search]] · A separation between two activities that look similar but are not: scanning vacancies to decide whether to apply, and working on a specific application. Each phase has its own purpose, depth, and checks.
 
 **Filtering by direction**
 
-- [[5i-framework|5i Framework]] · the five dimensions used as a filter at the application decision
+- [[5i-framework|5i Framework]] · A five-dimension coaching framework for making informed career decisions: Identify values, set Intentional goals, take Inventory of skills, plan Investment, name Inhibitors.
 
 ## Sessions where Choice was primary
 

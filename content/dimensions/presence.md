@@ -34,28 +34,28 @@ Presence is one of the thinnest stages in the official programme. Two of the 40 
 
 **Achievement banking**
 
-- [[basic-achievement-bank|BASIC Achievement Bank]] · the five-field structure for documenting one achievement
-- [[r-car|R-CAR]] · the structure for turning a BASIC entry into a CV bullet or a cover-letter sentence
-- [[third-eye-principle|Third Eye Principle]] · peer review, ATS check, proofreading
+- [[basic-achievement-bank|BASIC Achievement Bank]] · A five-field structure for documenting one professional achievement so it can be reused across CVs, cover letters, and interview answers.
+- [[r-car|R-CAR]] · A four-part structure for turning a documented achievement into a single scannable CV bullet or cover-letter sentence: lead with the result, anchor it in context, action, and final outcome.
+- [[third-eye-principle|Third Eye Principle]] · A three-layer review pass for any application before you submit it: alignment, machine-readability, polish. Each layer catches different errors; skipping any one leaves a class of mistakes uncaught.
 
 **Reading the application as the recruiter does**
 
-- [[application-review-audiences|Application Review Audiences]] · the four-stage journey of any application
-- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · the table that maps achievements to JD requirements
-- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · the analytic reading method
-- [[evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · the recruiter-side stripping test
+- [[application-review-audiences|Application Review Audiences]] · A four-stage map of who actually reads your application after you submit it: an AI or system screen, a recruiter, a hiring manager, and a selection panel. Each stage reads with a different lens.
+- [[jd-vs-profile-comparison|JD vs Profile Comparison]] · A two-column working document that maps the job's requirements and duties to your own profile, so the application reflects what the JD actually asks for and where your transferable experience answers it.
+- [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] · A four-step method for decoding a job description on a separate document, using a different colour for each category, so what the role actually does becomes visible at a glance.
+- [[evidence-vs-polish-diagnostic|Evidence vs Polish Diagnostic]] · A single recruiter-side question: if I stripped every polished phrase from this CV today, what real evidence of work would remain? The answer separates a strong application from a fluent empty one.
 
 **Skills made credible**
 
-- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · the writing pattern for skills-first CVs
-- [[capability-outputs-evidence|Capability + Outputs + Evidence]] · the three-part rewrite test
+- [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] · A writing pattern for CV bullets, cover-letter sentences, and interview answers. Name the skill, the action it enabled, and the context it produced impact in.
+- [[capability-outputs-evidence|Capability + Outputs + Evidence]] · A three-part rewrite formula for any CV bullet, motivation paragraph, or LinkedIn line that needs to pass a skills-based or AI-assisted screen.
 
 **Interview presence**
 
-- [[smart-method|SMART Method]] · the competency-based interview answer structure
-- [[duties-driven-interview-prep|Duties-Driven Interview Prep]] · the preparation method based on the JD's duty bullets
-- [[why-this-why-now-why-you|Why This / Why Now / Why You]] · the four-beat motivation pitch
-- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · the interview-rehearsal practice
+- [[smart-method|SMART Method]] · A five-element structure for competency-based interview answers: Situation, Mission, Action, Result, Teachability. The Teachability element distinguishes SMART from STAR and turns difficulty into evidence of self-awareness.
+- [[duties-driven-interview-prep|Duties-Driven Interview Prep]] · A method for preparing competency-based interviews that starts from the vacancy notice's duties section, generating 20 or more likely questions before the interview begins.
+- [[why-this-why-now-why-you|Why This / Why Now / Why You]] · A three-question test for any motivation letter or cover letter. Hiring managers read the motivation letter before the CV; the letter has to answer three things in the first read: why this organisation, why now, why you.
+- [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] · A practice routine that uses AI personas to rehearse high-stakes conversations (interviews, stakeholder pushbacks, performance discussions) before they happen for real.
 
 ## Sessions where Presence was primary
 
