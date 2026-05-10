@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # UNV Programme Reference
 
-*Dimension: [[Visibility|Visibility]] · Type: Stage*
+*Dimension: [[visibility|Visibility]] · Type: Stage*
 
 A reference page for evaluating the UN Volunteer programme as a deliberate career move. Categories, visible and hidden benefits, application reality, decision steps.
 

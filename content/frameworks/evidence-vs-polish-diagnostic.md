@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Evidence vs Polish Diagnostic
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A single recruiter-side question to run on your own application before submitting: *"If a recruiter stripped away all the polished language from this CV today, what real evidence would still remain?"* The honest answer separates an AI-augmented strong application from an AI-fluent empty one.
 

@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Tiny Habits Setup
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A seven-step setup for building a new habit that actually sticks: small enough that failure is nearly impossible, anchored to an existing routine, sensorial, kindly self-talked, consistent over intense.
 

@@ -28,9 +28,9 @@ The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-care
 > |:--|:--|:--|
 > | **[Direction](direction.md)** | *Where are you trying to go, and why?* | Your working hypothesis about the roles, sectors, environments, or type of work you want to move toward, and the reasoning behind those choices. |
 > | **[Presence](presence.md)** | *How do you present yourself to others?* | How you appear across CVs, LinkedIn, portfolios, conversations, interviews, and professional interactions — both online and offline. |
-> | **[Visibility](Visibility.md)** | *How effectively do you see and access relevant opportunities?* | Your exposure to the market: networks, recruiters, communities, platforms, information channels, and your ability to spot opportunities early. |
-> | **[Choice](Choice.md)** | *Which opportunities deserve your time and energy?* | The evaluation and prioritisation process that helps you filter many possible opportunities into a smaller set worth pursuing seriously. |
-> | **[Pursuit](Pursuit.md)** | *How effectively do you convert opportunities into offers?* | The execution phase: applications, networking outreach, interviews, negotiation, follow-up, and the overall process from interest to outcome. |
+> | **[visibility](visibility.md)** | *How effectively do you see and access relevant opportunities?* | Your exposure to the market: networks, recruiters, communities, platforms, information channels, and your ability to spot opportunities early. |
+> | **[choice](choice.md)** | *Which opportunities deserve your time and energy?* | The evaluation and prioritisation process that helps you filter many possible opportunities into a smaller set worth pursuing seriously. |
+> | **[pursuit](pursuit.md)** | *How effectively do you convert opportunities into offers?* | The execution phase: applications, networking outreach, interviews, negotiation, follow-up, and the overall process from interest to outcome. |
 
 ---
 

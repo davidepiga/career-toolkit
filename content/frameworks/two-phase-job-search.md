@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Two-Phase Job Search
 
-*Dimension: [[Choice|Choice]] · Type: Stage*
+*Dimension: [[choice|Choice]] · Type: Stage*
 
 A separation between two activities that look similar but are not: scanning vacancies to decide whether to apply, and working on a specific application. Each phase has its own purpose, its own depth of engagement, and its own checks.
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Reframe, Adapt, Lead
 
-*Dimension: [[Direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 Three moves to keep the growth-mindset stance from drifting into a slogan: reframe what AI is doing to your role, adapt by stacking skills, lead by building learning rituals.
 

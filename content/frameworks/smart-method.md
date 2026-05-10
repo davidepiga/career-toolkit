@@ -33,7 +33,7 @@ last_updated: 2026-05-09
 
 # SMART Method
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A five-element structure for answering competency-based interview questions: Situation, Mission or Task, Action, Result, Teachability. The Teachability element is what distinguishes SMART from the better-known STAR. Including a brief lessons-learned reflection turns a difficult situation into evidence of self-awareness rather than a confession.
 

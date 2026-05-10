@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # JD Colour-Coded Breakdown
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-step method for decoding a job description on a separate document, using a different colour for each category, so that what the role actually does becomes visible at a glance. The output is the working sheet you tailor your application against.
 

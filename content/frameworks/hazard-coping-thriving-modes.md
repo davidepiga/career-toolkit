@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Hazard, Coping, Thriving Modes
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 Three modes for diagnosing how you currently relate to your career situation: stuck (hazard), surviving (coping), or growing (thriving). The same external system can produce all three, depending on how you interact with it.
 

@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Career Mapping
 
-*Dimension: [[Direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A structured gap analysis between where you are now and where you want to go, broken down into skills, network, and blockers, with three time-bounded next steps.
 

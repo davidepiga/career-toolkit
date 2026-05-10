@@ -77,4 +77,4 @@ Pursuit is the densest stage in the programme in named tools. Eight sessions had
 
 ## If your situation is closer to
 
-If you are inside the application loop but the materials feel weak, see [[Presence|Presence]]. If you are unsure your skills match what the role actually requires, see [[Capability|Capability]].
+If you are inside the application loop but the materials feel weak, see [[presence|Presence]]. If you are unsure your skills match what the role actually requires, see [[capability|Capability]].

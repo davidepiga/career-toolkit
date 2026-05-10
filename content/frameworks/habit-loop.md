@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Habit Loop
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-stage behavioural cycle (cue, craving, response, reward) that explains why habits run on autopilot. Knowing the loop gives you four points to intervene when building a new habit or breaking an old one.
 

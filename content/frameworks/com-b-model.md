@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # COM-B Model
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A behavioural-science diagnostic for any goal that is not happening. For a behaviour to occur, three components must be in place at the same time: Capability (mental and physical), Opportunity (physical and social environment), Motivation (conscious attitudes and unconscious habits). Most stalled behaviours are blamed on motivation when the bottleneck is actually opportunity.
 

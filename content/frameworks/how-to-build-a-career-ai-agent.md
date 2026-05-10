@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # How to Build a Career AI Agent
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A field-by-field walkthrough for setting up a custom AI agent for a recurring career-development task. Works on ChatGPT, Copilot, Gemini, and similar platforms with minor variations. Most of the work happens in the instructions field, not anywhere else.
 

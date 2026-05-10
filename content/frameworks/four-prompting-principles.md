@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Four Prompting Principles
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 Four dimensions for structuring any prompt to a general-purpose AI assistant: give context, iterate, calibrate the freedom you give the model, and specify the output format.
 

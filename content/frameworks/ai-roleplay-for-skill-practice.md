@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # AI Roleplay for Skill Practice
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A practice routine that uses AI personas to rehearse high-stakes conversations (interviews, stakeholder pushbacks, performance discussions) before they happen for real. Builds confidence through repetition in private, with immediate structured feedback.
 

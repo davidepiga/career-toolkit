@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Immunity to Change
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-column diagnostic for the gap between knowing what you should do and not doing it. The map's central reframe: when you keep failing to move toward a goal you genuinely want, the cause is rarely resistance. You are protecting something. The four columns surface what you are protecting and the assumption underneath it.
 

@@ -19,13 +19,13 @@ The 40 sessions* of the IACW 2026 were each coded against the seven dimensions o
 
 | Dimension | Sessions | Share |
 |---|---:|---:|
-| [[Mindset\|Mindset]] | 12 | 30.0% |
-| [[Direction\|Direction]] | 10 | 25.0% |
-| [[Pursuit\|Pursuit]] | 8 | 20.0% |
-| [[Capability\|Capability]] | 7 | 17.5% |
-| [[Presence\|Presence]] | 2 | 5.0% |
-| [[Visibility\|Visibility]] | 1 | 2.5% |
-| [[Choice\|Choice]] | 0 | 0.0% |
+| [[mindset\|Mindset]] | 12 | 30.0% |
+| [[direction\|Direction]] | 10 | 25.0% |
+| [[pursuit\|Pursuit]] | 8 | 20.0% |
+| [[capability\|Capability]] | 7 | 17.5% |
+| [[presence\|Presence]] | 2 | 5.0% |
+| [[visibility\|Visibility]] | 1 | 2.5% |
+| [[choice\|Choice]] | 0 | 0.0% |
 
 ### Any-mention (a session can contribute to multiple dimensions)
 
@@ -77,46 +77,46 @@ This is not a criticism of the speakers, who were credible, prepared, and genero
 
 | Day | Slot | Title | Lang | Format | Primary | Any-mention |
 |---|---|---|---|---|---|---|
-| 1 | 1 | From the UN to the Private Sector | EN | Pres | [[Direction\|D]] | D, C, Pu |
-| 1 | 2 | Inside the Recruiter's Mind | EN | PD | [[Pursuit\|Pu]] | Pu, P |
-| 1 | 3 | Talent on the Move | FR | PD | [[Direction\|D]] | D, V, Ch |
-| 1 | 4 | Mapping Your Motivators for Career Choices | EN | Clinic | [[Direction\|D]] | D, M |
-| 1 | 5 | Your Career, Your Conversation | EN | Pres | [[Pursuit\|Pu]] | Pu, D |
-| 1 | 6 | A Mind-Blowing Tour of AI Tools | EN | Pres | [[Capability\|C]] | C, Pu, P |
-| 1 | 7 | Opportunités de carrière, jeunes professionnels | FR | Pres | [[Pursuit\|Pu]] | Pu, V |
-| 1 | 8 | Mastering Job Interviews | EN | Pres | [[Pursuit\|Pu]] | Pu, P |
-| 2 | 1 | Thriving in Uncertainty | EN | Pres | [[Mindset\|M]] | M |
-| 2 | 2 | Private Sector Unlocked | EN | PD | [[Direction\|D]] | D, Pu, C |
-| 2 | 3 | Recherche d'emploi optimisée par l'IA | FR | Clinic | [[Pursuit\|Pu]] | Pu, C |
-| 2 | 4 | Mapping Professional Achievements (BASIC, R-CAR) | EN | Pres | [[Presence\|P]] | P, Pu |
-| 2 | 5 | Strengthening Adaptability Muscles | EN | Pres | [[Mindset\|M]] | M |
-| 2 | 6 | From Sat Nav to Compass | EN | Pres | [[Direction\|D]] | D, M |
-| 2 | 7 | Thriving Globally, Human Side of Relocation | EN | PD | [[Mindset\|M]] | M, D |
-| 2 | 8 | Cómo dominar las entrevistas de trabajo | ES | Pres | [[Pursuit\|Pu]] | Pu, P |
-| 3 | 1 | Beyond the Algorithm, Career for Life 3.0 | EN | Pres | [[Direction\|D]] | D, C, M |
-| 3 | 2 | Upskilling for the Future | EN | PD | [[Capability\|C]] | C, V |
-| 3 | 3 | AI for Your Career, Practical Tools and Prompts | EN | Clinic | [[Capability\|C]] | C, Pu, P |
-| 3 | 4 | Breaking Down Job Descriptions | EN | Pres | [[Pursuit\|Pu]] | Pu, P |
-| 3 | 5 | Managing Your Saboteurs | EN | Pres | [[Mindset\|M]] | M |
-| 3 | 6 | Construye tu Asistente de Carrera con IA | ES | Pres | [[Capability\|C]] | C, Pu |
-| 3 | 7 | Career Development as Psychosocial Hazard | EN | Pres | [[Mindset\|M]] | M, Pu, D |
-| 3 | 8 | Desarrollo de habilidades a través de la mentoría | ES | Clinic | [[Capability\|C]] | C, V, D |
-| 4 | 1 | Habits Under Pressure | EN | Pres | [[Mindset\|M]] | M, C |
-| 4 | 2 | Becoming a UN Volunteer | EN | Pres | [[Direction\|D]] | D, V, Pu |
-| 4 | 3 | Leading from Within | EN | Pres | [[Mindset\|M]] | M |
-| 4 | 4 | What Remains When Everything Changes | EN | Pres | [[Mindset\|M]] | M, D |
-| 4 | 5 | Use Your Strengths to Boost Your Career | EN | Pres | [[Mindset\|M]] | M, D |
-| 4 | 6 | Building a Winning Profile from Application to Interview | EN | Pres | [[Presence\|P]] | P, Pu |
-| 4 | 7 | Youth Engagement, Put in Practice | EN | Pres | [[Visibility\|V]] | V, Pu, D |
-| 4 | 8 | Make Career Moves with the 5i Framework | EN | Pres | [[Direction\|D]] | D, Ch, M |
-| 5 | 1 | Behavioural Science for Career Development | EN | Pres | [[Mindset\|M]] | M, C |
-| 5 | 2 | Beyond the UN Blue, Transition to Other IGOs | EN | PD | [[Direction\|D]] | D, V, Pu |
-| 5 | 3 | Maîtriser les entretiens d'embauche | FR | Clinic | [[Pursuit\|Pu]] | Pu, P |
-| 5 | 4 | The Skills Shift, Skills-Based Hiring and AI Agents | EN | Clinic | [[Capability\|C]] | C, V |
-| 5 | 5 | Activating Inner Resources in Uncertain Times | EN | Pres | [[Mindset\|M]] | M |
-| 5 | 6 | Mentoring 2.0, From Top-Down to All-Around | EN | Pres | [[Capability\|C]] | C, V |
-| 5 | 7 | Working for Justice | EN | Pres | [[Direction\|D]] | D |
-| 5 | 8 | Own Your Future, Make Your Role Matter | EN | Pres | [[Mindset\|M]] | M, D |
+| 1 | 1 | From the UN to the Private Sector | EN | Pres | [[direction\|D]] | D, C, Pu |
+| 1 | 2 | Inside the Recruiter's Mind | EN | PD | [[pursuit\|Pu]] | Pu, P |
+| 1 | 3 | Talent on the Move | FR | PD | [[direction\|D]] | D, V, Ch |
+| 1 | 4 | Mapping Your Motivators for Career Choices | EN | Clinic | [[direction\|D]] | D, M |
+| 1 | 5 | Your Career, Your Conversation | EN | Pres | [[pursuit\|Pu]] | Pu, D |
+| 1 | 6 | A Mind-Blowing Tour of AI Tools | EN | Pres | [[capability\|C]] | C, Pu, P |
+| 1 | 7 | Opportunités de carrière, jeunes professionnels | FR | Pres | [[pursuit\|Pu]] | Pu, V |
+| 1 | 8 | Mastering Job Interviews | EN | Pres | [[pursuit\|Pu]] | Pu, P |
+| 2 | 1 | Thriving in Uncertainty | EN | Pres | [[mindset\|M]] | M |
+| 2 | 2 | Private Sector Unlocked | EN | PD | [[direction\|D]] | D, Pu, C |
+| 2 | 3 | Recherche d'emploi optimisée par l'IA | FR | Clinic | [[pursuit\|Pu]] | Pu, C |
+| 2 | 4 | Mapping Professional Achievements (BASIC, R-CAR) | EN | Pres | [[presence\|P]] | P, Pu |
+| 2 | 5 | Strengthening Adaptability Muscles | EN | Pres | [[mindset\|M]] | M |
+| 2 | 6 | From Sat Nav to Compass | EN | Pres | [[direction\|D]] | D, M |
+| 2 | 7 | Thriving Globally, Human Side of Relocation | EN | PD | [[mindset\|M]] | M, D |
+| 2 | 8 | Cómo dominar las entrevistas de trabajo | ES | Pres | [[pursuit\|Pu]] | Pu, P |
+| 3 | 1 | Beyond the Algorithm, Career for Life 3.0 | EN | Pres | [[direction\|D]] | D, C, M |
+| 3 | 2 | Upskilling for the Future | EN | PD | [[capability\|C]] | C, V |
+| 3 | 3 | AI for Your Career, Practical Tools and Prompts | EN | Clinic | [[capability\|C]] | C, Pu, P |
+| 3 | 4 | Breaking Down Job Descriptions | EN | Pres | [[pursuit\|Pu]] | Pu, P |
+| 3 | 5 | Managing Your Saboteurs | EN | Pres | [[mindset\|M]] | M |
+| 3 | 6 | Construye tu Asistente de Carrera con IA | ES | Pres | [[capability\|C]] | C, Pu |
+| 3 | 7 | Career Development as Psychosocial Hazard | EN | Pres | [[mindset\|M]] | M, Pu, D |
+| 3 | 8 | Desarrollo de habilidades a través de la mentoría | ES | Clinic | [[capability\|C]] | C, V, D |
+| 4 | 1 | Habits Under Pressure | EN | Pres | [[mindset\|M]] | M, C |
+| 4 | 2 | Becoming a UN Volunteer | EN | Pres | [[direction\|D]] | D, V, Pu |
+| 4 | 3 | Leading from Within | EN | Pres | [[mindset\|M]] | M |
+| 4 | 4 | What Remains When Everything Changes | EN | Pres | [[mindset\|M]] | M, D |
+| 4 | 5 | Use Your Strengths to Boost Your Career | EN | Pres | [[mindset\|M]] | M, D |
+| 4 | 6 | Building a Winning Profile from Application to Interview | EN | Pres | [[presence\|P]] | P, Pu |
+| 4 | 7 | Youth Engagement, Put in Practice | EN | Pres | [[visibility\|V]] | V, Pu, D |
+| 4 | 8 | Make Career Moves with the 5i Framework | EN | Pres | [[direction\|D]] | D, Ch, M |
+| 5 | 1 | Behavioural Science for Career Development | EN | Pres | [[mindset\|M]] | M, C |
+| 5 | 2 | Beyond the UN Blue, Transition to Other IGOs | EN | PD | [[direction\|D]] | D, V, Pu |
+| 5 | 3 | Maîtriser les entretiens d'embauche | FR | Clinic | [[pursuit\|Pu]] | Pu, P |
+| 5 | 4 | The Skills Shift, Skills-Based Hiring and AI Agents | EN | Clinic | [[capability\|C]] | C, V |
+| 5 | 5 | Activating Inner Resources in Uncertain Times | EN | Pres | [[mindset\|M]] | M |
+| 5 | 6 | Mentoring 2.0, From Top-Down to All-Around | EN | Pres | [[capability\|C]] | C, V |
+| 5 | 7 | Working for Justice | EN | Pres | [[direction\|D]] | D |
+| 5 | 8 | Own Your Future, Make Your Role Matter | EN | Pres | [[mindset\|M]] | M, D |
 
 Format: Pres = Presentation, PD = Panel Discussion, Clinic = Clinic. Language: EN = English, FR = French, ES = Spanish.
 

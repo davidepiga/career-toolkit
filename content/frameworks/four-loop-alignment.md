@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Four-Loop Alignment
 
-*Dimension: [[Direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 A diagram exercise that puts your personal Values, Purpose, Motivation, and Impact alongside your organisation's, and looks for the intersection points. You will not align on all four. The point is to find the connections you do have and to lean on them deliberately.
 

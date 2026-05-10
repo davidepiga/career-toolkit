@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Gratitude Reset
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A daily 30-second pause, three or four times a day, to name what you are grateful for. Done consistently, it shifts attentional bias from what is wrong to what is possible. The smallest possible career-development habit, with the largest underlying neuroscience.
 

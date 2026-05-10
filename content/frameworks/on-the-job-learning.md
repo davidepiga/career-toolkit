@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # On-the-Job Learning
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A structured way to make onboarding, reassignment, parental leave replacement, and partial handovers into designed learning events. Mentoring Plan Map plus a Skills + Mindset + Toolkit prep frame.
 

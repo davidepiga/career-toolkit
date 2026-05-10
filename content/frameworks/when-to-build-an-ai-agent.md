@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # When to Build an AI Agent
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A four-criterion decision rule for choosing between a custom AI agent and the standard chat. Most people default to chat for everything; agents are worth the upfront cost in four specific situations.
 

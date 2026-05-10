@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # JD vs Profile Comparison
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A two-column working document that maps the job's requirements and duties to your own profile, so the application you write reflects what the JD actually asks for and where your transferable experience answers it. The point is to force articulation, not to produce a final document.
 

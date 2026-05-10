@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # UN-Honed Transferable Capabilities
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 Three capabilities UN staff systematically underestimate but that travel well to other IGOs: sensemaking in chaos, systems mindset, and professional agility under structural change. A self-recognition reference for staff considering a transition outside the UN, and a checklist of what to surface explicitly in applications and interviews.
 

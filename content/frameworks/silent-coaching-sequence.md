@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Silent Coaching Sequence
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A 24-question self-coaching protocol designed to activate a single unrealised strength, ending with a specific committed first action and an exact date.
 

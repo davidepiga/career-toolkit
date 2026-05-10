@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # William Bridges Transitional Model
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A two-track model that separates the external change you do not control from the internal transition that follows: denial, anxiety and shock, low point, gradual upgrade. Locating yourself on the inner curve normalises the dip.
 

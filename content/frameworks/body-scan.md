@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Body Scan
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A guided sweep of attention from feet to head, simply noticing sensations without trying to change them. No equipment, no movement, no breathing technique. Useful when stress has scattered attention and the body is carrying tension you have not consciously named.
 

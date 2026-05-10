@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Mobility Fatigue
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 The psychological wear that accumulates from repeated cycles of adaptation, detachment, and reorientation in a globally mobile career, distinct from burnout. Naming it is the first intervention. The page introduces the concept and a three-step practice for working with it.
 

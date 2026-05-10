@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # R-CAR
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-part structure for turning a documented achievement into a single scannable CV bullet or cover-letter sentence: lead with the result, anchor it in context, action, and final outcome.
 

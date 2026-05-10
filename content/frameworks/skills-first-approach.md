@@ -33,7 +33,7 @@ last_updated: 2026-05-09
 
 # Skills-First Approach
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A career strategy that organises around named skills rather than job titles, and prioritises the skills the labour market is actively rewarding right now.
 

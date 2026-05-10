@@ -105,4 +105,4 @@ This was the largest single block of the week. Twelve of the 40 sessions had Min
 
 ## If your situation is closer to
 
-If you are clear on your inner state but unsure what to build next, see [[Capability|Capability]]. If you are settled inside but unsure where to point yourself, see [[Direction|Direction]].
+If you are clear on your inner state but unsure what to build next, see [[capability|Capability]]. If you are settled inside but unsure where to point yourself, see [[direction|Direction]].

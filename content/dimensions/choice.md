@@ -55,4 +55,4 @@ None. The dimension is structurally absent from the IACW 2026 primary coding. Se
 
 ## If your situation is closer to
 
-If you are not sure where you want to go in the first place, see [[Direction|Direction]]. If you are clear on direction but the opportunity set is empty, see [[Visibility|Visibility]].
+If you are not sure where you want to go in the first place, see [[direction|Direction]]. If you are clear on direction but the opportunity set is empty, see [[visibility|Visibility]].

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Feeling Wheel
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A circular reference for naming emotions with precision. Combined with the formula *"I am noticing that I am feeling..."*, the wheel turns vague emotional discomfort into specific, regulable information.
 

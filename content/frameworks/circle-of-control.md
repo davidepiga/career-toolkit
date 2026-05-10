@@ -32,7 +32,7 @@ last_updated: 2026-05-09
 
 # Circle of Control
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A three-ring exercise for redirecting energy from concerns you cannot affect to actions you fully control. Use when you feel overwhelmed, stuck, or stretched across too many things at once. Thriving professionals allocate roughly 80% of their energy to the inner ring.
 

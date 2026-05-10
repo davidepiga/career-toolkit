@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # EAST Framework
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 Four design principles for making a desired behaviour more likely to happen: Easy, Attractive, Social, Timely. EAST is the design toolkit; [[com-b-model|COM-B]] is the diagnostic. Apply EAST after COM-B has identified the bottleneck.
 

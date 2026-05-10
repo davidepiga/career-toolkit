@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Five AI Tool Categories
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A taxonomy that separates the AI tools you can use during a job application by what they are actually good at, so you reach for the right one at the right step.
 

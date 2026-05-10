@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Engagement-Performance Matrix
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A 2x2 self-diagnostic that places each of your major projects or responsibilities on two axes, performance and engagement, producing four quadrants. Used to ground a career conversation in concrete examples instead of a general sense of dissatisfaction.
 

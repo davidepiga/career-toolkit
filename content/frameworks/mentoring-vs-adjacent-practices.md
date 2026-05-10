@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Mentoring vs Adjacent Practices
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A clarifier for what mentoring is and is not, by contrast with three close cousins: coaching, counselling, and consulting. Plus the three internal sub-types of mentoring.
 

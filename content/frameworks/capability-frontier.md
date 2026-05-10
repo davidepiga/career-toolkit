@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Capability Frontier
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 A four-level maturity scale for AI use, plotted across capability areas rather than across job levels: Explorer, Adopter, Practitioner, Builder. Locate yourself honestly, pick one or two adjacent moves, do not try to advance everywhere at once.
 

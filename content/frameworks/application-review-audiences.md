@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Application Review Audiences
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A four-stage map of who actually reads your application after you submit it: an AI or system screen, a recruiter, a hiring manager, and a selection panel. Each stage has a different lens. Writing for one audience without considering the others is a common reason strong candidates fall short.
 

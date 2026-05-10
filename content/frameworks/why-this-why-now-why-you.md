@@ -32,7 +32,7 @@ last_updated: 2026-05-09
 
 # Why This, Why Now, Why You
 
-*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[pursuit|Pursuit]] · Type: Stage*
 
 A three-question test for any motivation letter or cover letter. Hiring managers read the motivation letter before the CV. The letter has to answer three things in the first read: why this organisation, why now, why you. If the answer to any of the three is missing or generic, the letter does not survive.
 

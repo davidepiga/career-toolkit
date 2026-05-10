@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Cultural Adjustment Curve
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A four-phase model of the emotional arc most people go through when entering a new culture: excitement, frustration, surface adjustment, deeper adaptation. Knowing the phases in advance reduces the surprise when each one arrives, normalises the difficult middle, and helps you spot whether you are stuck.
 

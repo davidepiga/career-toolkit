@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 20/80 Bucket System
 
-*Dimension: [[Mindset|Mindset]] · Type: Foundation*
+*Dimension: [[mindset|Mindset]] · Type: Foundation*
 
 A pre-task triage rule that puts roughly 20% of your work in a "deserves 110%" bucket and the other 80% in a "good enough" bucket, before you start. A specific counter-move to perfectionism applied to the wrong tasks.
 

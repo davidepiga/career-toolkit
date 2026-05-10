@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # AI Use as a Skill
 
-*Dimension: [[Capability|Capability]] · Type: Foundation*
+*Dimension: [[capability|Capability]] · Type: Foundation*
 
 Four signals panels increasingly look for in AI-assisted work: intentional use, judgment, transparency, appropriateness. The differentiator is no longer whether you used AI, it is how.
 

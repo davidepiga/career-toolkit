@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Intelligent Career Model
 
-*Dimension: [[Direction|Direction]] · Type: Stage*
+*Dimension: [[direction|Direction]] · Type: Stage*
 
 Three questions to run on yourself before any career conversation: Why do you do what you do (values, energy, purpose), How do you do it (skills you have and skills you need), and Whom do you do it with (network, who knows about your purpose). The Whom is the most underused of the three.
 
