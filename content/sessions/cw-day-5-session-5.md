@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Activating Inner Resources in Uncertain Times (OSCE, UNDP)"
 description: "How to activate inner resources during periods of uncertainty, drawing on coaching and emotion-regulation practices."
 type: session

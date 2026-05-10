@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Your Career, Your Conversation"
 description: "How to prepare for and lead the career conversation with your supervisor, with concrete examples from UNOPS, ICAO, and UNIDO."
 type: session

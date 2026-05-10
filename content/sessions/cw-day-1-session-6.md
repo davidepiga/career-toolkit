@@ -1,4 +1,5 @@
 ---
+status: published
 title: "A Mind-Blowing Tour of AI Tools to Accelerate Your Career"
 description: "A guided tour of AI tools you can start using today to accelerate every stage of your career, from drafting to networking."
 type: session

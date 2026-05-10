@@ -1,4 +1,5 @@
 ---
+status: published
 title: "The Skills Shift: What skills-based hiring and AI agents might mean for a UN career (UNICC)"
 description: "How skills-based hiring and AI agents are reshaping recruitment, and what it means for a UN career."
 type: session

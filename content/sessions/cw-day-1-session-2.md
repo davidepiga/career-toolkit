@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Inside the Recruiter’s Mind: How Hiring Really Works in the UN and Beyond"
 description: "Recruiters from UNHCR, LinkedIn, and Michael Page on how applications are screened, what stands out, and how AI changes hiring."
 type: session

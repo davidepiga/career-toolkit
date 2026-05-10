@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Upskilling for the Future - How to Stay Marketable Inside and Beyond the UN"
 description: "How to stay marketable inside and beyond the UN: skills audit, learning strategy, and signal-building for the next role."
 type: session

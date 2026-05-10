@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Breaking Down Job Descriptions"
 description: "How to break down a UN job description and map your profile against it before deciding whether and how to apply."
 type: session

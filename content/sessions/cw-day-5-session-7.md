@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Working for Justice (ICC)"
 description: "Working for justice: career paths and skills needed in the international criminal justice system."
 type: session

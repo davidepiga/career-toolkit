@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Leading from Within: Self-Awareness, Authenticity, and Inner Resilience"
 description: "Self-awareness, authenticity, and inner resilience as foundations for leadership, with practical inner-reset and emotion-naming tools."
 type: session

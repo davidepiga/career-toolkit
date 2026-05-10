@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Mapping Professional Achievements to Job Application and Interview"
 description: "How to build an achievement bank, structure cover-letter statements with R-CAR, and run the Third Eye review before any application."
 type: session

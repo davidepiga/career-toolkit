@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Behavioural Science for Career Development: Evidence-Based Steps for Action"
 description: "Behavioural science for career development: small, evidence-based steps that move from intention to consistent action."
 type: session

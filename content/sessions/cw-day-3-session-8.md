@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Skill Development and Professional Networking through Mentoring"
 description: "Skill development and professional networking through mentoring: how to enter, navigate, and contribute to mentoring relationships."
 type: session

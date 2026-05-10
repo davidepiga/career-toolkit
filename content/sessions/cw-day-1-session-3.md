@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Talent on the Move: Growing your career through mobility"
 description: "Senior UN leaders on how mobility shaped their careers, with practical tips for using mobility as a development tool."
 type: session

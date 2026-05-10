@@ -4,7 +4,7 @@ description: "Two readings of the IACW 2026: what the programme covered against 
 type: audit
 tags: []
 status: published
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 ---
 
 Two readings of the UN Inter-Agency Career Week 2026. The first looks at the programme's topical coverage against the seven dimensions of the [Career Navigation Model](dimensions). The second looks at the speakers who delivered the programme. They are independent measures, and they point in the same direction.

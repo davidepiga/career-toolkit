@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Building a winning profile from application to interview"
 description: "How to build a winning candidate profile from the application stage through to the interview, with recruiter-side insight."
 type: session

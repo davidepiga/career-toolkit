@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Strengthening Your Adaptability Muscles, AQ: The Adaptability Quotient"
 description: "What adaptability is, why it matters, and concrete ways to strengthen your Adaptability Quotient (AQ)."
 type: session

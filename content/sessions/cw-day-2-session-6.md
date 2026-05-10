@@ -1,4 +1,5 @@
 ---
+status: published
 title: "From Sat Nav to Compass: Navigating Your Career in a Changing UN System"
 description: "Build the clarity and confidence to take charge of your career as priorities and opportunities shift across the UN system."
 type: session

@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Own your Future, Make your Role Matter"
 description: "How to take ownership of your future and shape the role you are in, rather than waiting for it to be defined for you."
 type: session

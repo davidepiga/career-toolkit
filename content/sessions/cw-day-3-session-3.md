@@ -1,4 +1,5 @@
 ---
+status: published
 title: "AI for Your Career: Practical Tools and Prompts for Career Management"
 description: "Practical AI prompts for career management: fit analysis, 30-day development sprints, AI roleplay, and a recruiter-side perspective."
 type: session

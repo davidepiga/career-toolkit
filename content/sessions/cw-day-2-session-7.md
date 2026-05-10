@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Thriving Globally - The human side of relocation"
 description: "The human dimension of relocation: stressors, identity shifts, and practical coping strategies for staff and families."
 type: session

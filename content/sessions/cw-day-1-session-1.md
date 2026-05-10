@@ -1,4 +1,5 @@
 ---
+status: published
 title: "From the UN to the Private Sector: Skills that enable Career Transition"
 description: "Strategies, mindset shifts, and skills that help UN staff move from the public sector into private and hybrid roles."
 type: session

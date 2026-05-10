@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Mentoring 2.0: From Top-Down to All-Around"
 description: "Mentoring 2.0: a shift from top-down mentoring to all-around mentoring, including reverse and peer formats."
 type: session

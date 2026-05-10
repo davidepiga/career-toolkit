@@ -1,4 +1,5 @@
 ---
+status: published
 title: "Mastering Job Interviews: Turning Your Experience into a Lever for Success"
 description: "Common interview formats and strategies to communicate strengths in a structured, compelling way that mirrors the role."
 type: session
