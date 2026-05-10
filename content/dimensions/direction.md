@@ -32,7 +32,7 @@ My career narrative, my identity, my target roles, sectors, organisations. The h
 
 ## How this showed up at IACW 2026
 
-Direction was one of the heavier blocks of the week, comparable to Mindset. Ten sessions had it as their primary focus, and eighteen touched it. The recurring move across the week was a shift in metaphor: from the turn-by-turn route, where the next promotion or post is the goal, to the compass, where what stays stable is the direction even when the route changes. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the full data.
+Direction was one of the heavier blocks of the week, comparable to Mindset. Ten sessions had it as their primary focus, and eighteen touched it. The recurring move across the week was a shift in metaphor: from the turn-by-turn route, where the next promotion or post is the goal, to the compass, where what stays stable is the direction even when the route changes. See the [[event-coverage-analysis|Event Coverage Analysis]] for the full data.
 
 ## Frameworks for this dimension
 

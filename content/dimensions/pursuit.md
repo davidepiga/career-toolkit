@@ -32,7 +32,7 @@ The work of actually applying, tailoring, interviewing, negotiating, closing. Th
 
 ## How this showed up at IACW 2026
 
-Pursuit is the densest stage in the programme in named tools. Eight sessions had it as primary focus, and nineteen touched it. The week converges on four moments: turning experience into evidence, reading job descriptions analytically, using AI without over-relying on it, and preparing competency-based interview answers structured for the panel rather than improvised. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the full data.
+Pursuit is the densest stage in the programme in named tools. Eight sessions had it as primary focus, and nineteen touched it. The week converges on four moments: turning experience into evidence, reading job descriptions analytically, using AI without over-relying on it, and preparing competency-based interview answers structured for the panel rather than improvised. See the [[event-coverage-analysis|Event Coverage Analysis]] for the full data.
 
 ## Frameworks for this dimension
 

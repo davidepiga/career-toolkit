@@ -32,7 +32,7 @@ My awareness of what is out there. Job boards, alerts, sector intelligence, netw
 
 ## How this showed up at IACW 2026
 
-Visibility is one of the two thinnest stages in the programme. One session had it as primary focus, and nine touched it. Almost no session in the programme tackles Visibility head-on. The few that do approach it through their host organisations, surfacing UN system entry pathways or specific agencies. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the full data.
+Visibility is one of the two thinnest stages in the programme. One session had it as primary focus, and nine touched it. Almost no session in the programme tackles Visibility head-on. The few that do approach it through their host organisations, surfacing UN system entry pathways or specific agencies. See the [[event-coverage-analysis|Event Coverage Analysis]] for the full data.
 
 For someone using this toolkit: if you are stuck because the right opportunities are not reaching you, the week alone will not solve that. You will need to source those tools elsewhere or build them yourself. The frameworks below cover the partial answers the programme did offer.
 

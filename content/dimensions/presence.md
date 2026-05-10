@@ -32,7 +32,7 @@ The artefacts and signals that represent me to others. CV, LinkedIn, portfolio, 
 
 ## How this showed up at IACW 2026
 
-Presence is one of the thinnest stages in the official programme. Two of the 40 sessions had it as primary focus, and nine touched it. The thinness is itself useful information: the agenda assumes most candidates already know what to do here, when in practice this is where most applications break. The Presence frameworks that exist are concentrated, practical, and worth using carefully. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the full data.
+Presence is one of the thinnest stages in the official programme. Two of the 40 sessions had it as primary focus, and nine touched it. The thinness is itself useful information: the agenda assumes most candidates already know what to do here, when in practice this is where most applications break. The Presence frameworks that exist are concentrated, practical, and worth using carefully. See the [[event-coverage-analysis|Event Coverage Analysis]] for the full data.
 
 ## Frameworks for this dimension
 

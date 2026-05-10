@@ -32,7 +32,7 @@ My motivation, resilience, agency, and how I respond to the emotional cost of un
 
 ## How this showed up at IACW 2026
 
-This was the largest single block of the week. Twelve of the 40 sessions had Mindset as their primary focus, and sixteen touched it. Roughly a third of the programme was about inner state, not job-search mechanics. The signal worth noticing is that the official agenda treats inner work as a structural condition for everything else, not as an optional add-on. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the full data.
+This was the largest single block of the week. Twelve of the 40 sessions had Mindset as their primary focus, and sixteen touched it. Roughly a third of the programme was about inner state, not job-search mechanics. The signal worth noticing is that the official agenda treats inner work as a structural condition for everything else, not as an optional add-on. See the [[event-coverage-analysis|Event Coverage Analysis]] for the full data.
 
 ## Frameworks for this dimension
 

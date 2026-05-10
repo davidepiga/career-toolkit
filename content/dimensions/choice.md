@@ -32,7 +32,7 @@ Filtering and prioritising what is worth my effort. Relevance fit, desirability,
 
 ## How this showed up at IACW 2026
 
-Choice is the thinnest stage in the programme. Zero of the 40 sessions had Choice as their primary focus. Only two touched it: Talent on the Move on Day 1, and the 5i Framework on Day 4. For a programme designed to support the career navigation of staff across 33 UN organisations, there was no session whose job was to help someone decide what to apply to. This is the single hardest claim the [[agenda-coverage-audit|Agenda Coverage Audit]] makes, and the data supports it cleanly.
+Choice is the thinnest stage in the programme. Zero of the 40 sessions had Choice as their primary focus. Only two touched it: Talent on the Move on Day 1, and the 5i Framework on Day 4. For a programme designed to support the career navigation of staff across 33 UN organisations, there was no session whose job was to help someone decide what to apply to. This is the single hardest claim the [[event-coverage-analysis|Event Coverage Analysis]] makes, and the data supports it cleanly.
 
 The frameworks below are the partial answers the programme offered, mostly absorbed into other sessions, especially the JD analysis and 5i sessions.
 
@@ -55,7 +55,7 @@ The frameworks below are the partial answers the programme offered, mostly absor
 
 ## Sessions where Choice was primary
 
-None. The dimension is structurally absent from the IACW 2026 primary coding. See the [[agenda-coverage-audit|Agenda Coverage Audit]] for the data and the discussion.
+None. The dimension is structurally absent from the IACW 2026 primary coding. See the [[event-coverage-analysis|Event Coverage Analysis]] for the data and the discussion.
 
 ## If your situation is closer to
 

@@ -19,7 +19,7 @@ Key references:
 - Framework source: `<DRIVE>/Frameworks/*.md`
 - Session source: `<DRIVE>/Sessions/*.md`
 - Career Navigation Model: `<DRIVE>/System/Career Navigation Model.md`
-- Agenda Coverage Audit: `<DRIVE>/System/Agenda Coverage Audit.md`
+- Event Coverage Analysis: `<DRIVE>/System/Agenda Coverage Audit.md`
 - Frameworks Library Audit: `<DRIVE>/System/Frameworks Library Audit.md`
 - Toolkit design specs: `<DRIVE>/System/Toolkit/01 to 06.md`
 - Agent prompts: `<DRIVE>/System/Toolkit/Agents/*.md`
@@ -32,7 +32,7 @@ Where `<DRIVE>` is the path above.
 ## Repo layout
 
 - `content/`: the Obsidian vault, the only thing Quartz publishes.
-  - `index.md`, `about.md`, `agenda-coverage-audit.md`, `dimensions/`, `frameworks/`, `sessions/`
+  - `index.md`, `about.md`, `event-coverage-analysis.md`, `dimensions/`, `frameworks/`, `sessions/`
 - `quartz/`, `quartz.config.ts`, `quartz.layout.ts`, `package.json`, `tsconfig.json`: Quartz framework. Do not edit unless asked.
 
 ## What you typically do here
