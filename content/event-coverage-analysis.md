@@ -7,13 +7,13 @@ status: published
 last_updated: 2026-05-10
 ---
 
-Two readings of the UN Inter-Agency Career Week 2026. The first looks at the programme's topical coverage against the seven dimensions of the [Career Navigation Model](dimensions/index.md). The second looks at the speakers who delivered the programme. They are independent measures, and they point in the same direction.
+Two readings of the UN Inter-Agency Career Week 2026. The first looks at the programme's topical coverage against the seven dimensions of the [Career Navigation Model](career-navigation-model). The second looks at the speakers who delivered the programme. They are independent measures, and they point in the same direction.
 
 ## 1. Topic coverage
 
 The 40 sessions* of the IACW 2026 were each coded against the seven dimensions of the model. Each session was given one *primary* tag (the dominant focus) and one or more *any-mention* tags (every dimension the session meaningfully touched).
 
-> *Last updated 2026-05-09. Of the 40 sessions, 15 are coded from full notes; the remaining 25 are coded from agenda titles, host, format, and language. A second pass after the recordings are processed will tighten the edges but is unlikely to change the headline ranks.*
+> *Last updated 2026-05-10. Of the 40 sessions, 24 are coded from full notes from the recordings; 13 are coded from agenda titles, host, format, and language and remain as stubs in the toolkit; 3 sessions do not yet have pages in the archive. A second pass after the remaining recordings are processed will tighten the edges but is unlikely to change the headline ranks.*
 
 ### Primary classification (one tag per session, totals 40)
 
@@ -45,7 +45,7 @@ The programme leaned heavy on inner work, narrative, and application mechanics: 
 
 ## 2. Speaker profile
 
-Across the 21 sessions for which the toolkit produced framework pages, 52 distinct speakers were identified. Each was categorised by the functional role they played at the event, drawn from session notes and the speakers' bios provided on the event's website.
+Across the 21 sessions catalogued at the time of the first speaker-side pass, 52 distinct speakers were identified. Each was categorised by the functional role they played at the event, drawn from session notes and the speakers' bios provided on the event's website. A small number of additional speakers will be added as the remaining session notes are processed; the headline ratio is consistent with the public agenda and is unlikely to shift.
 
 | Functional role | Speakers | Share |
 |---|---:|---:|
@@ -122,8 +122,8 @@ Format: Pres = Presentation, PD = Panel Discussion, Clinic = Clinic. Language: E
 
 ## 5. Method and caveats
 
-**Topic coverage** is based on the agenda titles, hosts, formats, and any session notes available at the time of writing. Sessions without notes were coded from the public-facing material; their primary tags can move slightly when the recordings are processed, though the headline shares are unlikely to change.
+**Topic coverage** is based on the agenda titles, hosts, formats, and session notes available at the time of writing. Sessions without notes were coded from the public-facing material; their primary tags can move slightly when the recordings are processed, though the headline shares are unlikely to change. As of 2026-05-10, 24 of the 40 sessions are coded from full notes, 13 from agenda data, and 3 sessions are not yet in the archive.
 
-**Speaker profile** covers 52 distinct speakers across the 21 sessions that produced framework pages in the toolkit. The remaining 19 sessions are not in the speaker count yet because their notes are not processed; their inclusion would refine but is unlikely to change the headline ratio (the speaker mix on the public agenda is consistent across the week). Each speaker was categorised by the role they played at the event, not their full job description. The "candidate-side" criterion is strict: the speaker had to have personally and recently navigated a transition AND be presenting from that lived experience, not from a counselling or programme-design role.
+**Speaker profile** covers 52 distinct speakers across the 21 sessions catalogued at the time of the first speaker-side pass. The headline ratio is unlikely to change once the remaining sessions are added; the speaker mix on the public agenda is consistent across the week. Each speaker was categorised by the role they played at the event, not their full job description. The "candidate-side" criterion is strict: the speaker had to have personally and recently navigated a transition AND be presenting from that lived experience, not from a counselling or programme-design role.
 
 The 34-session figure used informally elsewhere refers to the 34 English-language sessions. The full programme is 40 sessions across English, French, and Spanish.

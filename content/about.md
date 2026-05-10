@@ -34,7 +34,9 @@ The [Event Coverage Analysis](event-coverage-analysis) highlighted two recurring
    - comparatively thin on the practical work of identifying, assessing, and selecting viable opportunities
 
 2. **Most sessions reflected the perspective of the hiring system**
-   Recruiters, HR professionals, coaches, and leadership advisors were strongly represented. The lived perspective of people navigating uncertainty, transition, stagnation, or job search was less visible.
+   
+   Recruiters, HR professionals, coaches, and leadership advisors were strongly represented.
+   The lived perspective of people navigating uncertainty, transition, stagnation, or job search was less visible.
 
 Neither of these is a criticism of the event. They are simply observations about where additional exploration seemed useful.
 
