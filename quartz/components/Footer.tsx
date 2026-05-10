@@ -6,7 +6,7 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Footer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
