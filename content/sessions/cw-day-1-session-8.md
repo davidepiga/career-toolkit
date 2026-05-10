@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Mastering Job Interviews: Turning Your Experience into Impact"
 description: "Common UN and non-UN interview formats, and strategies to communicate strengths in a structured, compelling way."
 type: session
@@ -41,7 +40,7 @@ tags:
   - session
   - day-1
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

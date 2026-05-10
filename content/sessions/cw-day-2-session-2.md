@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Private Sector Unlocked: How to Enter, Adapt, and Succeed"
 description: "How to enter, adapt to, and succeed in the private sector, with practitioners who have moved between sectors."
 type: session
@@ -41,7 +40,7 @@ tags:
   - direction
   - presence
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Breaking Down Job Descriptions"
 description: "How to break down a UN job description and map your profile against it before deciding whether and how to apply."
 type: session
@@ -34,7 +33,7 @@ tags:
   - day-3
   - pursuit
   - choice
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

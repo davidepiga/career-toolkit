@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Mentoring 2.0: From Top-Down to All-Around"
 description: "Mentoring 2.0: a shift from top-down mentoring to all-around mentoring, including reverse and peer formats."
 type: session
@@ -34,7 +33,7 @@ tags:
   - day-5
   - capability
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

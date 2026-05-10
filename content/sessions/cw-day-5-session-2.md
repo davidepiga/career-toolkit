@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Beyond the UN Blue: Navigating Your Career Transition to Other IGOs (OSCE, AIIB)"
 # TODO: description text appears truncated and merged, review against canonical source
 description: "How to navigate a career transition from the UN to other intergovernmental organisations such as OSCE and AIIB. 'UN-for-life' mindset and invites staff to rethink what a successful international career can look like. Through candid."
@@ -40,7 +39,7 @@ tags:
   - direction
   - visibility
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

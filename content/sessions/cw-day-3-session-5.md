@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Managing Your Saboteurs - Removing Barriers to Your Career Growth"
 description: "How to recognise and disarm the inner saboteurs (judge, controller, hyper-achiever, victim) that block career growth."
 type: session
@@ -38,7 +37,7 @@ tags:
   - session
   - day-3
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

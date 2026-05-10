@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Habits under Pressure: Working More Intentionally"
 description: "How protective habits become automatic under pressure, and how to build small intentional habits that support better decisions."
 type: session
@@ -32,7 +31,7 @@ tags:
   - session
   - day-4
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

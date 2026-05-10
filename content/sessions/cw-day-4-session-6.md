@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Building a winning profile from application to interview"
 description: "How to build a winning candidate profile from the application stage through to the interview, with recruiter-side insight."
 type: session
@@ -42,7 +41,7 @@ tags:
   - day-4
   - presence
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

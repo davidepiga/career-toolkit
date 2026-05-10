@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Upskilling for the Future - How to Stay Marketable Inside and Beyond the UN"
 description: "How to stay marketable inside and beyond the UN: skills audit, learning strategy, and signal-building for the next role."
 type: session
@@ -47,7 +46,7 @@ tags:
   - day-3
   - capability
   - direction
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

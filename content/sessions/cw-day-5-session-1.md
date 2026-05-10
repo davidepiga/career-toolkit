@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Behavioural Science for Career Development: Evidence-Based Steps for Action"
 description: "Behavioural science for career development: small, evidence-based steps that move from intention to consistent action."
 type: session
@@ -32,7 +31,7 @@ tags:
   - day-5
   - mindset
   - capability
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

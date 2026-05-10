@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Cómo dominar las entrevistas de trabajo: refleja tu experiencia con impacto"
 description: "Cómo prepararse para entrevistas en organizaciones de Naciones Unidas y otras, comunicando fortalezas con estructura e impacto."
 type: session
@@ -25,7 +24,7 @@ tags:
   - session
   - day-2
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

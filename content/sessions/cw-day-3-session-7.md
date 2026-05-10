@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Career Development: How you can turn a Psychosocial Hazard into a Thriving Strategy"
 description: "How to recognise psychosocial hazards at work and convert them into a thriving career strategy, with concrete coping practices."
 type: session
@@ -41,7 +40,7 @@ tags:
   - day-3
   - mindset
   - direction
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

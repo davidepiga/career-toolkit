@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Opportunités de carrière aux Nations Unies pour les jeunes professionels et conseils pour réussir sa candidature"
 description: "Opportunités de début de carrière aux Nations Unies pour les jeunes professionnels, avec conseils pour des candidatures de qualité."
 type: session
@@ -32,7 +31,7 @@ tags:
   - day-1
   - pursuit
   - visibility
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

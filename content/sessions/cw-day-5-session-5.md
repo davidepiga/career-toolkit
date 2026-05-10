@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Activating Inner Resources in Uncertain Times (OSCE, UNDP)"
 description: "How to activate inner resources during periods of uncertainty, drawing on coaching and emotion-regulation practices."
 type: session
@@ -36,7 +35,7 @@ tags:
   - session
   - day-5
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

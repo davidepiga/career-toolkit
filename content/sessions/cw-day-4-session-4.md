@@ -1,5 +1,4 @@
 ---
-status: published
 title: "What remains when everything changes: Insights from Third Culture and Global Nomad Research"
 description: "What stays stable when everything around you changes, with insights from third culture and global nomad research applied to UN careers."
 type: session
@@ -27,7 +26,7 @@ tags:
   - session
   - day-4
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

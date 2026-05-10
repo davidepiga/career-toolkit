@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Youth Engagement: Put in Practice! (Young Talents in the UN System)"
 description: "Putting youth engagement into practice: how young talents in the UN system can be heard, supported, and grown."
 type: session
@@ -35,7 +34,7 @@ tags:
   - day-4
   - visibility
   - pursuit
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

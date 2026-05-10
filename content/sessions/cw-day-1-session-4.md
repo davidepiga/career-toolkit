@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Mapping Your Motivators for Career Choices"
 description: "Identify the motivators that drive your career choices, and use them as a compass for better-fit opportunities and intentional decisions."
 type: session
@@ -32,7 +31,7 @@ tags:
   - day-1
   - direction
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

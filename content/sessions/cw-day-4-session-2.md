@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Becoming a UN Volunteer: What is in it for you? The Hidden Benefits of Volunteering"
 description: "What it means to become a UN Volunteer, the categories on offer, and the hidden career and personal benefits the role unlocks."
 type: session
@@ -34,7 +33,7 @@ tags:
   - visibility
   - direction
   - capability
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Make career moves with confidence using the 5i Framework"
 description: "The 5i Framework for making informed career moves: clarify identity, intent, ideas, information, and implementation."
 type: session
@@ -39,7 +38,7 @@ tags:
   - direction
   - capability
   - choice
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

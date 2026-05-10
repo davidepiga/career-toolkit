@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Mastering Job Interviews: Turning Your Experience into a Lever for Success"
 description: "Common interview formats and strategies to communicate strengths in a structured, compelling way that mirrors the role."
 type: session
@@ -39,7 +38,7 @@ tags:
   - day-5
   - pursuit
   - presence
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

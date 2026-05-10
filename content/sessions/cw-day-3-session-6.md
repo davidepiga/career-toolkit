@@ -1,5 +1,4 @@
 ---
-status: published
 title: "Construye tu Asistente de Carrera con IA"
 description: "Cómo construir tu propio asistente de carrera con IA, desde definir tus criterios hasta dar instrucciones útiles a un agente."
 type: session
@@ -32,7 +31,7 @@ tags:
   - capability
   - pursuit
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 
