@@ -112,9 +112,6 @@ When the role is genuinely a transit role (a temporary assignment of a few weeks
 
 When the organisational context is in such flux (an active restructure, a sudden funding cliff) that the team's objectives are unstable. Run the exercise once the dust settles.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -125,4 +122,3 @@ When the organisational context is in such flux (an active restructure, a sudden
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

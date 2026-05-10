@@ -99,9 +99,6 @@ When you are in acute distress that requires professional support. The model is 
 
 The Hand Model is original to Dan Siegel and appears in his books *The Whole-Brain Child*, *Mindsight*, and others. The model is a simplification; the underlying neurobiology is more complex, but the simplification is what makes it useful as a quick mental anchor.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -112,4 +109,3 @@ The Hand Model is original to Dan Siegel and appears in his books *The Whole-Bra
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

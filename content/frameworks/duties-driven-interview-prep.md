@@ -146,9 +146,6 @@ When the interview format is not competency-based (a panel discussion, a case in
 
 When the vacancy notice is unusually short or vague. In that case, supplement with information from similar roles in the same organisation, the UN Careers job-level guide, and conversations with anyone you can find who holds a similar position.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -159,4 +156,3 @@ When the vacancy notice is unusually short or vague. In that case, supplement wi
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -153,9 +153,6 @@ When you have just finished a comparable framework (Career Mapping, a recent str
 
 When the decision is small and tactical (a single project to take on, a single course to enrol in). The framework is heavy machinery for direction-level decisions; for tactical ones, a simple [[career-conversation-playbook|Career Conversation Playbook]] is faster.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -166,4 +163,3 @@ When the decision is small and tactical (a single project to take on, a single c
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

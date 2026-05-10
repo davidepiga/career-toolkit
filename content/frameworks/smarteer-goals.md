@@ -140,9 +140,6 @@ When the change you want is at the habit level rather than the goal level. Habit
 
 When the goal is genuinely imposed (a manager's deliverable, an organisational target). SMARTEER works best for goals you own. For imposed targets, the framework can still help you find the part you can make your own, but the energy will not compound the same way.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -153,4 +150,3 @@ When the goal is genuinely imposed (a manager's deliverable, an organisational t
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

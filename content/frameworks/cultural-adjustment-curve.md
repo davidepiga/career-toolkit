@@ -125,9 +125,6 @@ When the move is brief enough that the curve does not apply. A two-week mission 
 
 The Cultural Adjustment Curve has been refined and contested over decades; some empirical reviews question whether the U-shape is universal. Despite the empirical debate, the model remains widely useful as a normalising frame, which is how the speaker presented it.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -138,4 +135,3 @@ The Cultural Adjustment Curve has been refined and contested over decades; some 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

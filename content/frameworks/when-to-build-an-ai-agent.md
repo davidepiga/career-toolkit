@@ -127,9 +127,6 @@ When the task is genuinely one-off (a single career conversation, a single appli
 
 When you are working with sensitive personal data or confidential organisational content. Public AI agents and even most enterprise agents store some context; do not put data in that should not be there.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -140,4 +137,3 @@ When you are working with sensitive personal data or confidential organisational
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -135,9 +135,6 @@ The conversation does not promise a future P-2. It produces a documented record 
 
 When the manager is structurally hostile or actively unwilling, and you have evidence this is not a one-off. In that context, the playbook still applies but the audience changes: skip-level managers, ombudsmen, or trusted senior colleagues. Continuing to invest in a closed conversation does not unblock anything.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -148,4 +145,3 @@ When the manager is structurally hostile or actively unwilling, and you have evi
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

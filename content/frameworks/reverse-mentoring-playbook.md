@@ -187,9 +187,6 @@ When the senior cannot tolerate being the learner. The relationship will not wor
 
 When there is no specific topic to anchor on. "We should mentor each other" without a named topic produces drift. Pick something concrete first; the relationship can broaden later.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -200,4 +197,3 @@ When there is no specific topic to anchor on. "We should mentor each other" with
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

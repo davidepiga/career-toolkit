@@ -129,9 +129,6 @@ When the AI-assisted artefact is a quick internal note that nobody is reading as
 
 The four signals are the speaker's distillation of how UNICC and adjacent UN entities are configuring AI-sandbox technical tests, and how panels are increasingly reading motivation paragraphs and duty descriptions for the same signals. The framing is consistent with the broader literature on responsible AI use in professional settings (responsible AI guidance from OpenAI, Anthropic, Microsoft, Google, and the UN's own AI governance work all converge on similar dimensions). The specific four-signal collapse, and the prescription that they should run through the artefact and through the way the candidate narrates it, is the speaker's contribution.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -142,4 +139,3 @@ The four signals are the speaker's distillation of how UNICC and adjacent UN ent
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

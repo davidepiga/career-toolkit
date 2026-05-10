@@ -132,9 +132,6 @@ By the end of the quarter, the team has moved from privately experimenting to pu
 
 When the question is not actually about growth but about coping with a specific shock (a sudden non-renewal, a major team restructure). The Reframe-Adapt-Lead arc assumes a calm enough state to plan. In a shock, prioritise stabilisation first.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -145,4 +142,3 @@ When the question is not actually about growth but about coping with a specific 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

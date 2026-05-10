@@ -108,9 +108,6 @@ When you are driving or operating machinery. The body scan is for paused moments
 
 The UNDP wellbeing portal at https://wellbeingundp.org has guided audio versions; the OSCE Mental Health Library (internal) has further recordings.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -121,4 +118,3 @@ The UNDP wellbeing portal at https://wellbeingundp.org has guided audio versions
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

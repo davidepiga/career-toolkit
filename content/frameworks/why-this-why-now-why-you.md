@@ -107,9 +107,6 @@ Operational rules: authentic, not a CV recital; written first, then practised ou
 
 When the application requires no cover letter (rare). For application formats that only collect CV plus structured fields, surface the three answers in the most-read fields of the form.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -121,4 +118,3 @@ When the application requires no cover letter (rare). For application formats th
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

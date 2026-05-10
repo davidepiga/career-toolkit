@@ -128,9 +128,6 @@ The four-level scale (Explorer, Adopter, Practitioner, Builder, plus a Not Yet b
 
 The assessment is openly available at [https://ai-skills-shift.lovable.app](https://ai-skills-shift.lovable.app/?session=R9PMFP) and produces a personalised action plan. Treat the action plan as input to the steps above, not as a substitute for them.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -141,4 +138,3 @@ The assessment is openly available at [https://ai-skills-shift.lovable.app](http
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

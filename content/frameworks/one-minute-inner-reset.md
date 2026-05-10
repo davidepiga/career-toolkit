@@ -126,9 +126,6 @@ When you are in acute crisis that needs professional support rather than self-re
 
 When the situation calls for immediate action (a safety issue, a fast-moving conversation that cannot wait). In those contexts, the limbic system is doing its job; reset afterward, not during.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -139,4 +136,3 @@ When the situation calls for immediate action (a safety issue, a fast-moving con
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

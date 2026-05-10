@@ -122,9 +122,6 @@ When you have just produced a purpose statement that fits and someone is asking 
 
 When the question you are facing is operational rather than directional ("which of these two roles should I apply for"). For that, JD vs Profile Comparison and Seventy Percent Fit Threshold are better tools.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -135,4 +132,3 @@ When the question you are facing is operational rather than directional ("which 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

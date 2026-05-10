@@ -138,9 +138,6 @@ When you are applying inside a UN system that still requires title-anchored CVs 
 
 The data points come from Mirek Pospisil's LinkedIn presentation. The storytelling and skill-stacking layer is Rathan Kinhal's. Naria K. Santa Lucia (Microsoft Elevate) added the AI dimension, including a free resource for the UN system: [Microsoft Elevate for Changemakers](https://aka.ms/AIforUNSystemStaff). The inflating-vs-deflating filter and the link to AI screening are Olga Lehtinen's and Matt Valente's contribution from Day 5 Session 4.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -152,4 +149,3 @@ The data points come from Mirek Pospisil's LinkedIn presentation. The storytelli
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

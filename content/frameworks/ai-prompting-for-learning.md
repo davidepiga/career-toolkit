@@ -113,9 +113,6 @@ When the topic involves contested or fast-moving policy details, where the AI's 
 
 When you are practising a skill rather than learning a topic. AI prompting is for understanding; [[ai-roleplay-for-skill-practice|AI Roleplay for Skill Practice]] is for performing.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -126,4 +123,3 @@ When you are practising a skill rather than learning a topic. AI prompting is fo
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

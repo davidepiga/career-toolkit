@@ -122,9 +122,6 @@ The third turn produces a usable starting plan.
 
 When the task is sensitive enough that no AI involvement is appropriate (confidential personnel matters, identifying details of colleagues, classified content). The principles do not legitimise the use; they only improve outputs when AI use is already appropriate.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -135,4 +132,3 @@ When the task is sensitive enough that no AI involvement is appropriate (confide
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

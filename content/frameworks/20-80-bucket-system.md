@@ -87,9 +87,6 @@ Katarina described her own use of the system. Her week typically contains a smal
 
 When the work itself genuinely requires uniform care (clinical documentation, legal contracts, safety-critical procedures). In those domains, every task is a 20%-bucket task and the right move is workload reduction, not bucket triage.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -100,4 +97,3 @@ When the work itself genuinely requires uniform care (clinical documentation, le
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

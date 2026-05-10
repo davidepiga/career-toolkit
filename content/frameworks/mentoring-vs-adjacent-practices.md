@@ -113,9 +113,6 @@ The three sub-types are not exclusive. The same person can have a traditional me
 
 When you are clear on what you need and who provides it. The clarifier exists to prevent mismatched asks; if your ask is already matched, just proceed.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -126,4 +123,3 @@ When you are clear on what you need and who provides it. The clarifier exists to
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

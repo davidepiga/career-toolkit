@@ -117,9 +117,6 @@ The score on day 28 lands at 89%. She submits. The gap that was theoretical is n
 
 When you are dealing with a sensitive or confidential JD or CV (internal-only vacancies, classified contexts, donor-confidential information). Do not paste sensitive personal data or confidential documents into public AI tools. Use organisation-approved enterprise AI environments instead, or do the analysis manually using the [[jd-colour-coded-breakdown|JD Colour-Coded Breakdown]] and [[jd-vs-profile-comparison|JD vs Profile Comparison]].
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -130,4 +127,3 @@ When you are dealing with a sensitive or confidential JD or CV (internal-only va
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

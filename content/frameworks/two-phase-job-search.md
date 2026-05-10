@@ -103,9 +103,6 @@ They allocate three half-day blocks across the week, one per role, for phase two
 
 When you are doing pure exploratory research on a sector or a target organisation, with no specific role open. That is upstream Direction work, not job search.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -115,4 +112,3 @@ When you are doing pure exploratory research on a sector or a target organisatio
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

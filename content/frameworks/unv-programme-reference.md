@@ -134,9 +134,6 @@ When the question is generic ("how do I evaluate fit for any role I am consideri
 
 This page was originally created as `type: framework` (filename `UNV-as-Career-Move.md`) on the assumption that the decision steps made it a framework. On audit, it became clear that the bulk of the page is organisation-specific reference content (UNV's category table, benefits, application stats) and the decision steps wrapped around it are generic enough to be served by the existing fit-evaluation tools. The honest framing is reference, not framework. Renamed and retyped accordingly on 2026-05-09.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -147,4 +144,3 @@ This page was originally created as `type: framework` (filename `UNV-as-Career-M
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

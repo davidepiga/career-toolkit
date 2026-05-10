@@ -173,9 +173,6 @@ When you are at a very early career stage with limited evidence of what you do w
 
 The four-quadrant model is widely associated with Cappfinity and the Centre of Applied Positive Psychology (Alex Linley and colleagues), who developed and commercialised the Strengths Profile assessment. The named formula (Energy x Performance x Use) and the operational distinction between strengths and learned behaviours come from that lineage. The session presented the framework as a practical tool rather than introducing a new model; this page consolidates the speakers' framing with the established source.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -186,4 +183,3 @@ The four-quadrant model is widely associated with Cappfinity and the Centre of A
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

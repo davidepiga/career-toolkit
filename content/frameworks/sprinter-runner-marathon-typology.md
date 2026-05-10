@@ -77,9 +77,6 @@ The pattern is the diagnosis. The fix is to drop most of the sprinter applicatio
 
 When you are applying to a roster or generic talent pool that does not have a specific JD attached. The typology assumes there is a JD to engage with.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -90,4 +87,3 @@ When you are applying to a roster or generic talent pool that does not have a sp
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

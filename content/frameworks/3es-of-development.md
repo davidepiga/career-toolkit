@@ -93,9 +93,6 @@ After 90 days, the skill has moved. The Education alone would have produced a ce
 
 When the question is not actually about skill development but about a binary decision (whether to apply, whether to accept a role). The 3 E's is for plans that span weeks or months, not for next-step decisions.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -106,4 +103,3 @@ When the question is not actually about skill development but about a binary dec
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

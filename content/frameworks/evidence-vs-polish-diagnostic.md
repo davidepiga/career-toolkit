@@ -112,9 +112,6 @@ The residue carries the work.
 
 When you are at the very early-draft stage, before the cover letter and CV have any polish at all. The diagnostic is for late-stage review.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -126,4 +123,3 @@ When you are at the very early-draft stage, before the cover letter and CV have 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

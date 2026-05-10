@@ -136,9 +136,6 @@ When the unrealised strength has structural blockers that no first action can ad
 
 When you are in acute fatigue or burnout. The sequence requires reflective energy. Stabilise first; come back to it.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -149,4 +146,3 @@ When you are in acute fatigue or burnout. The sequence requires reflective energ
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

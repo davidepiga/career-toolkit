@@ -81,9 +81,6 @@ A mid-career programme officer reads three JDs back to back.
 
 When the role is a clear stretch role you are deliberately reaching for as a developmental move and the recruiter knows that. In stretch contexts, the threshold conversation is replaced by an explicit narrative about what you bring and what you will grow into.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -98,4 +95,3 @@ When the role is a clear stretch role you are deliberately reaching for as a dev
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

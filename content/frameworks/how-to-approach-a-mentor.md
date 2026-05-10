@@ -162,9 +162,6 @@ When the relationship is already mentor-mentee in nature (a former manager, a lo
 
 When the conversation needs to be coaching, consulting, or counselling rather than mentoring. See [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -175,4 +172,3 @@ When the conversation needs to be coaching, consulting, or counselling rather th
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

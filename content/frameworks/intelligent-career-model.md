@@ -109,9 +109,6 @@ When you are in acute distress and need regulation first. The three questions ar
 
 When the conversation is purely operational ("can you cover this meeting next Tuesday?"). Save ICM for conversations about direction and capability.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -122,4 +119,3 @@ When the conversation is purely operational ("can you cover this meeting next Tu
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

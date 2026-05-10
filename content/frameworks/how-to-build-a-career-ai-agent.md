@@ -142,9 +142,6 @@ When the use case is one-off; the [[when-to-build-an-ai-agent|When to Build an A
 
 When the agent is going to handle truly sensitive material (personnel decisions, performance dispute documentation, confidential investigations). Use organisation-approved enterprise tools with verified data handling, not consumer agents.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -155,4 +152,3 @@ When the agent is going to handle truly sensitive material (personnel decisions,
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

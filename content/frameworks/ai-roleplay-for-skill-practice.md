@@ -108,9 +108,6 @@ When the persona involves real, identifiable individuals whose names or details 
 
 Tom Frohner cited the science of deliberate practice: 70% of skills are learned through doing, not watching, and AI roleplay enables that at scale, in private, with immediate feedback. Tamara Roura was explicit that AI prep does not replace rehearsing out loud with a human before the day.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -121,4 +118,3 @@ Tom Frohner cited the science of deliberate practice: 70% of skills are learned 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

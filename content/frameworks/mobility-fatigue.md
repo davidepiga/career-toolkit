@@ -125,9 +125,6 @@ When the underlying issue is structural rather than psychological (a contract ab
 
 The named concept "mobility fatigue" is the speaker's framing, drawing on the broader Third Culture Kid literature (Pollock & Van Reken; Davis et al.; Grimshaw & Sears) and Gilbert's 2008 work on disenfranchised loss. The three-step practice consolidates the speaker's session content into an operational sequence; the session presented these as practical guidance rather than a numbered method. The session also introduced the *organisational container* concept (the psychological stability employers provide through continuity), the *rhizomatic identity* model (Deleuze-inspired identity that spreads horizontally rather than rooting in one place), and Bonanno's resilience distribution as supporting concepts.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -138,4 +135,3 @@ The named concept "mobility fatigue" is the speaker's framing, drawing on the br
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

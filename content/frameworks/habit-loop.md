@@ -141,9 +141,6 @@ When the change you want is not really a habit but a one-off decision (whether t
 
 When the limiting pattern is rooted in trauma or acute mental-health concerns. The loop is a behavioural framework; trauma-rooted patterns often need clinical support before behavioural strategies can take.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -154,4 +151,3 @@ When the limiting pattern is rooted in trauma or acute mental-health concerns. T
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -109,9 +109,6 @@ When the role's requirements are longer or split between credentials and duties,
 
 When you are applying to a generic talent pool with no role-specific JD attached. In that case the comparison is against the pool's broad criteria, which is closer to a career-fit reflection than to an application-specific tool.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -123,4 +120,3 @@ When you are applying to a generic talent pool with no role-specific JD attached
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

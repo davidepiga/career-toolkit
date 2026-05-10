@@ -151,9 +151,6 @@ When the change you want is not skill-based (a culture change, a different team,
 
 When you are at a very early career stage with limited evidence of skill levels. The matrix needs a track record to rate against. Earlier in a career, exploration matters more than auditing.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -164,4 +161,3 @@ When you are at a very early career stage with limited evidence of skill levels.
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -98,9 +98,6 @@ The implication: build patience into the timeline. Even after a successful panel
 
 When the application is to a system that is genuinely human-read end-to-end. When the application is for a role you are referred into through network rather than formal channels.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -112,4 +109,3 @@ When the application is to a system that is genuinely human-read end-to-end. Whe
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

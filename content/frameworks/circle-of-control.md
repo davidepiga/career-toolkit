@@ -111,9 +111,6 @@ The session also picked up the exercise live in the Q&A to address a particularl
 
 When you are processing acute distress (a sudden non-renewal, a bereavement, a serious health diagnosis). The redirection exercise can feel dismissive in those moments. Use it after the acute phase has settled, with proper support in place.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -124,4 +121,3 @@ When you are processing acute distress (a sudden non-renewal, a bereavement, a s
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

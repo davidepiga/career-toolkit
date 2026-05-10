@@ -96,9 +96,6 @@ The recurring legal anchor across the JD was Article 10 of the Chemical Weapons 
 
 When you are scanning a vacancy in phase one of the [[two-phase-job-search|Two-Phase Job Search]]. The breakdown is for phase two, after the fit decision.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -109,4 +106,3 @@ When you are scanning a vacancy in phase one of the [[two-phase-job-search|Two-P
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

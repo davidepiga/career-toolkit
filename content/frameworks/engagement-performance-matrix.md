@@ -97,9 +97,6 @@ The output is four named projects with four specific moves. That is what makes t
 
 When you are in genuine crisis (acute mental health, hostile workplace, immediate restructuring stress). The matrix is a calm-state tool. In a crisis, talk to a counsellor or ombudsman first.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -110,4 +107,3 @@ When you are in genuine crisis (acute mental health, hostile workplace, immediat
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

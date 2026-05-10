@@ -115,9 +115,6 @@ Across the sessions, four closely related structures appeared, all valid. STAR i
 
 When the question is technical and asks for content rather than competency demonstration. When time is severely constrained (a 30-second video pre-screen response): use CAR for brevity. When you do not have a specific past example: do not force-fit a theoretical scenario.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -129,4 +126,3 @@ When the question is technical and asks for content rather than competency demon
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

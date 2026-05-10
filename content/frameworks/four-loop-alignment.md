@@ -127,9 +127,6 @@ When the role you are in is genuinely a transit role. The exercise is for roles 
 
 When the organisation has just announced a major restructure and the published vision and mission are about to be redrafted. Wait for the new version, or run the exercise on the personal side only.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -140,4 +137,3 @@ When the organisation has just announced a major restructure and the published v
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -145,9 +145,6 @@ When the underlying issue is a system constraint rather than an internal pattern
 
 The Immunity to Change model is original to Robert Kegan and Lisa Lahey. The full method appears in their 2009 book *Immunity to Change*. Chapter 9 includes a self-guided version of the four-column process; the speaker also referenced a podcast conversation between Lisa Lahey and Brené Brown that demonstrates the model in action. The session itself only sketched the model; this page consolidates the speaker's framing with the published method to make it usable on its own.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -158,4 +155,3 @@ The Immunity to Change model is original to Robert Kegan and Lisa Lahey. The ful
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

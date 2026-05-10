@@ -173,9 +173,6 @@ When neither party has time. OJL is structured time, not bonus time. If neither 
 
 When the moment is too short for OJL to mature (a two-week handover before a separation). Use a compressed handover format with structured Q&A rather than the full Plan Map.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -186,4 +183,3 @@ When the moment is too short for OJL to mature (a two-week handover before a sep
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

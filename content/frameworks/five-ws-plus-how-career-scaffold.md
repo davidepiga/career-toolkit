@@ -138,9 +138,6 @@ When you have a clear direction and a clear plan; the scaffold is for stuck mome
 
 When your stuckness is actually about a values question or a meaning question. The scaffold surfaces operational questions; if the underlying issue is "I am not sure what I care about anymore", run the [[five-whys-for-purpose|Five Whys for Purpose]] exercise first.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -151,4 +148,3 @@ When your stuckness is actually about a values question or a meaning question. T
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

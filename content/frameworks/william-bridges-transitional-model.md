@@ -132,9 +132,6 @@ When the change is genuinely small (a deadline shift, a minor tasking) and the c
 
 When you are supporting someone in acute crisis. The model is for steady-state self-locating, not for a person in immediate distress. In that situation, the right move is professional support, not a four-stage diagnostic.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -145,4 +142,3 @@ When you are supporting someone in acute crisis. The model is for steady-state s
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

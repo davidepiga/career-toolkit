@@ -101,9 +101,6 @@ The map does not promise a P-2 role. It produces a set of actions whose cumulati
 
 When you are acutely depleted. The map asks for clarity and energy you may not have. Stabilise first, then return to the map when you can think.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -114,4 +111,3 @@ When you are acutely depleted. The map asks for clarity and energy you may not h
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

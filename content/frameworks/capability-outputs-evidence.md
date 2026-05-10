@@ -142,9 +142,6 @@ When the role is in a tradition that does not use AI screening and reads every C
 
 The three-part formula is the speaker's distillation of how UN Common System recruitment is moving (skills-based hiring, AI-assisted screening, evidence-based panels). The formula itself is consistent with broader skills-based hiring literature and adjacent frameworks; the [[skills-in-use-cv-pattern|Skills-in-Use CV Pattern]] from Day 3 Session 2 is a closely related writing pattern. The specific framing of digital fluency and adaptability as cross-cutting signals expected across all three components is the speaker's contribution.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -156,4 +153,3 @@ The three-part formula is the speaker's distillation of how UN Common System rec
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -116,9 +116,6 @@ When you are applying for an internal UN move. The capabilities are still real, 
 
 When you are at a very early career stage in the UN system. The three capabilities take 5 to 10 years of varied UN experience to develop credibly. Earlier in a career, the surfacing exercise is premature.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -129,4 +126,3 @@ When you are at a very early career stage in the UN system. The three capabiliti
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

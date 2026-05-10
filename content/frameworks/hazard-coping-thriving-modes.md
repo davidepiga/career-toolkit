@@ -111,9 +111,6 @@ The system did not change. The relationship to the system did. That gap is the e
 
 When you are in genuine crisis (acute mental health, safety issues, abusive workplace dynamics). At that point, the diagnostic is the wrong starting point; the right starting point is talking to a counsellor, an ombudsman, or another professional support.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -124,4 +121,3 @@ When you are in genuine crisis (acute mental health, safety issues, abusive work
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

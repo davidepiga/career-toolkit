@@ -141,9 +141,6 @@ When the bottleneck is genuinely capability (you do not know how to do the thing
 
 EAST was developed by the UK Behavioural Insights Team (BIT, sometimes called the "Nudge Unit"), originally a UK Cabinet Office spin-off founded in 2010. The four principles distil a decade of large-scale randomised trials in public services (tax compliance, organ donation, energy use, charitable giving). The framework is widely used in public policy, public health, and organisational behaviour-change work. The session presented it as a practical tool rather than introducing a new model.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -154,4 +151,3 @@ EAST was developed by the UK Behavioural Insights Team (BIT, sometimes called th
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

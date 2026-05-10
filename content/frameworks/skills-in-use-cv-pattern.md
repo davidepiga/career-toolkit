@@ -128,9 +128,6 @@ For the broader formula that puts capability, outputs, and evidence in three exp
 
 When you are writing personal essay-style content (a fellowship application, a values-driven cover letter for a role that explicitly asks for narrative). The pattern is right for skills-evidence claims; it is not right for purpose-and-fit narrative. Use both forms in different parts of a strong application.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -141,4 +138,3 @@ When you are writing personal essay-style content (a fellowship application, a v
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -111,9 +111,6 @@ When the experience is still genuinely traumatic and the four questions risk re-
 
 When the difficulty was minor and the four questions inflate it. Match the depth of the reflection to the size of the experience.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -124,4 +121,3 @@ When the difficulty was minor and the four questions inflate it. Match the depth
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

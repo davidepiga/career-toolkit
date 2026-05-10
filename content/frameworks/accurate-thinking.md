@@ -112,9 +112,6 @@ When the situation is genuinely catastrophic and the appraisal is accurate. The 
 
 When the thought is about another person and is closer to a values disagreement than a thinking trap. Accurate Thinking is for self-directed thoughts; relational issues need different tools.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -125,4 +122,3 @@ When the thought is about another person and is closer to a values disagreement 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

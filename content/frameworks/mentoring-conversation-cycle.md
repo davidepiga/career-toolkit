@@ -148,9 +148,6 @@ The seven steps run as originally specified, with active listening and confident
 
 When the conversation is actually counselling territory (acute distress, mental health concerns, traumatic personal events). Mentoring shares experience; counselling addresses psychological and emotional needs that require different training. If you sense the conversation has moved into counselling territory, pause and direct the mentee to professional support (staff counsellors, ombudsmen, qualified therapists). See [[mentoring-vs-adjacent-practices|Mentoring vs Adjacent Practices]] for the distinctions.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -161,4 +158,3 @@ When the conversation is actually counselling territory (acute distress, mental 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

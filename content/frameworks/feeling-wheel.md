@@ -114,9 +114,6 @@ When you are in acute distress that needs professional support rather than self-
 
 When the cultural context discourages specific emotional vocabulary and the practice would feel performative. The wheel can be private; you do not need to share the exact word with anyone.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -127,4 +124,3 @@ When the cultural context discourages specific emotional vocabulary and the prac
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

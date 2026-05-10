@@ -159,9 +159,6 @@ The micromobility chain is the bridge. None of the moves required leaving her cu
 
 When the answer is actually a vertical move you have been delaying. Sometimes micromobility is a productive bridge; sometimes it is sophisticated procrastination. If the move you keep avoiding is "apply for the role you want", apply.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -172,4 +169,3 @@ When the answer is actually a vertical move you have been delaying. Sometimes mi
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

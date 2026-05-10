@@ -94,9 +94,6 @@ The application is now ready to submit.
 
 When the role is internal, very short-cycle, and a single email is what is being asked for. In that case, a single self-review pass is proportionate. Even then, the layer-three checks (correct names, correct dates) still matter.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -106,4 +103,3 @@ When the role is internal, very short-cycle, and a single email is what is being
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

@@ -104,9 +104,6 @@ The whole pass is about two hours. Without the categorisation, the same applican
 
 When you are applying to an organisation that explicitly discourages AI-drafted applications and reads every submission by a human. In that context, categories 1, 2, and 5 are still useful as research and discipline; categories 3 and 4 should be used minimally and only for cleanup, not generation.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -117,4 +114,3 @@ When you are applying to an organisation that explicitly discourages AI-drafted 
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

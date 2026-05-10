@@ -101,9 +101,6 @@ When tailoring this entry to a specific JD, the bank stays as is. Only the frami
 
 When the achievement is so recent that the impact has not landed. Wait until you can fill the I honestly. Until then, log the B-A-S and come back later.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -114,4 +111,3 @@ When the achievement is so recent that the impact has not landed. Wait until you
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

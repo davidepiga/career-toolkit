@@ -103,9 +103,6 @@ Investment this quarter: enrol in the WIPO course on AI-assisted translation pos
 
 When you are in acute career crisis (sudden non-renewal, restructuring, immediate financial pressure). The audit is a calm-state tool. In a crisis, prioritise Protect-bucket skills for an urgent application; come back to the full audit when conditions stabilise.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -116,4 +113,3 @@ When you are in acute career crisis (sudden non-renewal, restructuring, immediat
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

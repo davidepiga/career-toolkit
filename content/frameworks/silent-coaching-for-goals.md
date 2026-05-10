@@ -135,9 +135,6 @@ When you are in acute fatigue or burnout. The sequence requires reflective energ
 
 When the goal has structural blockers no first action can address (a hiring freeze, a contract restriction). The sequence will produce action, but the action will not move the goal until the structural blocker shifts.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -148,4 +145,3 @@ When the goal has structural blockers no first action can address (a hiring free
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

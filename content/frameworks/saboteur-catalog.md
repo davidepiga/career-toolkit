@@ -144,9 +144,6 @@ Everyone has the Judge. Most people have two or three dominant accomplice sabote
 
 The ten saboteurs and their inner-voice patterns come directly from the Positive Intelligence framework by Shirzad Chamine, drawn from a research base of roughly one million participants. The counter-moves combine PQ's standard recommendations with the speaker-specific tactics shared in the session (the five-minute rule, the 20-80 system, the intent-checking question, the buy-time technique).
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -157,4 +154,3 @@ The ten saboteurs and their inner-voice patterns come directly from the Positive
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

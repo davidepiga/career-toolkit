@@ -133,9 +133,6 @@ When the behaviour is acutely contextual (a single high-stakes conversation, a o
 
 COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour Change. It sits at the heart of the Behaviour Change Wheel, a more elaborate framework for designing behaviour-change interventions. The model is widely used in public health (smoking cessation, vaccine uptake, physical activity programmes) and increasingly in organisational behaviour-change work. The session presented it as a practical tool rather than introducing a new model.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -146,4 +143,3 @@ COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

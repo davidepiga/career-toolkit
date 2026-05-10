@@ -106,9 +106,6 @@ When the underlying issue is acute psychological distress that requires professi
 
 When the gratitude framing actively suppresses honest acknowledgement of difficulty. Some career situations call for naming the hard reality before any reframe; the practice should sit alongside honesty, not on top of it.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -119,4 +116,3 @@ When the gratitude framing actively suppresses honest acknowledgement of difficu
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

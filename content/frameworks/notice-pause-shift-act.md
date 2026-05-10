@@ -85,9 +85,6 @@ When you are physiologically activated in a way that needs grounding first (pani
 
 The four steps come from the Positive Intelligence framework by Shirzad Chamine, adapted for career application by the speakers. The labels (Notice, Pause, Shift, Act) and the underlying neurobiology are core PQ vocabulary; the worked example and the framing for career-week contexts come from the session.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -98,4 +95,3 @@ The four steps come from the Positive Intelligence framework by Shirzad Chamine,
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

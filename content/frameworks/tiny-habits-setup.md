@@ -144,9 +144,6 @@ When the change you want is structural rather than habitual (a new role, a new m
 
 When the underlying pattern is a saboteur (perfectionism, people-pleasing, control). Habits address the surface; saboteurs address the protective patterns underneath. Use [[notice-pause-shift-act|Notice, Pause, Shift, Act]] and the [[saboteur-catalog|Saboteur Catalog]] for the inner work, then layer the tiny-habits process on top.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -157,4 +154,3 @@ When the underlying pattern is a saboteur (perfectionism, people-pleasing, contr
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*

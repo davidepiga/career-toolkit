@@ -92,9 +92,6 @@ When you are answering a behavioural question about how you handled a setback or
 
 The speaker introduced R-CAR briefly and named the four elements. This page expands the framework using the well-established CAR (Context, Action, Result) pattern that R-CAR builds on, plus the placement of a leading headline result that the speaker emphasised in CV and cover-letter applications.
 
-## How I use it
-
-*Personal note pending. Davide to fill.*
 
 ## Related frameworks
 
@@ -105,4 +102,3 @@ The speaker introduced R-CAR briefly and named the four elements. This page expa
 
 ---
 
-*Notes compiled by [[about|Davide Piga]]. Last updated 2026-05-09.*
