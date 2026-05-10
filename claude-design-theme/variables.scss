@@ -1,0 +1,18 @@
+// ─── Purposea — Quartz typography variables ──────────────────
+// Drop into: quartz/styles/variables.scss (REPLACE)
+// or, leave Quartz's defaults and copy only the bits you want.
+// ─────────────────────────────────────────────────────────────
+
+// content widths
+$pageWidth: 800px;
+$mobileBreakpoint: 800px;
+$tabletBreakpoint: 1200px;
+$sidePanelWidth: 320px;
+
+// type scale (modular ratio ~1.2 for body, larger jump for h1)
+$boldWeight: 600;
+$semiBoldWeight: 500;
+$normalWeight: 400;
+
+// colors — these only matter if you want to override beyond the
+// quartz.config.ts colors block. Most sites won't need this file at all.

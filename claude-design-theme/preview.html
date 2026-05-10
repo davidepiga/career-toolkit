@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Purposea Quartz theme — preview</title>
+<link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  /* ───────────── Quartz tokens (mirrors quartz.config.ts) ───────────── */
+  :root[data-theme="light"] {
+    --light: #FAFAF7;
+    --lightgray: #E5E0D5;
+    --gray: #6B645A;
+    --darkgray: #1F3542;
+    --dark: #0B1F2A;
+    --secondary: #1F6F73;
+    --tertiary: #2FA7A0;
+    --highlight: rgba(199, 232, 229, 0.45);
+    --textHighlight: rgba(47, 167, 160, 0.20);
+  }
+  :root[data-theme="dark"] {
+    --light: #0B1F2A;
+    --lightgray: #1F3542;
+    --gray: #8B8479;
+    --darkgray: #E5E0D5;
+    --dark: #FAFAF7;
+    --secondary: #5DCDC5;
+    --tertiary: #2FA7A0;
+    --highlight: rgba(47, 167, 160, 0.12);
+    --textHighlight: rgba(47, 167, 160, 0.30);
+  }
+  :root {
+    --headerFont: 'Plus Jakarta Sans', sans-serif;
+    --bodyFont: 'Inter', sans-serif;
+    --codeFont: 'JetBrains Mono', monospace;
+  }
+
+  /* ───────────── Aliases (matches custom.scss) ───────────── */
+  :root {
+    --bone: var(--light);
+    --line: var(--lightgray);
+    --muted: var(--gray);
+    --ink-soft: var(--darkgray);
+    --ink: var(--dark);
+    --teal-deep: var(--secondary);
+    --teal: var(--tertiary);
+    --paper: color-mix(in srgb, var(--bone) 92%, var(--ink) 8%);
+    --teal-tint: color-mix(in srgb, var(--tertiary) 18%, var(--bone));
+    --eyebrow-fs: 0.7rem;
+    --content-w: 750px;
+    --display-tracking: -0.025em;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: var(--bodyFont);
+    color: var(--ink-soft);
+    background: var(--bone);
+    font-feature-settings: "ss01" on;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    letter-spacing: -0.005em;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  :root[data-theme="dark"] body {
+    background: var(--bone);  /* resolves to ink in dark mode via the alias */
+  }
+
+  /* ───────────── Layout ───────────── */
+  .shell { display: grid; grid-template-columns: 240px 1fr 220px; gap: 32px; max-width: 1280px; margin: 0 auto; padding: 24px 32px; }
+  @media (max-width: 1100px) { .shell { grid-template-columns: 1fr; padding: 24px 20px; } .toc, .explorer { display: none; } }
+
+  /* ───────────── Header ───────────── */
+  header.site {
+    grid-column: 1 / -1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0 24px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 24px;
+  }
+  .page-title {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    font-family: var(--headerFont); font-weight: 500; font-size: 1.35rem;
+    letter-spacing: var(--display-tracking); color: var(--ink); text-decoration: none;
+  }
+  .wm-sea {
+    background: linear-gradient(90deg, var(--ink) 8%, var(--teal) 85%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .header-actions { display: flex; gap: 12px; align-items: center; }
+  #search-button, .darkmode {
+    background: transparent; border: 1px solid var(--line); border-radius: 8px;
+    color: var(--muted); padding: 6px 12px; font-size: 0.85rem; font-family: var(--bodyFont);
+    cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+  }
+  #search-button:hover, .darkmode:hover { border-color: var(--ink-soft); color: var(--ink); }
+
+  /* ───────────── Explorer (left) ───────────── */
+  .explorer { font-family: var(--bodyFont); position: sticky; top: 24px; align-self: start; }
+  .explorer .section-label { font-size: var(--eyebrow-fs); font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+  .explorer .folder { margin-bottom: 16px; }
+  .explorer .folder > button {
+    background: none; border: none; padding: 4px 0; cursor: pointer; font: inherit;
+    font-size: 0.95rem; font-weight: 500; color: var(--ink);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .explorer .folder > button::before { content: "▾"; font-size: 0.7rem; color: var(--muted); }
+  .explorer ul.content { list-style: none; padding: 4px 0 4px 14px; margin: 0; }
+  .explorer ul.content li a { display: inline-block; font-size: 0.875rem; color: var(--ink-soft); padding: 3px 0; text-decoration: none; background-image: none; }
+  .explorer ul.content li a:hover { color: var(--teal-deep); }
+  .explorer ul.content li.active a { color: var(--teal-deep); font-weight: 500; }
+
+  /* ───────────── TOC (right) ───────────── */
+  .toc { font-family: var(--bodyFont); position: sticky; top: 24px; align-self: start; }
+  .toc h3 { font-size: var(--eyebrow-fs); font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+  .toc ul { list-style: none; padding: 0 0 0 12px; margin: 0; border-left: 1.5px solid var(--line); }
+  .toc li a { display: block; font-size: 0.85rem; line-height: 1.5; color: var(--ink-soft); text-decoration: none; padding: 3px 0; background-image: none; }
+  .toc li a:hover { color: var(--teal-deep); }
+  .toc li.in-view a { color: var(--teal-deep); font-weight: 500; }
+
+  /* ───────────── Article ───────────── */
+  article { max-width: var(--content-w); }
+
+  article h1, article h2, article h3, article h4 {
+    font-family: var(--headerFont);
+    color: var(--ink);
+    letter-spacing: var(--display-tracking);
+    font-weight: 500;
+    line-height: 1.18;
+  }
+  article h1 { font-size: 2.25rem; margin: 0 0 1.4rem; }
+  article h2 { font-size: 1.65rem; margin: 2.6rem 0 1rem; }
+  article h3 { font-size: 1.25rem; margin: 2rem 0 0.6rem; font-weight: 600; }
+  article h4 { font-size: 1.05rem; margin: 1.6rem 0 0.5rem; font-weight: 600; }
+
+  .eyebrow {
+    font-family: var(--bodyFont); font-size: var(--eyebrow-fs); font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal-deep);
+    display: inline-block; margin-bottom: 0.5rem;
+  }
+
+  article p { font-size: 1.0625rem; line-height: 1.7; color: var(--ink-soft); margin: 0 0 1.05rem; }
+  article strong, article b { font-weight: 600; color: var(--ink); }
+
+  article ul, article ol { padding-left: 1.4rem; line-height: 1.7; color: var(--ink-soft); }
+  article ul li, article ol li { margin: 0.25rem 0; }
+  article ul li::marker, article ol li::marker { color: var(--muted); }
+
+  article hr { border: none; height: 1px; background: var(--line); margin: 2.5rem 0; }
+
+  /* ───────────── Links ───────────── */
+  a, a:visited {
+    color: var(--teal-deep); text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 100% 1px; background-position: 0 100%; background-repeat: no-repeat;
+    transition: color 0.12s ease, background-size 0.12s ease;
+  }
+  a:hover { color: var(--ink); background-size: 100% 1.5px; }
+  a.internal { background-image: linear-gradient(var(--teal), var(--teal)); background-size: 100% 1px; background-position: 0 95%; }
+  a.internal:hover { color: var(--teal-deep); }
+  a.external::after { content: " ↗"; font-size: 0.85em; color: var(--muted); }
+
+  ::selection { background: var(--textHighlight); color: var(--ink); }
+
+  /* ───────────── Blockquote ───────────── */
+  blockquote {
+    border-left: 2px solid var(--teal); padding: 0.2rem 0 0.2rem 1.2rem;
+    margin: 1.5rem 0; color: var(--ink-soft); font-family: var(--headerFont);
+    font-size: 1.1rem; line-height: 1.55; letter-spacing: -0.01em;
+  }
+
+  /* ───────────── Callouts ───────────── */
+  .callout {
+    border: 1px solid var(--line); border-left: 3px solid var(--teal);
+    background: var(--paper); border-radius: 8px; padding: 1rem 1.2rem; margin: 1.5rem 0;
+  }
+  .callout-title {
+    font-family: var(--bodyFont); font-weight: 600; color: var(--ink);
+    font-size: 0.9rem; margin-bottom: 0.4rem; display: flex; align-items: center; gap: 8px;
+  }
+  .callout-title svg { color: var(--teal-deep); width: 16px; height: 16px; }
+  .callout p { font-size: 0.95rem; margin: 0; }
+  .callout[data-callout="note"]    { border-left-color: var(--teal-deep); }
+  .callout[data-callout="success"] { border-left-color: #3F7A5E; }
+  .callout[data-callout="warning"] { border-left-color: #B8842A; }
+  .callout[data-callout="warning"] .callout-title svg { color: #B8842A; }
+  .callout[data-callout="success"] .callout-title svg { color: #3F7A5E; }
+  .callout[data-callout="quote"]   { border-left-color: var(--muted); }
+  .callout[data-callout="quote"] p { font-family: var(--headerFont); font-size: 1.05rem; line-height: 1.6; }
+
+  /* ───────────── Code ───────────── */
+  code, pre, kbd { font-family: var(--codeFont), monospace; font-feature-settings: "calt" off; }
+  :not(pre) > code {
+    font-size: 0.92em; background: var(--paper); color: var(--ink);
+    padding: 0.12em 0.4em; border-radius: 4px; border: 1px solid var(--line);
+  }
+  pre {
+    background: var(--paper); border: 1px solid var(--line); border-radius: 10px;
+    padding: 1rem 1.1rem; overflow-x: auto; font-size: 0.85rem; line-height: 1.55;
+  }
+  pre code { background: transparent; border: none; padding: 0; color: var(--ink-soft); }
+
+  .keyword { color: var(--secondary); }
+  .string  { color: #3F7A5E; }
+  .comment { color: var(--muted); font-style: italic; }
+  .number  { color: #B8842A; }
+
+  :root[data-theme="dark"] pre { background: color-mix(in srgb, var(--ink) 92%, var(--bone) 8%); border-color: var(--ink-soft); }
+
+  /* ───────────── Tables ───────────── */
+  table { border-collapse: collapse; width: 100%; margin: 1.5rem 0; font-size: 0.95rem; }
+  thead th {
+    text-align: left; font-family: var(--bodyFont); font-size: var(--eyebrow-fs);
+    letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600;
+    color: var(--muted); border-bottom: 1.5px solid var(--ink); padding: 0.6rem 0.8rem;
+  }
+  tbody td { padding: 0.7rem 0.8rem; border-bottom: 1px solid var(--line); color: var(--ink-soft); vertical-align: top; }
+  tbody tr:hover { background: var(--paper); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* ───────────── Tags ───────────── */
+  .tag-link {
+    display: inline-block; font-size: 0.8rem; background: var(--paper);
+    color: var(--ink-soft); padding: 0.2rem 0.55rem; border-radius: 999px;
+    border: 1px solid var(--line); margin-right: 6px; text-decoration: none;
+    background-image: none;
+  }
+  .tag-link:hover { background: var(--teal-tint); color: var(--ink); }
+
+  /* ───────────── Backlinks ───────────── */
+  .backlinks { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--line); }
+  .backlinks h3 { font-size: var(--eyebrow-fs); font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  .backlinks ul { list-style: none; padding: 0; margin: 0; }
+  .backlinks li { padding: 6px 0; }
+  .backlinks li a { font-size: 0.9rem; color: var(--ink-soft); background-image: none; }
+  .backlinks li a:hover { color: var(--teal-deep); }
+
+  /* ───────────── Footer ───────────── */
+  footer.site {
+    grid-column: 1 / -1; font-family: var(--bodyFont); font-size: 0.85rem;
+    color: var(--muted); border-top: 1px solid var(--line);
+    margin-top: 4rem; padding: 1.5rem 0;
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;
+  }
+  footer a { color: var(--ink-soft); background-image: none; }
+  footer a:hover { color: var(--teal-deep); }
+
+  /* ───────────── Search modal demo ───────────── */
+  .search-overlay {
+    display: none; position: fixed; inset: 0; background: rgba(11, 31, 42, 0.45);
+    backdrop-filter: blur(4px); z-index: 100; padding-top: 8vh;
+  }
+  .search-overlay.open { display: flex; justify-content: center; }
+  #search-space {
+    background: var(--bone); border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: 0 24px 60px -20px rgba(11, 31, 42, 0.25);
+    width: min(560px, 92%); height: fit-content; max-height: 70vh; overflow: hidden;
+  }
+  #search-space input {
+    width: 100%; font-family: var(--bodyFont); font-size: 1.05rem; color: var(--ink);
+    border: none; border-bottom: 1.5px solid var(--line); padding: 1rem 1.2rem;
+    outline: none; background: transparent;
+  }
+  .results-container { padding: 8px; max-height: 50vh; overflow-y: auto; }
+  .result-card {
+    border-radius: 8px; padding: 12px 16px; cursor: pointer;
+  }
+  .result-card h3 { font-family: var(--headerFont); font-size: 1rem; font-weight: 500; letter-spacing: -0.01em; color: var(--ink); margin: 0; }
+  .result-card p { font-size: 0.85rem; color: var(--muted); margin: 4px 0 0; }
+  .result-card.focus, .result-card:hover { background: var(--teal-tint); }
+
+  /* ───────────── Mobile ───────────── */
+  @media (max-width: 800px) {
+    article h1 { font-size: 1.85rem; }
+    article h2 { font-size: 1.35rem; }
+    article p, article ul, article ol { font-size: 1rem; }
+    pre { font-size: 0.8rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="shell">
+  <header class="site">
+    <a href="#" class="page-title">
+      <span>purpo<span class="wm-sea">sea</span></span>
+    </a>
+    <div class="header-actions">
+      <button id="search-button" onclick="document.getElementById('search-overlay').classList.add('open')">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        Search
+      </button>
+      <button class="darkmode" onclick="toggleTheme()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <aside class="explorer">
+    <div class="section-label">Explorer</div>
+    <div class="folder">
+      <button>Pipeline</button>
+      <ul class="content">
+        <li><a href="#">Architecture</a></li>
+        <li class="active"><a href="#">Match scoring</a></li>
+        <li><a href="#">Data sources</a></li>
+        <li><a href="#">Quality gates</a></li>
+      </ul>
+    </div>
+    <div class="folder">
+      <button>Brand</button>
+      <ul class="content">
+        <li><a href="#">Identity guide</a></li>
+        <li><a href="#">Voice & tone</a></li>
+        <li><a href="#">Positioning</a></li>
+      </ul>
+    </div>
+    <div class="folder">
+      <button>Decisions</button>
+      <ul class="content">
+        <li><a href="#">2026-04 stack</a></li>
+        <li><a href="#">2026-03 pricing</a></li>
+        <li><a href="#">2026-02 audience</a></li>
+      </ul>
+    </div>
+  </aside>
+
+  <article>
+    <span class="eyebrow">Engineering note</span>
+    <h1>How Purposea evaluates a vacancy</h1>
+    <p>Every vacancy that enters the pipeline is tested against your filters first, then evaluated by a language model against your profile. This page documents the sequence — the contracts between stages, the failure modes, and the trade-offs that shaped the current design.</p>
+
+    <p>The work happens in two passes: a deterministic <strong>filter pass</strong> that's cheap to run and produces stable results, and a <strong>semantic pass</strong> that evaluates anything the filter pass let through. By the time you see a match in your inbox, it has been through both.</p>
+
+    <h2 id="filter-pass">The filter pass</h2>
+    <p>Filters run before AI evaluation. If a vacancy doesn't pass, Purposea never evaluates it — which means filter changes don't retroactively re-run history. This is intentional: the cost would be prohibitive and the value low (people care about what's coming, not what they missed two months ago).</p>
+
+    <p>Some filters are <a class="internal" href="#">hard</a>; others are <a class="internal" href="#">advisory</a>. The seniority floor is hard. Keyword exclusions in titles are hard. Keyword exclusions in JD bodies are advisory — they reduce score rather than reject outright. See the <a class="external" href="https://example.com">filter taxonomy reference</a> for the full list.</p>
+
+    <div class="callout" data-callout="note">
+      <div class="callout-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        Filter changes are not retroactive
+      </div>
+      <p>If you tighten your seniority floor today, vacancies evaluated yesterday stay in your inbox at their original tier. Only future evaluations reflect the new floor.</p>
+    </div>
+
+    <h2 id="semantic-pass">The semantic pass</h2>
+    <p>Vacancies that pass filters are evaluated by an LLM against the user's profile. The model returns a tier (Strong / Good / Possible / Excluded) plus a one-paragraph reasoning. The reasoning is what the user actually reads — the tier just controls whether the email shows it.</p>
+
+    <h3>Scoring</h3>
+    <p>Tiers map to score bands:</p>
+
+    <table>
+      <thead>
+        <tr><th>Tier</th><th>Score band</th><th class="num">Avg per week</th><th>Surfaced where</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Strong</td><td>0.85 – 1.00</td><td class="num">3</td><td>Email + Inbox</td></tr>
+        <tr><td>Good</td><td>0.65 – 0.84</td><td class="num">5</td><td>Email + Inbox</td></tr>
+        <tr><td>Possible</td><td>0.45 – 0.64</td><td class="num">8</td><td>Inbox only</td></tr>
+        <tr><td>Excluded</td><td>0.00 – 0.44</td><td class="num">22</td><td>Excluded review only</td></tr>
+      </tbody>
+    </table>
+
+    <p>The model that generates the reasoning is not the same as the one that produces the score — score is a cheaper rubric model, reasoning runs on the headline model. This separation lets us re-score quickly when the rubric changes without paying for a full reasoning regen.</p>
+
+    <h3>Implementation</h3>
+    <p>The evaluation function takes a profile and a vacancy, returns a tier and reasoning:</p>
+
+    <pre><code><span class="keyword">async def</span> evaluate(
+    profile: <span class="keyword">Profile</span>,
+    vacancy: <span class="keyword">Vacancy</span>,
+) <span class="keyword">-&gt;</span> <span class="keyword">EvaluationResult</span>:
+    <span class="comment"># filter pass first — cheapest possible reject path</span>
+    <span class="keyword">if not</span> filters.passes(profile, vacancy):
+        <span class="keyword">return</span> EvaluationResult(tier=<span class="string">"excluded"</span>, score=<span class="number">0.0</span>)
+
+    <span class="comment"># rubric model — ~30ms, ~$0.0001/call</span>
+    score = <span class="keyword">await</span> rubric.score(profile, vacancy)
+
+    <span class="keyword">if</span> score &lt; <span class="number">0.45</span>:
+        <span class="keyword">return</span> EvaluationResult(tier=<span class="string">"excluded"</span>, score=score)
+
+    <span class="comment"># reasoning model — ~3s, ~$0.01/call</span>
+    reasoning = <span class="keyword">await</span> reasoner.explain(profile, vacancy)
+    tier = tier_of(score)
+
+    <span class="keyword">return</span> EvaluationResult(tier=tier, score=score, reasoning=reasoning)
+</code></pre>
+
+    <div class="callout" data-callout="success">
+      <div class="callout-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+        Two-stage evaluation cut weekly compute by 78%
+      </div>
+      <p>By rejecting at the rubric stage, only 38% of filter-passing vacancies reach the reasoner. That's the difference between this being financially viable as a digest product and not.</p>
+    </div>
+
+    <div class="callout" data-callout="warning">
+      <div class="callout-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        Rubric drift
+      </div>
+      <p>The rubric model is replaced quarterly; we re-score the last 30 days of evaluations to detect tier flipping. If &gt;5% of vacancies flip up or down, the new rubric is rejected and we investigate.</p>
+    </div>
+
+    <h2 id="trade-offs">Trade-offs</h2>
+    <blockquote>"The right architecture is the one that makes your most expensive operation rare and your most common operation cheap." — engineering principle, internal handbook</blockquote>
+
+    <p>Every architectural decision in the pipeline is downstream of one observation: vacancies are <em>mostly</em> not relevant. A typical user filters and rejects more than 90% of weekly inbound. Designing for that reality means:</p>
+
+    <ol>
+      <li><strong>Reject early, reject cheaply.</strong> Filters before LLMs. Rubric before reasoning.</li>
+      <li><strong>Make the kept ones legible.</strong> Every surfaced match has a reason, not just a score.</li>
+      <li><strong>Never paywall the explanation.</strong> If a vacancy reaches the user, the reasoning reaches the user.</li>
+    </ol>
+
+    <hr>
+
+    <h3>See also</h3>
+    <p>
+      <a class="tag-link" href="#">#pipeline</a>
+      <a class="tag-link" href="#">#evaluation</a>
+      <a class="tag-link" href="#">#trade-offs</a>
+      <a class="tag-link" href="#">#cost</a>
+    </p>
+
+    <div class="backlinks">
+      <h3>Backlinks</h3>
+      <ul>
+        <li><a href="#">Architecture overview</a> — references this page when discussing the evaluation stage.</li>
+        <li><a href="#">2026-04 stack decision</a> — cites the two-stage trade-off as justification for keeping Anthropic on the hot path.</li>
+        <li><a href="#">Quality gates</a> — links here from the section on rubric replacement.</li>
+      </ul>
+    </div>
+  </article>
+
+  <aside class="toc">
+    <h3>On this page</h3>
+    <ul>
+      <li><a href="#filter-pass">The filter pass</a></li>
+      <li class="in-view"><a href="#semantic-pass">The semantic pass</a></li>
+      <li style="padding-left: 12px;"><a href="#">Scoring</a></li>
+      <li style="padding-left: 12px;"><a href="#">Implementation</a></li>
+      <li><a href="#trade-offs">Trade-offs</a></li>
+    </ul>
+  </aside>
+
+  <footer class="site">
+    <div>Last edited <strong>10 May 2026</strong> · 4 min read</div>
+    <div>Built with <a href="https://quartz.jzhao.xyz">Quartz</a></div>
+  </footer>
+</div>
+
+<!-- Search modal demo -->
+<div class="search-overlay" id="search-overlay" onclick="if(event.target===this) this.classList.remove('open')">
+  <div id="search-space">
+    <input type="text" placeholder="Search across pages…" autofocus>
+    <div class="results-container">
+      <div class="result-card focus">
+        <h3>How Purposea evaluates a vacancy</h3>
+        <p>Engineering note · 4 min read</p>
+      </div>
+      <div class="result-card">
+        <h3>Pipeline architecture</h3>
+        <p>Engineering note · 8 min read</p>
+      </div>
+      <div class="result-card">
+        <h3>Match scoring rubric (v3)</h3>
+        <p>Reference · 2 min read</p>
+      </div>
+      <div class="result-card">
+        <h3>2026-04 stack decision</h3>
+        <p>Decision log · 6 min read</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // theme toggle
+  function toggleTheme() {
+    const root = document.documentElement;
+    const cur = root.getAttribute('data-theme') || 'light';
+    root.setAttribute('data-theme', cur === 'light' ? 'dark' : 'light');
+  }
+  document.documentElement.setAttribute('data-theme', 'light');
+
+  // search overlay close on esc
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') document.getElementById('search-overlay').classList.remove('open');
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      document.getElementById('search-overlay').classList.add('open');
+    }
+  });
+</script>
+
+</body>
+</html>
