@@ -1,5 +1,5 @@
 ---
-title: The Career Navigation Model
+title: Career Navigation Model
 description: ""
 type: model
 tags: []
