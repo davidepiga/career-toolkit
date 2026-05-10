@@ -22,7 +22,7 @@ The five days of IACW 2026 contained substantial practical guidance. The volume 
 
 ## What is missing
 
-The [Event Coverage Analysis](agenda-coverage-audit) shows two patterns in the event, both pointing in the same direction: 
+The [Event Coverage Analysis](event-coverage-analysis) shows two patterns in the event, both pointing in the same direction: 
 1. the **topical coverage was uneven** across the seven dimensions of the model (heavy on inner work, narrative, and application mechanics; thin on the operational middle), and
 2. the **speaker mix was overwhelmingly the system speaking**, not the candidate. The toolkit is built on top of what the event offered. Two parallel efforts try to fill what was missing.
 
