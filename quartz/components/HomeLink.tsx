@@ -10,18 +10,17 @@ const HomeLink: QuartzComponent = () => {
 
 HomeLink.css = `
 .home-link-wrapper {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0;
 }
 .home-link {
   display: block;
-  font-size: 0.95rem;
   color: var(--dark);
   text-decoration: none;
-  padding: 0.15rem 0;
-  opacity: 0.85;
+  opacity: 0.75;
+  pointer-events: all;
 }
 .home-link:hover {
-  color: var(--secondary);
+  color: var(--tertiary);
   opacity: 1;
 }
 `

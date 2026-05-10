@@ -124,12 +124,7 @@ footer ul {
   display: none;
 }
 
-/* Remove extra gap above explorer list now that the header is gone */
+/* Remove top margin on explorer list — was designed for the header button */
 .explorer .explorer-content {
-  padding-top: 0;
-}
-
-/* Tighten HomeLink bottom gap */
-.home-link-wrapper {
-  margin-bottom: 0.5rem;
+  margin-top: 0;
 }
