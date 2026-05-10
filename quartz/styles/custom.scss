@@ -116,4 +116,20 @@ footer .footer-disclaimer {
 
 footer ul {
   font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+/* Hide the "Explorer ∨" collapsible header on desktop */
+.explorer .title-button.desktop-explorer {
+  display: none;
+}
+
+/* Remove extra gap above explorer list now that the header is gone */
+.explorer .explorer-content {
+  padding-top: 0;
+}
+
+/* Tighten HomeLink bottom gap */
+.home-link-wrapper {
+  margin-bottom: 0.5rem;
 }
