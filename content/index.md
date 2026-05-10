@@ -42,6 +42,8 @@ If you are navigating a career in this sector, ==[this form](https://docs.google
 - **Early-tester access** to a separate AI tool I am building, designed to help you look beyond the pool of organisations you already know and identify the roles your skills translate into.
 - **A note when the tool opens publicly**, with no further commitment.
 
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=header">Sign up</a>
+
 ---
 
 *Made by [Davide Piga](https://www.linkedin.com/in/davidepiga). [About](about)*

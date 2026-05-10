@@ -614,7 +614,7 @@ footer .footer-attribution {
   }
 }
 
-footer .footer-disclaimer {
+footer .footer-fineprint {
   font-size: 0.78rem;
   color: var(--ink-soft);
   margin: 0 0 0.75rem 0;
@@ -624,4 +624,27 @@ footer .footer-disclaimer {
 footer ul {
   font-size: 0.85rem;
   margin-top: 0.5rem !important;
+}
+
+/* Inline call-to-action button */
+a.btn {
+  display: inline-block;
+  padding: 0.55rem 1.25rem;
+  border-radius: 6px;
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  font-weight: 500;
+  background-image: none;
+  transition: background 0.15s ease, color 0.15s ease;
+
+  &.btn-primary {
+    background: var(--teal-deep);
+    color: var(--bone);
+    border: 1px solid var(--teal-deep);
+    &:hover {
+      background: var(--teal);
+      border-color: var(--teal);
+      color: var(--bone);
+    }
+  }
 }
