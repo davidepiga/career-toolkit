@@ -10,72 +10,31 @@ Frameworks and tools for navigating a career in international development and hu
 
 This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The IACW 2026 sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
 
-The toolkit is organised by a model of seven dimensions: two foundations that run continuously underneath everything, and five stages that cycle as a career unfolds. [How the model is built →](dimensions)
-
-## Foundations
-
-<div class="dimension-grid foundations">
-
-<a class="dimension-card" href="dimensions/mindset">
-  <img src="icons/mindset.svg" alt="" class="dimension-icon" />
-  <h3>Mindset</h3>
-  <p class="card-question"><em>Are you in the right state to navigate?</em></p>
-  <p class="card-description">The inner state you operate from when you make career decisions.</p>
-</a>
-
-<a class="dimension-card" href="dimensions/capability">
-  <img src="icons/capability.svg" alt="" class="dimension-icon" />
-  <h3>Capability</h3>
-  <p class="card-question"><em>What can you do, and what are you building?</em></p>
-  <p class="card-description">The skills you currently have and the ones you are deliberately growing.</p>
-</a>
-
-</div>
-
-## Stages
-
-<div class="dimension-grid stages">
-
-<a class="dimension-card" href="dimensions/direction">
-  <img src="icons/direction.svg" alt="" class="dimension-icon" />
-  <h3>Direction</h3>
-  <p class="card-question"><em>Where are you aiming?</em></p>
-  <p class="card-description">The working hypothesis about where you are heading and why.</p>
-</a>
-
-<a class="dimension-card" href="dimensions/presence">
-  <img src="icons/presence.svg" alt="" class="dimension-icon" />
-  <h3>Presence</h3>
-  <p class="card-question"><em>How do you show up?</em></p>
-  <p class="card-description">How you appear on paper, on platforms, and in the room.</p>
-</a>
-
-<a class="dimension-card" href="dimensions/visibility">
-  <img src="icons/visibility.svg" alt="" class="dimension-icon" />
-  <h3>Visibility</h3>
-  <p class="card-question"><em>What do you see?</em></p>
-  <p class="card-description">What of the market actually reaches you.</p>
-</a>
-
-<a class="dimension-card" href="dimensions/choice">
-  <img src="icons/choice.svg" alt="" class="dimension-icon" />
-  <h3>Choice</h3>
-  <p class="card-question"><em>What do you go after?</em></p>
-  <p class="card-description">The filter that turns many opportunities into a small set worth pursuing.</p>
-</a>
-
-<a class="dimension-card" href="dimensions/pursuit">
-  <img src="icons/pursuit.svg" alt="" class="dimension-icon" />
-  <h3>Pursuit</h3>
-  <p class="card-question"><em>How do you get the job?</em></p>
-  <p class="card-description">The mechanics from decision to outcome.</p>
-</a>
-
-</div>
+The toolkit is organised by a model of **seven dimensions**: two foundations that run continuously underneath everything, and five stages that cycle as a career unfolds. [How the model is built →](dimensions)
 
 ---
 
-## About this project
+## Foundations
+
+| Dimension | Core Question | What It Covers |
+|:--|:--|:--|
+| **[Mindset](mindset)** | *Are you mentally and emotionally ready to navigate career change and uncertainty?* | Your internal operating state: confidence, resilience, self-awareness, adaptability, motivation, and the assumptions shaping your decisions. |
+| **[Capability](capability)** | *What can you do today, and what capabilities are you intentionally developing?* | Your current skills, expertise, strengths, and the capabilities you are building to stay relevant and move toward future opportunities. |
+
+## Stages
+
+| Dimension | Core Question | What It Covers |
+|:--|:--|:--|
+| **[Direction](direction)** | *Where are you trying to go, and why?* | Your working hypothesis about the roles, sectors, environments, or type of work you want to move toward, and the reasoning behind those choices. |
+| **[Presence](presence)** | *How do you present yourself to others?* | How you appear across CVs, LinkedIn, portfolios, conversations, interviews, and professional interactions — both online and offline. |
+| **[Visibility](visibility)** | *How effectively do you see and access relevant opportunities?* | Your exposure to the market: networks, recruiters, communities, platforms, information channels, and your ability to spot opportunities early. |
+| **[Choice](choice)** | *Which opportunities deserve your time and energy?* | The evaluation and prioritisation process that helps you filter many possible opportunities into a smaller set worth pursuing seriously. |
+| **[Pursuit](pursuit)** | *How effectively do you convert opportunities into offers?* | The execution phase: applications, networking outreach, interviews, negotiation, follow-up, and the overall process from interest to outcome. |
+
+
+---
+
+## Behind the toolkit
 
 I am Davide Piga, a Knowledge and Innovation Advisor working across international organisations, communities of practice, and organisational learning initiatives. I created this toolkit after participating in the event that inspired it. Partly because the content was exceptionally rich, and partly because I wanted a more structured way to revisit and connect the many ideas, tools, and perspectives that emerged across sessions.
 

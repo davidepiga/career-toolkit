@@ -19,7 +19,7 @@ I started extracting frameworks, recurring patterns, tactical advice, and practi
 
 As I worked through the material, a reflection that had been with me for some months came back into focus.
 
-The IACW 2026 programme, understandably given the speakers it gathered, surfaced overwhelmingly the perspective of one side of the table. Looking at the 21 sessions that produced framework pages, I categorised the 52 distinct speakers by the role they played at the event. Around 96% spoke from the hiring side, the system side, or the methodology side: HR and talent acquisition leads, internal counsellors, L&D and mentoring programme designers, internal and external coaches, AI and consulting vendors, behavioural-science researchers, and programme practitioners sharing a method. Only about 4% (two speakers on a single panel) spoke from recent personal experience of navigating a transition. The view from a person in the middle of an active job search, with no organisational backing and no method to sell, was structurally absent.
+The IACW 2026 programme, understandably given the speakers it gathered, surfaced overwhelmingly the perspective of one side of the table. Looking at the 21 sessions that produced framework pages, I categorised the [event-coverage-analysis](52 distinct speakers) by the role they played at the event. Around 96% spoke from the hiring side, the system side, or the methodology side: HR and talent acquisition leads, internal counsellors, L&D and mentoring programme designers, internal and external coaches, AI and consulting vendors, behavioural-science researchers, and programme practitioners sharing a method. Only about 4% (two speakers on a single panel) spoke from recent personal experience of navigating a transition. The view from a person in the middle of an active job search, with no organisational backing and no method to sell, was structurally absent.
 
 That perspective on the agenda is important and valuable, and it is naturally where the event's organisers are best placed to deliver. At the same time, the distribution of guidance did not fully reflect the distribution of difficulties experienced by professionals navigating career uncertainty directly. The [Agenda Coverage Audit](agenda-coverage-audit) shows what this looks like in numbers across the seven dimensions of the model: the programme leans heavily on inner work, narrative, and application mechanics, and runs thin on the operational middle. Choice in particular, the act of deciding what to apply to, did not get a single dedicated session.
 
@@ -27,7 +27,7 @@ This is particularly relevant in the current context. International organisation
 
 The toolkit is the most recent piece of a broader effort prompted by that broader context. Two earlier pieces predate it.
 
-## A prototype, started before the event
+## Filling the gap
 
 Earlier this year, I started building a prototype that uses AI to address one specific dimension of the navigation problem: helping people look beyond the pool of organisations they already know, understand how their skills translate into adjacent organisations and sectors, and identify which roles correspond to their experience even when described in unfamiliar language.
 
