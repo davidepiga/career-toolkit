@@ -8,9 +8,7 @@ status: published
 
 **Frameworks and tools for navigating a career in international development and humanitarian work**
 
-This toolkit was created to make a content-rich career event easier to navigate, revisit, and apply. The [Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026) sessions contained substantial practical guidance, frameworks, and tactical advice on careers in international development and humanitarian work. The volume and fragmentation of the material also made it difficult to fully absorb and reuse. This project organises the most practical and reusable ideas into a structured, searchable format. Every framework here was extracted from ideas shared at the event and reorganised into a standalone resource attributed to the speaker who introduced it.
-
-The toolkit is organised by a model of **seven dimensions**: two foundations that run continuously underneath everything, and five stages that cycle as a career unfolds. [How the model is built →](dimensions)
+The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026) ran 40 sessions across five days, with 33 organisations contributing. This toolkit is a curation of the most practical and reusable frameworks from those sessions, organised by a [model](career-navigation-model) of seven dimensions: two foundations that run continuously, and five stages that cycle as a career unfolds.
 
 ---
 ## Career Navigation Model
@@ -32,29 +30,16 @@ The toolkit is organised by a model of **seven dimensions**: two foundations tha
 | **[Choice](choice)** | *Which opportunities deserve your time and energy?* | The evaluation and prioritisation process that helps you filter many possible opportunities into a smaller set worth pursuing seriously. |
 | **[Pursuit](pursuit)** | *How effectively do you convert opportunities into offers?* | The execution phase: applications, networking outreach, interviews, negotiation, follow-up, and the overall process from interest to outcome. |
 
+---
+
+## Take part
+
+If you are navigating a career in this sector, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog) opens three doors. Pick one, two, or all three. <!-- Davide to confirm Google Form URL -->
+
+- **A 25-minute conversation** about your own career navigation. Light-touch interviews to map where the friction actually is. Synthesis is shared with everyone who participates.
+- **Early-tester access** to a separate AI tool I am building, designed to help you look beyond the pool of organisations you already know and identify the roles your skills translate into.
+- **A note when the tool opens publicly**, with no further commitment.
 
 ---
 
-## Behind the toolkit
-
-I am Davide Piga, a Knowledge and Innovation Advisor working across international organisations, communities of practice, and organisational learning initiatives. I created this toolkit after participating in the event that inspired it. Partly because the content was exceptionally rich, and partly because I wanted a more structured way to revisit and connect the many ideas, tools, and perspectives that emerged across sessions.
-
-Much of my work over the years has focused on how knowledge moves inside organisations: how expertise is surfaced, how people learn from one another, and how information becomes practical and reusable instead of fragmented and difficult to access. This toolkit is a small extension of that same interest.
-
-## Beyond the toolkit
-
-While organising the material, a pattern emerged: much of the event naturally reflected the perspective of those hiring talent: recruiters, HR professionals, coaches, and leadership advisors. That perspective is valuable and necessary, but it also raised another question: how does all of this look from the perspective of people on the other side of the hiring table, those navigating uncertainty, transition, career stagnation, or job search directly?
-
-The question feels particularly relevant at a moment when many international organisations are going through significant change: funding pressure, restructuring, hiring slowdowns, evolving skill demands, and growing uncertainty across the sector. And that has affected many of us who have dedicated their careers and lives to making the world a better place for everybody.
-
-To explore this further, I started a series of short career conversations aimed at understanding where professionals in this space experience the greatest friction in navigating their careers today.
-
-This also connects to a broader project I’ve been working on in response to the same context. Earlier this year, I started developing a prototype that uses AI to help people look beyond the limited pool of organisations they already know, better understand how their skills translate across adjacent sectors and roles, identify opportunities they may not have previously considered, and gain a clearer view of where their experience creates the strongest comparative advantage.
-
-If you’d like to contribute to the conversations and/or explore the prototype, [the form](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog) allows you to:
-
-- Participate in a short career conversation (25 mins)
-- Join early testing of the prototype
-- Or receive a notification when the tool is released publicly
-
-[About](about) · [Event Coverage Analysis](event-coverage-analysis)
+*Made by Davide Piga. [About](about) · [Event Coverage Analysis](event-coverage-analysis)*
