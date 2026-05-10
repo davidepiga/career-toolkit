@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Five Whys for Purpose
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A recursive questioning sequence: start with "Why do you get out of bed every morning?" and ask "why" four more times. By the third or fourth iteration, you stop giving surface answers and arrive at values, energy sources, and the impact you want to make. From the answers, craft a personal purpose statement.
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Hand Model of the Brain
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A physical mental model for understanding what happens when strong emotion takes over: hold up your hand, fold the thumb in, fold the fingers over. Palm is primitive brain, thumb is limbic, fingers are cortex. When the lid flips, you react from emotion alone.
 

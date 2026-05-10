@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Progressive Muscle Relaxation
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A tense-and-release sequence through the major muscle groups: hands, shoulders and neck, face and jaw, legs and feet. Five seconds of contraction, then release. Reduces the muscular hypervigilance that uncertainty produces.
 

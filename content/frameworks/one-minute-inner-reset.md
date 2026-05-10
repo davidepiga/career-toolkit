@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # One-Minute Inner Reset
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A five-step body-first sequence for self-regulation in a challenging moment: pause, body scan, label the emotion, box breathing, choose a value-aligned action. Designed to fit into existing transitions (a hallway walk, waiting for coffee, a commute) rather than to compete for new time.
 

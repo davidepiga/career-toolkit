@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Duties-Driven Interview Prep
 
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
 
 A method for preparing competency-based interviews that starts from the vacancy notice's duties section, generating 20 or more likely questions before the interview begins.
 

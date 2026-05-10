@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Seventy Percent Fit Threshold
 
-*Dimension: [[choice|Choice]] · Type: Stage*
+*Dimension: [[Choice|Choice]] · Type: Stage*
 
 A decision rule for when a role is worth a tailored application: aim for around 70% fit, not 100% and not 60%. Below 70% you waste tailoring effort; waiting for 100% means you never apply.
 

@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Schmidt's Attention Shift
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A four-question reflection that turns past difficulty into a present asset. Acknowledge the distress first, then deliberately direct attention to what you used to survive it. The skills you already developed under pressure are an asset you can name.
 

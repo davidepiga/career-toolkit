@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Notice, Pause, Shift, Act
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A four-step in-the-moment routine for interrupting an automatic, saboteur-driven reaction and choosing a more deliberate response. Daily reps train the new default through neuroplasticity.
 

@@ -81,4 +81,4 @@ The Capability sessions of IACW 2026 converge on one uncomfortable claim: skills
 
 ## If your situation is closer to
 
-If your skills are clear but the inner state to use them is shaky, see [[mindset|Mindset]]. If you have the skills and want to convert them into a specific application, see [[pursuit|Pursuit]].
+If your skills are clear but the inner state to use them is shaky, see [[Mindset|Mindset]]. If you have the skills and want to convert them into a specific application, see [[Pursuit|Pursuit]].

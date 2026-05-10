@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 5i Framework
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A five-dimension coaching framework for making informed career decisions: Identify values, set Intentional goals, take Inventory of skills, plan Investment, name Inhibitors.
 

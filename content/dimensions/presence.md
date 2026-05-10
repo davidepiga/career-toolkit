@@ -64,4 +64,4 @@ Presence is one of the thinnest stages in the official programme. Two of the 40 
 
 ## If your situation is closer to
 
-If your materials look right but the right opportunities are not reaching you, see [[visibility|Visibility]]. If your CV is in good shape but you cannot decide what to apply to, see [[choice|Choice]]. If the materials are ready and you are inside the application loop, see [[pursuit|Pursuit]].
+If your materials look right but the right opportunities are not reaching you, see [[Visibility|Visibility]]. If your CV is in good shape but you cannot decide what to apply to, see [[Choice|Choice]]. If the materials are ready and you are inside the application loop, see [[Pursuit|Pursuit]].

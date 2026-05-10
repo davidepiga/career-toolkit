@@ -59,4 +59,4 @@ For someone using this toolkit: if you are stuck because the right opportunities
 
 ## If your situation is closer to
 
-If you can see the opportunities but cannot tell them apart, see [[choice|Choice]]. If you see the opportunities clearly but are unsure they match where you want to go, see [[direction|Direction]].
+If you can see the opportunities but cannot tell them apart, see [[Choice|Choice]]. If you see the opportunities clearly but are unsure they match where you want to go, see [[Direction|Direction]].

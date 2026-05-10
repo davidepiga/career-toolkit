@@ -79,4 +79,4 @@ Direction was one of the heavier blocks of the week, comparable to Mindset. Ten 
 
 ## If your situation is closer to
 
-If you have a clear direction but no awareness of what is on offer, see [[visibility|Visibility]]. If you have a clear direction and several options on the table, see [[choice|Choice]].
+If you have a clear direction but no awareness of what is on offer, see [[Visibility|Visibility]]. If you have a clear direction and several options on the table, see [[Choice|Choice]].

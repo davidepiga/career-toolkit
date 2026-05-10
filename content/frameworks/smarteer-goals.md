@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # SMARTEER Goals
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 SMART goals plus three additions that make them human enough to follow through on: Enjoyable, Evaluate, Reward.
 

@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Strengths Profile
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A four-quadrant model that maps your abilities against energy and current use, with a sharp definition of what counts as a strength: it must energise you, you must perform it well, and you must use it.
 

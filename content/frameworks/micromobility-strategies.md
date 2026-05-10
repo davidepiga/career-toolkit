@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Micromobility Strategies
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A menu of small career moves you can make without changing roles: task forces, cross-functional projects, acting roles, stretch assignments, shadowing, interagency loans, coffee chats.
 

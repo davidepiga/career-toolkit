@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Reverse Mentoring Playbook
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A playbook for mutual learning between a junior mentor and senior leader. Five Principles, REAL Goals, and a five-step Action Plan to start without institutional permission.
 

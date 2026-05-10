@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Skills Self-Audit
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A recurring three-bucket review of your skills, Protect, Evolve, Let Go, that catches obsolescence early and keeps career investment pointed at what the market still rewards.
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Career Gap to Sprint Workflow
 
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
 
 A two-prompt AI workflow that produces a structured fit-and-gap analysis from your CV and a vacancy, then converts the gaps into a 30-day calendar-blocked development sprint.
 

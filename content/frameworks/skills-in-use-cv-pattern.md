@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Skills-in-Use CV Pattern
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A writing pattern for CV bullets, cover-letter sentences, and interview answers. Name the skill, the action it enabled, and the context it produced impact in.
 

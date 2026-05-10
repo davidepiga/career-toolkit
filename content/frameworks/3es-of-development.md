@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # 3 E's of Development
 
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
 
 A three-dimension check on any development plan: Experience (learning by doing), Exposure (learning through others), Education (structured learning, including AI tools and courses). Most plans over-index on Education; the strongest plans run all three.
 

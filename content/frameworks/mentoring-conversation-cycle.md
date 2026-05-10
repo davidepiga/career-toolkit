@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Seven-Step Mentoring Conversation Cycle
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A structured sequence for running a single mentoring conversation: establish trust, align expectations, listen actively, foster self-reflection, share with permission, define actions, evaluate learning. Active listening and confidentiality run through all seven, not as stages but as constants.
 

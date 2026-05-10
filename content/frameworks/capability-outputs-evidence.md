@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Capability + Outputs + Evidence
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A three-part rewrite formula for any CV bullet, motivation paragraph, or LinkedIn line that needs to pass a skills-based or AI-assisted screen. Name the capability, the output, the evidence.
 

@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # Accurate Thinking
 
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
+*Dimension: [[Mindset|Mindset]] · Type: Foundation*
 
 A four-question interrupt for catastrophic thoughts: what evidence holds up in court, what is a realistic alternative, if the worst case happened how exactly would I cope, and what one small step can I take today. Realistic and self-compassionate, not forced positivity.
 

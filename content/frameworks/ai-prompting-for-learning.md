@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # AI Prompting for Learning
 
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
 
 Three principles for getting useful learning support from any AI assistant: be specific about your level, ask for structure, and push it deeper than the default answer.
 

@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # How to Approach a Mentor
 
-*Dimension: [[capability|Capability]] · Type: Foundation*
+*Dimension: [[Capability|Capability]] · Type: Foundation*
 
 A structure for the first message you send to a potential mentor: clarify your objective, look beyond hierarchy, write a brief specific message with a hook, propose a light bounded commitment.
 

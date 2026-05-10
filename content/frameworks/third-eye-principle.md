@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Third Eye Principle
 
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
+*Dimension: [[Pursuit|Pursuit]] · Type: Stage*
 
 A three-layer review pass for any application before you submit it: alignment, machine-readability, polish. Each layer catches different errors, and skipping any one of them leaves a class of mistakes uncaught.
 

@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Sprinter, Runner, Marathon Runner Typology
 
-*Dimension: [[choice|Choice]] · Type: Stage*
+*Dimension: [[Choice|Choice]] · Type: Stage*
 
 A self-diagnostic for how you currently engage with job descriptions: skim and apply, read and adjust by assumption, or read, break down, and tailor based on what the JD actually says. The three types lead to different outcomes; the goal is to be the third when the stakes warrant it.
 

@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Skill Matrix Audit
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A six-column matrix for auditing your skills against your target career path. The operational artefact for the Inventory dimension of the 5i Framework.
 

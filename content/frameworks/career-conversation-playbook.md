@@ -30,7 +30,7 @@ last_updated: 2026-05-09
 
 # Career Conversation Playbook
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A three-part structure for any deliberate manager or mentor conversation: prepare with intention, create a positive environment, keep a constructive frame. Built around an easy-yes ask.
 

@@ -31,7 +31,7 @@ last_updated: 2026-05-09
 
 # BASIC Achievement Bank
 
-*Dimension: [[presence|Presence]] · Type: Stage*
+*Dimension: [[Presence|Presence]] · Type: Stage*
 
 A five-field structure for documenting one professional achievement so it can be reused across CVs, cover letters, and interview answers.
 

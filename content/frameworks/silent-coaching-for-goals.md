@@ -29,7 +29,7 @@ last_updated: 2026-05-09
 
 # Silent Coaching for Goals
 
-*Dimension: [[direction|Direction]] · Type: Stage*
+*Dimension: [[Direction|Direction]] · Type: Stage*
 
 A 14-question silent coaching sequence that moves a vague goal to a concrete next action and a commitment rating, in roughly 15 minutes.
 
