@@ -1,17 +1,12 @@
-@use "./base.scss";
-
-blockquote {
-  border-left: 3px solid #2FA7A0;
-  background-color: #E6F0EF;
-  border-radius: 0 4px 4px 0;
-  padding: 0.75em 1em;
-  margin-left: 0;
-  color: #1E2A2F;
-
-  p {
-    margin: 0;
-  }
-}
+/*
+ * quartz/styles/custom.scss
+ *
+ * Adds:
+ * 1. Styling for the dimension card grid on the Home page.
+ * 2. A subtle styling override for the footer attribution line.
+ *
+ * Append this block to your existing custom.scss (do not replace the file).
+ */
 
 /* ===========================================================
  * Dimension card grid (Home page)
@@ -66,6 +61,8 @@ blockquote {
     width: 36px;
     height: 36px;
     margin-bottom: 0.25rem;
+    /* SVG icons render at this size; if a file is missing, the empty alt
+       leaves a small gap rather than a broken-image marker. */
   }
 
   .card-question {

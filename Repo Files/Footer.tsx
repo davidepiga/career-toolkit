@@ -1,3 +1,12 @@
+// quartz/components/Footer.tsx (override)
+//
+// Replaces the default Quartz Footer with one that carries the toolkit-level
+// attribution leading line, plus the configured links. Drop this file in
+// `quartz/components/Footer.tsx` (overwrites the default).
+//
+// The leading line is impersonal: the toolkit attribution. Davide's name lives
+// only on the About page and on the LinkedIn link below.
+
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"

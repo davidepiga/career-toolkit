@@ -13,6 +13,8 @@ The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-care
 ---
 ## Career Navigation Model
 
+Click on a dimension to find frameworks related to it.
+
 ### Foundations
 
 | Dimension | Core Question | What It Covers |
