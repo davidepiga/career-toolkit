@@ -1,11 +1,13 @@
 ---
-title: Career Navigation Model
+title: Dimensions
 description: ""
-type: model
+type: index
 tags: []
 status: published
 last_updated: 2026-05-10
 ---
+
+## Career Navigation Model
 
 **Two foundations, five stages.** The two foundations run continuously underneath everything. The five stages have a natural order when pursuing any single opportunity, but across a career they cycle and overlap: you're often working on several at once.
 
@@ -13,7 +15,7 @@ last_updated: 2026-05-10
 
 ---
 
-#### The two foundations (continuous, underneath all stages)
+### The two foundations (continuous, underneath all stages)
 
 > **1. [[mindset]]** — _Am I in the right state to navigate?_ 
 > Your motivation, resilience, agency, ability to manage the emotional cost of uncertainty, rejection, and pressure. Whether you act from initiative or from inertia. How you handle setbacks. The internal conditions that determine whether you can act on anything else in the model. 
@@ -25,7 +27,7 @@ last_updated: 2026-05-10
 
 ---
 
-#### The five stages (cyclical, with a natural order per opportunity)
+### The five stages (cyclical, with a natural order per opportunity)
 
 > **3. [[direction]]** — _Where am I aiming?_ 
 > Your career narrative, identity, target roles, sectors, organisations. The hypothesis you're testing about where you fit and where you want to go. Not a fixed plan — a working compass that you revise as you learn more. 
@@ -49,7 +51,7 @@ last_updated: 2026-05-10
 
 ---
 
-#### Why this shape
+### Why this shape
 
 **Why two foundations.** Both Mindset and Capability run continuously and act as conditions for everything else. You can have a sharp Direction and tailored Presence, but if your Mindset is depleted or your Capability is misaligned with where you're aiming, the rest doesn't move. The IACW 2026 programme confirms this empirically — roughly a quarter of sessions are about inner state (Saboteurs, Adaptability Quotient, Thriving in Uncertainty, Inner Resilience, Habits under Pressure, Strengths) and a meaningful fraction about skills (Upskilling, Skills Shift, Behavioural Science).
 

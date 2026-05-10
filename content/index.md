@@ -8,7 +8,7 @@ status: published
 
 **Frameworks and tools for navigating a career in international development and humanitarian work**
 
-The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026) ran 40 sessions across five days, with 33 organisations contributing. This toolkit is a curation of the most practical and reusable frameworks from those sessions, organised by a [model](career-navigation-model) of seven dimensions: two foundations that run continuously, and five stages that cycle as a career unfolds.
+The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-career-week-2026) ran 40 sessions across five days, with 33 organisations contributing. This toolkit is a curation of the most practical and reusable frameworks from those sessions, organised by a [model](frameworks/index.md) of seven dimensions: two foundations that run continuously, and five stages that cycle as a career unfolds.
 
 ---
 ## Career Navigation Model
