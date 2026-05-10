@@ -19,25 +19,25 @@ The 40 sessions* of the IACW 2026 were each coded against the seven dimensions o
 
 | Dimension | Sessions | Share |
 |---|---:|---:|
-| [[mindset\|Mindset]] | 12 | 30.0% |
-| [[direction\|Direction]] | 10 | 25.0% |
-| [[pursuit\|Pursuit]] | 8 | 20.0% |
-| [[capability\|Capability]] | 7 | 17.5% |
-| [[presence\|Presence]] | 2 | 5.0% |
-| [[visibility\|Visibility]] | 1 | 2.5% |
+| [[mindset\|Mindset]] | 12 | <span style="display:inline-block;background-color:rgb(31,111,115);color:white;padding:2px 8px;border-radius:3px">30.0%</span> |
+| [[direction\|Direction]] | 10 | <span style="display:inline-block;background-color:rgb(68,135,138);color:white;padding:2px 8px;border-radius:3px">25.0%</span> |
+| [[pursuit\|Pursuit]] | 8 | <span style="display:inline-block;background-color:rgb(106,159,162);color:white;padding:2px 8px;border-radius:3px">20.0%</span> |
+| [[capability\|Capability]] | 7 | <span style="display:inline-block;background-color:rgb(124,171,173);color:white;padding:2px 8px;border-radius:3px">17.5%</span> |
+| [[presence\|Presence]] | 2 | <span style="display:inline-block;background-color:rgb(218,231,232);color:#1F3542;padding:2px 8px;border-radius:3px">5.0%</span> |
+| [[visibility\|Visibility]] | 1 | <span style="display:inline-block;background-color:rgb(236,243,243);color:#1F3542;padding:2px 8px;border-radius:3px">2.5%</span> |
 | [[choice\|Choice]] | 0 | 0.0% |
 
 ### Any-mention (a session can contribute to multiple dimensions)
 
 | Dimension | Sessions touching | Share of 40 |
 |---|---:|---:|
-| Pursuit | 19 | 47.5% |
-| Direction | 18 | 45.0% |
-| Mindset | 16 | 40.0% |
-| Capability | 13 | 32.5% |
-| Presence | 9 | 22.5% |
-| Visibility | 9 | 22.5% |
-| Choice | 2 | 5.0% |
+| Pursuit | 19 | <span style="display:inline-block;background-color:rgb(31,111,115);color:white;padding:2px 8px;border-radius:3px">47.5%</span> |
+| Direction | 18 | <span style="display:inline-block;background-color:rgb(43,119,122);color:white;padding:2px 8px;border-radius:3px">45.0%</span> |
+| Mindset | 16 | <span style="display:inline-block;background-color:rgb(66,134,137);color:white;padding:2px 8px;border-radius:3px">40.0%</span> |
+| Capability | 13 | <span style="display:inline-block;background-color:rgb(102,157,159);color:white;padding:2px 8px;border-radius:3px">32.5%</span> |
+| Presence | 9 | <span style="display:inline-block;background-color:rgb(149,187,189);color:#1F3542;padding:2px 8px;border-radius:3px">22.5%</span> |
+| Visibility | 9 | <span style="display:inline-block;background-color:rgb(149,187,189);color:#1F3542;padding:2px 8px;border-radius:3px">22.5%</span> |
+| Choice | 2 | <span style="display:inline-block;background-color:rgb(231,240,240);color:#1F3542;padding:2px 8px;border-radius:3px">5.0%</span> |
 
 ### What this says
 
