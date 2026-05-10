@@ -119,12 +119,3 @@ footer ul {
   margin-top: 0.5rem;
 }
 
-/* Hide the "Explorer ∨" collapsible header on desktop */
-.explorer .title-button.desktop-explorer {
-  display: none;
-}
-
-/* Remove top margin on explorer list — was designed for the header button */
-.explorer .explorer-content {
-  margin-top: 0;
-}
