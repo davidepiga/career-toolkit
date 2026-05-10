@@ -36,7 +36,7 @@ The [UN Inter-Agency Career Week 2026](https://learning.unog.ch/interagency-care
 
 ## Take part
 
-If you are navigating a career in this sector, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog) opens three doors. Pick one, two, or all three. <!-- Davide to confirm Google Form URL -->
+If you are navigating a career in this sector, ==[this form](https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=dialog)== opens three doors. Pick one, two, or all three.
 
 - **A 25-minute conversation** about your own career navigation. Light-touch interviews to map where the friction actually is. Synthesis is shared with everyone who participates.
 - **Early-tester access** to a separate AI tool I am building, designed to help you look beyond the pool of organisations you already know and identify the roles your skills translate into.
