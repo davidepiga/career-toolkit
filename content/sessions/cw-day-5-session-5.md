@@ -35,7 +35,7 @@ tags:
   - session
   - day-5
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

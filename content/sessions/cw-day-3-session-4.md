@@ -33,7 +33,7 @@ tags:
   - day-3
   - pursuit
   - choice
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

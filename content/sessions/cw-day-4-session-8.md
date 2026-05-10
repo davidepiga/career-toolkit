@@ -38,7 +38,7 @@ tags:
   - direction
   - capability
   - choice
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

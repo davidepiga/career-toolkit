@@ -32,7 +32,7 @@ tags:
   - day-5
   - pursuit
   - direction
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

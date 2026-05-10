@@ -43,7 +43,7 @@ tags:
   - day-1
   - pursuit
   - presence
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 

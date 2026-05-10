@@ -31,7 +31,7 @@ tags:
   - day-1
   - direction
   - mindset
-status: draft
+status: published
 last_updated: 2026-05-10
 ---
 
