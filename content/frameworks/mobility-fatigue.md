@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Mobility Fatigue
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 The psychological wear that accumulates from repeated cycles of adaptation, detachment, and reorientation in a globally mobile career, distinct from burnout. Naming it is the first intervention. The page introduces the concept and a three-step practice for working with it.
 
 Introduced by Elisabetta Iberni (Staff Relations and Welfare Officer, OPCW; clinical psychologist and licensed psychotherapist) at the [[sessions/cw-day-4-session-4|What Remains When Everything Changes]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. The named concept "mobility fatigue" is the speaker's framing, drawing on the broader Third Culture Kid literature and Gilbert's 2008 work on disenfranchised loss. Speaker contact: elisabetta.iberni@opcw.org.

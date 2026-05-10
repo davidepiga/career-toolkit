@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Accurate Thinking
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-question interrupt for catastrophic thoughts: what evidence holds up in court, what is a realistic alternative, if the worst case happened how exactly would I cope, and what one small step can I take today. Realistic and self-compassionate, not forced positivity.
 
 Introduced by Susanne Baberg (Senior Psychologist, OSCE Occupational Safety and Health Unit) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. The method is from cognitive behavioural therapy (Beck, Burns, Ellis tradition), anchored by Susanne in Richard Lazarus's transactional stress model: stress is shaped by the appraisal of one's ability to cope, not by the situation alone.

@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# 20/80 Bucket System
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A pre-task triage rule that puts roughly 20% of your work in a "deserves 110%" bucket and the other 80% in a "good enough" bucket, before you start. A specific counter-move to perfectionism applied to the wrong tasks.
 
 Introduced by Katarina Posa (IOM) at the [[sessions/cw-day-3-session-5|Managing Your Saboteurs]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, as her personal Stickler counter-move within the broader Positive Intelligence framework.

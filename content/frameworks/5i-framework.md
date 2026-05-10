@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# 5i Framework
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A five-dimension coaching framework for making informed career decisions: Identify values, set Intentional goals, take Inventory of skills, plan Investment, name Inhibitors.
 
 Introduced jointly by Erin Bowser (IOM) and Shihui Xu (UNDP) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin led the framework introduction, motivation, skills, and career-transition planning segments. Shihui led the values, goal-setting, and strengths segments. The framework also features in Career Tips Thursday Session 46.

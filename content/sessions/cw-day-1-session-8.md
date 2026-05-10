@@ -44,10 +44,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Mastering Job Interviews: Turning Your Experience into Impact
-
-*Primary: [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Monday, 4 May 2026, 20:30 to 21:30 CEST  
 **Hosted by** · UNOV/UNODC, UN Women, IFAD, CTBTO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25717)

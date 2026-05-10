@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Five Ws Plus How, Career Scaffold
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 Six question prompts (Who, What, Where, When, Why, How) for breaking career-related analysis paralysis into a finite list of things to find out. The point is not the questions themselves; the point is to get them out of your head and onto paper, so vague anxiety becomes a list you can act on.
 
 Introduced by Liz Oseland and Hannah Nash (10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Liz framed the scaffold as the operational counter-move to analysis paralysis: get the questions out of your head and onto paper. Hannah reinforced the Who dimension repeatedly throughout the session. The underlying structure (Five Ws + How) is the standard journalism and problem-solving heuristic.

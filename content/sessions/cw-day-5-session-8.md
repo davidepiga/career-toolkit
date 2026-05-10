@@ -47,10 +47,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Own your Future, Make your Role Matter
-
-*Primary: [[dimensions/mindset|Mindset]] · Also touches: [[dimensions/direction|Direction]], [[dimensions/presence|Presence]]*
-
 **Date** · Friday, 8 May 2026, 20:30 to 21:30 CEST  
 **Hosted by** · UNDP  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25733)

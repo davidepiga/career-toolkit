@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Saboteur Catalog
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A reference for the ten saboteur patterns from the Positive Intelligence framework: one master saboteur (the Judge) plus nine accomplices, each with an inner-voice signature and a specific counter-move.
 
 Introduced collectively by Mirka Packard (IMO), Lucia Carrera (WFP), and Katarina Posa (IOM) at the [[sessions/cw-day-3-session-5|Managing Your Saboteurs]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. The ten saboteurs come directly from the Positive Intelligence framework by Shirzad Chamine, drawn from a research base of roughly one million participants. The free [Positive Intelligence self-assessment](https://www.positiveintelligence.com) identifies your top accomplices.

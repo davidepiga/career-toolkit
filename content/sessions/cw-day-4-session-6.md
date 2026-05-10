@@ -45,10 +45,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Building a winning profile from application to interview
-
-*Primary: [[dimensions/presence|Presence]] · Also touches: [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Thursday, 7 May 2026, 16:30 to 17:35 CEST  
 **Hosted by** · WHO and UNIDO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25745)

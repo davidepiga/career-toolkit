@@ -44,10 +44,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Private Sector Unlocked: How to Enter, Adapt, and Succeed
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/presence|Presence]], [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Tuesday, 5 May 2026, 10:30 to 11:30 CEST  
 **Hosted by** · UNAIDS  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25721)

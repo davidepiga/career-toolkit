@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Tiny Habits Setup
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A seven-step setup for building a new habit that actually sticks: small enough that failure is nearly impossible, anchored to an existing routine, sensorial, kindly self-talked, consistent over intense.
 
 Introduced by Sara Canna (Team Lead, Talent Acquisition and Management Unit, WHO Academy) at the [[sessions/cw-day-4-session-1|Habits under Pressure]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Sara closed the session with the seven-step setup as the practical takeaway. The structure draws on B.J. Fogg's tiny-habits research and James Clear's *Atomic Habits*, framed for career contexts.

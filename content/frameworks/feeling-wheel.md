@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Feeling Wheel
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A circular reference for naming emotions with precision. Combined with the formula *"I am noticing that I am feeling..."*, the wheel turns vague emotional discomfort into specific, regulable information.
 
 Introduced by Rengin Isik Akin (Staff Counsellor, UNFCCC) at the [[sessions/cw-day-4-session-3|Leading from Within]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Rengin showed a feeling wheel during the session and walked through the *"I am noticing that I am feeling..."* formula explicitly. The wheel itself was originally developed by Gloria Willcox in 1982 and has been refined and visualised by many practitioners since.

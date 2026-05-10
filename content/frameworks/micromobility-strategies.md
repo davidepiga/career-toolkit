@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Micromobility Strategies
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A menu of small career moves you can make without changing roles: task forces, cross-functional projects, acting roles, stretch assignments, shadowing, interagency loans, coffee chats.
 
 Introduced by Adina Forsstrom (UNESCO) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. The menu drew on Adina's experience designing career-development initiatives across UNESCO, UNHCR, UNICEF, and UNDP. Dawn Straiton Mullin's anecdote about repeatedly being denied an interagency loan before one was accepted is part of the same session.

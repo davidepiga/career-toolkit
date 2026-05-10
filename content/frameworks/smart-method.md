@@ -31,10 +31,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# SMART Method
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A five-element structure for answering competency-based interview questions: Situation, Mission or Task, Action, Result, Teachability. The Teachability element is what distinguishes SMART from the better-known STAR. Including a brief lessons-learned reflection turns a difficult situation into evidence of self-awareness rather than a confession.
 
 Introduced by Luisa Zurek (HR Associate, Talent Planning and Acquisition, UNIDO) at the [[sessions/cw-day-4-session-6|Building a Winning Profile from Application to Interview]] session, on 7 May 2026. Reinforced and extended at the [[sessions/cw-day-5-session-3|Mastering Job Interviews]] session by Aicha Abdoulhanzis (OCHA), Florette Niyongere (IOM), and Tamara Roura (OCHA), who used the STAR+L form with three operational rules. Reinforced again at the [[sessions/cw-day-5-session-7|Working for Justice]] session by Daiga Barone (ICC) under the STAR or CAR label with a fifth Learning element. The four labels are the same family.

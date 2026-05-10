@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Duties-Driven Interview Prep
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A method for preparing competency-based interviews that starts from the vacancy notice's duties section, generating 20 or more likely questions before the interview begins.
 
 Introduced by Draga Paskova (UNIDO) at the [[sessions/cw-day-4-session-6|Building a Winning Profile from Application to Interview]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Extended in the [[sessions/cw-day-5-session-3|Mastering Job Interviews]] session on 8 May 2026 by Florette Niyongere (IOM), Aicha Abdoulhanzis (OCHA), and Tamara Roura (OCHA), who added the two-axis questioning rule, the hypothetical-scenario question type, and a pre-interview preparation checklist.

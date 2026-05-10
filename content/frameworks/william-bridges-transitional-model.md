@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# William Bridges Transitional Model
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A two-track model that separates the external change you do not control from the internal transition that follows: denial, anxiety and shock, low point, gradual upgrade. Locating yourself on the inner curve normalises the dip.
 
 Introduced by Gulnara Zhakupova (Staff Counsellor, UNDP) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. The underlying model is William Bridges' classical work on transitions (Transitions, 1980; Managing Transitions, 1991), widely used in change management and counselling. Gulnara was deliberate about its limits: this is a classical model and individual experiences differ.

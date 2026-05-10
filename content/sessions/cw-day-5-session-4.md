@@ -41,10 +41,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# The Skills Shift: What skills-based hiring and AI agents might mean for a UN career (UNICC)
-
-*Primary: [[dimensions/capability|Capability]] · Also touches: [[dimensions/direction|Direction]], [[dimensions/visibility|Visibility]]*
-
 **Date** · Friday, 8 May 2026, 13:30 to 14:30 CEST  
 **Hosted by** · UNICC  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25725)

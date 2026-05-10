@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Notice, Pause, Shift, Act
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-step in-the-moment routine for interrupting an automatic, saboteur-driven reaction and choosing a more deliberate response. Daily reps train the new default through neuroplasticity.
 
 Introduced collectively by Mirka Packard (IMO), Lucia Carrera (WFP), and Katarina Posa (IOM) at the [[sessions/cw-day-3-session-5|Managing Your Saboteurs]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. The four steps are adapted from the Positive Intelligence framework by Shirzad Chamine. A free [Positive Intelligence self-assessment](https://www.positiveintelligence.com) identifies your dominant saboteurs and is the natural companion to this routine.

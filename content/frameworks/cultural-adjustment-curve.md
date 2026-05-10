@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Cultural Adjustment Curve
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-phase model of the emotional arc most people go through when entering a new culture: excitement, frustration, surface adjustment, deeper adaptation. Knowing the phases in advance reduces the surprise when each one arrives, normalises the difficult middle, and helps you spot whether you are stuck.
 
 Introduced by Elisabetta Iberni (Staff Relations and Welfare Officer, OPCW; clinical psychologist) at the [[sessions/cw-day-4-session-4|What Remains When Everything Changes]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Elisabetta presented the curve briefly within the broader frame of [[mobility-fatigue|Mobility Fatigue]], describing it as a way to anticipate and normalise the emotional arc of relocation. The curve has roots in Sverre Lysgaard's 1955 research on Norwegian Fulbright grantees and Kalervo Oberg's 1960 work on culture shock.

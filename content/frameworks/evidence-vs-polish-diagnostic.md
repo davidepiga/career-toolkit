@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Evidence vs Polish Diagnostic
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A single recruiter-side question to run on your own application before submitting: *"If a recruiter stripped away all the polished language from this CV today, what real evidence would still remain?"* The honest answer separates an AI-augmented strong application from an AI-fluent empty one.
 
 Introduced by Godwin Otim (People and Culture Specialist, UNICEF) at the [[sessions/cw-day-3-session-3|AI for Your Career, Practical Tools and Prompts]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Godwin framed AI as a mirror that sharpens self-presentation but cannot create substance, then closed with the diagnostic question that anchors this page.

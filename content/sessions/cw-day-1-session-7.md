@@ -35,10 +35,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Opportunités de carrière aux Nations Unies pour les jeunes professionels et conseils pour réussir sa candidature
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/visibility|Visibility]]*
-
 **Date** · Monday, 4 May 2026, 19:00 to 20:00 CEST  
 **Hosted by** · UNOG and UNOV/UNODC  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25716)

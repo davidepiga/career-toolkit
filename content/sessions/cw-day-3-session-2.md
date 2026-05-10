@@ -50,10 +50,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Upskilling for the Future - How to Stay Marketable Inside and Beyond the UN
-
-*Primary: [[dimensions/capability|Capability]] · Also touches: [[dimensions/direction|Direction]]*
-
 **Date** · Wednesday, 6 May 2026, 10:30 to 11:30 CEST  
 **Hosted by** · UNHCR and ITU  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25738)

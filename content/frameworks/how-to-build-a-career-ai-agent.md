@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# How to Build a Career AI Agent
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A field-by-field walkthrough for setting up a custom AI agent for a recurring career-development task. Works on ChatGPT, Copilot, Gemini, and similar platforms with minor variations. Most of the work happens in the instructions field, not anywhere else.
 
 Introduced by Laura Rubio (HR Specialist in Learning & Organizational Development, UNAIDS) at the [[sessions/cw-day-3-session-6|Construye tu Asistente de Carrera con IA]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, delivered in Spanish. Laura demonstrated the build live on ChatGPT and Copilot during the session, walking through every field.

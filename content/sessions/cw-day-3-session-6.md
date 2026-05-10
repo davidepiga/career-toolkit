@@ -35,10 +35,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Construye tu Asistente de Carrera con IA
-
-*Primary: [[dimensions/capability|Capability]] · Also touches: [[dimensions/pursuit|Pursuit]], [[dimensions/mindset|Mindset]]*
-
 **Date** · Wednesday, 6 May 2026, 16:30 to 17:30 CEST  
 **Hosted by** · UNAIDS  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25746)

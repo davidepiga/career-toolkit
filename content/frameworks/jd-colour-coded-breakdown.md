@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# JD Colour-Coded Breakdown
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A four-step method for decoding a job description on a separate document, using a different colour for each category, so that what the role actually does becomes visible at a glance. The output is the working sheet you tailor your application against.
 
 Introduced by Damla Deniz Taskin (OPCW) at the [[sessions/cw-day-3-session-4|Breaking Down Job Descriptions]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, with a live walk-through on a real OPCW vacancy. Extended in the [[sessions/cw-day-5-session-7|Working for Justice]] session by Sandra Čolić and Daiga Barone, who added the structural reading order before the four-colour analysis.

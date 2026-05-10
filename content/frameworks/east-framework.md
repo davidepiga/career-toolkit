@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# EAST Framework
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 Four design principles for making a desired behaviour more likely to happen: Easy, Attractive, Social, Timely. EAST is the design toolkit; [[com-b-model|COM-B]] is the diagnostic. Apply EAST after COM-B has identified the bottleneck.
 
 Introduced by Tiina Likki (Behavioural Scientist, WHO Transformation team) at the [[sessions/cw-day-5-session-1|Behavioural Science for Career Development]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Tina Stochmal (WHO HR, 17 years across UN system recruitment) translated each principle into career-development applications throughout the session. EAST was developed by the UK Behavioural Insights Team (BIT, sometimes called the "Nudge Unit"), distilled from a decade of large-scale randomised trials in public services.

@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# One-Minute Inner Reset
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A five-step body-first sequence for self-regulation in a challenging moment: pause, body scan, label the emotion, box breathing, choose a value-aligned action. Designed to fit into existing transitions (a hallway walk, waiting for coffee, a commute) rather than to compete for new time.
 
 Introduced by Rengin Isik Akin (Staff Counsellor, UNFCCC) at the [[sessions/cw-day-4-session-3|Leading from Within]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Rengin walked through the five steps live during the session, including a practised box-breathing demonstration. In the Q&A, she emphasised the importance of attaching the practice to existing transitions rather than scheduling separate time for it.

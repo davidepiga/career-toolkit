@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Third Eye Principle
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A three-layer review pass for any application before you submit it: alignment, machine-readability, polish. Each layer catches different errors, and skipping any one of them leaves a class of mistakes uncaught.
 
 Introduced by Mian Nabeel Ahmed (IFAD) at the [[sessions/cw-day-2-session-4|Mapping Professional Achievements]] session of the UN Inter-Agency Career Week 2026, on 5 May 2026. Nabeel framed the principle as the discipline that separates strong applications from average ones in a competitive field, drawing on years of recruiter practice.

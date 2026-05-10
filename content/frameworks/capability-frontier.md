@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Capability Frontier
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A four-level maturity scale for AI use, plotted across capability areas rather than across job levels: Explorer, Adopter, Practitioner, Builder. Locate yourself honestly, pick one or two adjacent moves, do not try to advance everywhere at once.
 
 Introduced by Matt Valente (Digital Talent Acquisition and Talent Management Lead, UNICC) at the [[sessions/cw-day-5-session-4|The Skills Shift]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Matt ran a live version of UNICC's AI Skills Shift assessment with the audience, narrated the resulting plot in real time, and used the User vs Operator pattern to argue that the right development move is area-specific rather than global.

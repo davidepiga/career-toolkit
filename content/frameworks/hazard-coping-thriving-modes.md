@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Hazard, Coping, Thriving Modes
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 Three modes for diagnosing how you currently relate to your career situation: stuck (hazard), surviving (coping), or growing (thriving). The same external system can produce all three, depending on how you interact with it.
 
 Introduced by Adina Forsstrom (Head of Learning, Performance and Development, UNESCO) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. The session built on Dawn Straiton Mullin's framing of career development as a documented psychosocial hazard in UN settings, and on research that the strongest motivational factor at work is the sense of progress, not the achievement of a final goal.

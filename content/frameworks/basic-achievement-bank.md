@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# BASIC Achievement Bank
-
-*Dimension: [[presence|Presence]] · Type: Stage*
-
 A five-field structure for documenting one professional achievement so it can be reused across CVs, cover letters, and interview answers.
 
 Introduced by Bewketu Bogale (UNEP) at the [[sessions/cw-day-2-session-4|Mapping Professional Achievements]] session of the UN Inter-Agency Career Week 2026, on 5 May 2026. Bewketu has been advocating the achievement-bank approach since his time at UNECA. The argument behind it cites CareerWise research that more than 52% of applications fail because they do not surface specific, well-documented achievements.

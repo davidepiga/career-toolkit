@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Two-Phase Job Search
-
-*Dimension: [[choice|Choice]] · Type: Stage*
-
 A separation between two activities that look similar but are not: scanning vacancies to decide whether to apply, and working on a specific application. Each phase has its own purpose, its own depth of engagement, and its own checks.
 
 Introduced by Damla Deniz Taskin (OPCW) at the [[sessions/cw-day-3-session-4|Breaking Down Job Descriptions]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Damla framed the two phases as the structural reason that breaking down JDs is "crucial in both phases" but for different purposes.

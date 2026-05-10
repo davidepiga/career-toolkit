@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# 3 to 5 Key Result Areas
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A test for whether your role matters and whether you are using your hours well: name the three to five activities only you can do, where your time actually produces results. If you cannot list them, that is the gap. If you can, link each one upward to your team, agency, and overall mission.
 
 Introduced by Liz Oseland (Account Director and Coach, 10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, as the practical answer to the "is my role mattering" question. The NASA cleaner story was the upstream check, used not as motivational lore but as a clarity test on whether each KRA links to the mission.

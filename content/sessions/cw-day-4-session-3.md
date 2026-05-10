@@ -32,10 +32,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Leading from Within: Self-Awareness, Authenticity, and Inner Resilience
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Thursday, 7 May 2026, 12:00 to 13:00 CEST  
 **Hosted by** · UNFCCC  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25739)

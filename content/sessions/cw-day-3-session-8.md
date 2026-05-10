@@ -40,10 +40,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Skill Development and Professional Networking through Mentoring
-
-*Primary: [[dimensions/mindset|Mindset]] · Also touches: [[dimensions/direction|Direction]], [[dimensions/capability|Capability]]*
-
 **Date** · Wednesday, 6 May 2026, 20:30 CEST  
 **Hosted by** · UN Women and IOM  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25749)

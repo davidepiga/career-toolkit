@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Immunity to Change
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-column diagnostic for the gap between knowing what you should do and not doing it. The map's central reframe: when you keep failing to move toward a goal you genuinely want, the cause is rarely resistance. You are protecting something. The four columns surface what you are protecting and the assumption underneath it.
 
 Introduced by Rengin Isik Akin (Staff Counsellor, UNFCCC) at the [[sessions/cw-day-4-session-3|Leading from Within]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Rengin presented the model briefly in the mindset section of the session and linked to Chapter 9 of the Kegan-Lahey book on the session's resource page. The model is original to Robert Kegan and Lisa Lahey, Harvard psychologists who have spent decades on adult-development research. The full method appears in their 2009 book *Immunity to Change*.

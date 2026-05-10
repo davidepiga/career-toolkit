@@ -41,10 +41,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Mapping Professional Achievements to Job Application and Interview
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/presence|Presence]]*
-
 **Date** · Tuesday, 5 May 2026, 13:30 CEST  
 **Hosted by** · UNEP and IFAD  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25724)

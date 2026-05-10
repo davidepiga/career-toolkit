@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Capability + Outputs + Evidence
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A three-part rewrite formula for any CV bullet, motivation paragraph, or LinkedIn line that needs to pass a skills-based or AI-assisted screen. Name the capability, the output, the evidence.
 
 Introduced by Olga Lehtinen (HR Development Lead, UNICC) at the [[sessions/cw-day-5-session-4|The Skills Shift]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Olga ran the formula throughout her segment, with concrete rewrite examples for each component and a sustained argument that AI screening "amplifies what the system is configured to value", so the more panels move toward evidence, the less tenure alone will carry an application.

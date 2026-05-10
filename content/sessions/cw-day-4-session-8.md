@@ -42,10 +42,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Make career moves with confidence using the 5i Framework
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/capability|Capability]], [[dimensions/choice|Choice]]*
-
 **Date** · Thursday, 7 May 2026, 20:30 to 21:30 CEST  
 **Hosted by** · IOM and UNDP  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25750)

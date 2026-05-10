@@ -43,10 +43,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Use Your Strengths to Boost Your Career
-
-*Primary: [[dimensions/mindset|Mindset]] · Also touches: [[dimensions/direction|Direction]], [[dimensions/capability|Capability]]*
-
 **Date** · Thursday, 7 May 2026, 15:00 to 16:05 CEST  
 **Hosted by** · IOM, UNOG, and IMO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25743)

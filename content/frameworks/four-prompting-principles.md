@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Four Prompting Principles
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 Four dimensions for structuring any prompt to a general-purpose AI assistant: give context, iterate, calibrate the freedom you give the model, and specify the output format.
 
 Introduced by Laura Rubio (UNAIDS) at the [[sessions/cw-day-3-session-6|Construye tu Asistente de Carrera con IA]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, delivered in Spanish. Laura presented the four principles as the instructional core of the session, before moving into the agent-building tutorial. The principles are platform-agnostic; she demonstrated them on ChatGPT and Copilot but they apply to any general-purpose AI assistant.

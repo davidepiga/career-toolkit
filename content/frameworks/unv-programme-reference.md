@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# UNV Programme Reference
-
-*Dimension: [[visibility|Visibility]] · Type: Stage*
-
 A reference page for evaluating the UN Volunteer programme as a deliberate career move. Categories, visible and hidden benefits, application reality, decision steps.
 
 Introduced by Sandra Le Gray and Tobias Wollnik (UNV) at the [[sessions/cw-day-4-session-2|Becoming a UN Volunteer]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Both speakers served as UN Volunteers before joining UNV HQ, which they presented as a concrete illustration of the career pathway. The "hidden benefits" framing came from Sandra; the structural overview from Tobias. Q&A support from Rita Tsering, Caroline Okila, and Christine Gazzol.

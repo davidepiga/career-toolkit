@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Habit Loop
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-stage behavioural cycle (cue, craving, response, reward) that explains why habits run on autopilot. Knowing the loop gives you four points to intervene when building a new habit or breaking an old one.
 
 Introduced by Alison Osborne (Learning and Development, WHO) at the [[sessions/cw-day-4-session-1|Habits under Pressure]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. The four-stage habit loop is a well-established behavioural-science framework, popularised by Charles Duhigg in *The Power of Habit* and refined by James Clear in *Atomic Habits*. The session presented the loop as a practical tool rather than introducing a new model. The session co-host Sara Canna (WHO Academy) reinforced the consistency-over-intensity argument throughout.

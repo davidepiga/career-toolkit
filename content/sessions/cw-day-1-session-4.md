@@ -35,10 +35,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Mapping Your Motivators for Career Choices
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/mindset|Mindset]]*
-
 **Date** · Monday, 4 May 2026, 13:30 to 14:30 CEST  
 **Hosted by** · IOM and UNOG  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25713)

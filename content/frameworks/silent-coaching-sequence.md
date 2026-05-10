@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Silent Coaching Sequence
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A 24-question self-coaching protocol designed to activate a single unrealised strength, ending with a specific committed first action and an exact date.
 
 Introduced by Katarina Posa (IOM) at the [[sessions/cw-day-4-session-5|Use Your Strengths to Boost Your Career]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Kata ran the sequence live with the audience, walking through all 24 questions with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. The strengths-focused complement to the [[silent-coaching-for-goals|Silent Coaching for Goals]] sequence introduced by Erin Bowser at Day 4 Session 8.

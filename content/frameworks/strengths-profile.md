@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Strengths Profile
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-quadrant model that maps your abilities against energy and current use, with a sharp definition of what counts as a strength: it must energise you, you must perform it well, and you must use it.
 
 Introduced by Mirka Packard (IMO) at the [[sessions/cw-day-4-session-5|Use Your Strengths to Boost Your Career]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026, with practical extensions on managing learned behaviours and weaknesses from Jesús Guerrero (UNOG). Reinforced at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session by Shihui Xu (UNDP), who added the Talent x Investment formulation as a complementary frame, on 7 May 2026. The session also pointed to the [Strengths Profile Free Starter Assessment](https://www.strengthsprofile.com) as a complementary psychometric tool.

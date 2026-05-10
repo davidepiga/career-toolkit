@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# AI Prompting for Learning
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 Three principles for getting useful learning support from any AI assistant: be specific about your level, ask for structure, and push it deeper than the default answer.
 
 Introduced by Tom Frohner (LinkedIn) at the [[sessions/cw-day-3-session-3|AI for Your Career, Practical Tools and Prompts]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Tom demonstrated the principles using LinkedIn Learning's AI Coach, but emphasised that the same prompting approach works on any general-purpose AI tool.

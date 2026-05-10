@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# UN-Honed Transferable Capabilities
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 Three capabilities UN staff systematically underestimate but that travel well to other IGOs: sensemaking in chaos, systems mindset, and professional agility under structural change. A self-recognition reference for staff considering a transition outside the UN, and a checklist of what to surface explicitly in applications and interviews.
 
 Introduced by Mariam Kakkar (Director of Human Resources, OSCE) at the [[sessions/cw-day-5-session-2|Beyond the UN Blue, Transition to Other IGOs]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Mariam articulated the three capabilities from her 24+ years across UNICEF, UNFPA, UNDP, UNHCR before joining the OSCE. Theresa Beltramo (AIIB, formerly UNHCR) reinforced the practical implications throughout the session, particularly on the importance of investing in self during transition rather than contracting.

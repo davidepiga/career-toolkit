@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Five AI Tool Categories
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A taxonomy that separates the AI tools you can use during a job application by what they are actually good at, so you reach for the right one at the right step.
 
 Introduced by Mian Nabeel Ahmed (IFAD) at the [[sessions/cw-day-2-session-4|Mapping Professional Achievements]] session of the UN Inter-Agency Career Week 2026, on 5 May 2026, as part of the speaker's "playbook for success" segment.

@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# COM-B Model
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A behavioural-science diagnostic for any goal that is not happening. For a behaviour to occur, three components must be in place at the same time: Capability (mental and physical), Opportunity (physical and social environment), Motivation (conscious attitudes and unconscious habits). Most stalled behaviours are blamed on motivation when the bottleneck is actually opportunity.
 
 Introduced by Tiina Likki (Behavioural Scientist, WHO Transformation team) at the [[sessions/cw-day-5-session-1|Behavioural Science for Career Development]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Tiina presented COM-B as the diagnostic foundation for the session's behaviour-change toolkit, paired with the [[east-framework|EAST Framework]] for the matched interventions. Tina Stochmal (WHO HR) translated each component into career-development examples. COM-B is original to Susan Michie and colleagues at the UCL Centre for Behaviour Change and sits at the heart of the Behaviour Change Wheel.

@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Four-Loop Alignment
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A diagram exercise that puts your personal Values, Purpose, Motivation, and Impact alongside your organisation's, and looks for the intersection points. You will not align on all four. The point is to find the connections you do have and to lean on them deliberately.
 
 Introduced by Hannah Nash (Director, Business Development Executive and Coach, 10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Hannah was emphatic that you do not need to align on all four; the point is to find the connection points and lean on them deliberately. Liz Oseland walked through the Vision-Mission-Goals-Team-Individual cascade as the upstream check.

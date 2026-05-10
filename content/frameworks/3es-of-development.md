@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# 3 E's of Development
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A three-dimension check on any development plan: Experience (learning by doing), Exposure (learning through others), Education (structured learning, including AI tools and courses). Most plans over-index on Education; the strongest plans run all three.
 
 Introduced by Sina Weinhuber (UNV) at the [[sessions/cw-day-3-session-3|AI for Your Career, Practical Tools and Prompts]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Sina used the framework to argue that most AI tools in the session occupy the Education dimension, while real skill growth needs all three.

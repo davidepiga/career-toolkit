@@ -40,10 +40,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Your Career, Your Conversation
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/mindset|Mindset]]*
-
 **Date** · Monday, 4 May 2026, 15:00 to 16:00 CEST  
 **Hosted by** · UNOPS, ICAO, UNIDO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25714)

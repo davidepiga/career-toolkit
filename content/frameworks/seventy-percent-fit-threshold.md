@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Seventy Percent Fit Threshold
-
-*Dimension: [[choice|Choice]] · Type: Stage*
-
 A decision rule for when a role is worth a tailored application: aim for around 70% fit, not 100% and not 60%. Below 70% you waste tailoring effort; waiting for 100% means you never apply.
 
 Introduced by Bewketu Bogale (UNEP) at the [[sessions/cw-day-2-session-4|Mapping Professional Achievements]] session of the UN Inter-Agency Career Week 2026, on 5 May 2026. The rule draws on the widely-discussed pattern that women tend to apply only at near-100% fit while men apply at around 60%, with 70% proposed as a calibrated middle.

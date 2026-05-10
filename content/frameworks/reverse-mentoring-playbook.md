@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Reverse Mentoring Playbook
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A playbook for mutual learning between a junior mentor and senior leader. Five Principles, REAL Goals, and a five-step Action Plan to start without institutional permission.
 
 Introduced by Fedor Anisimov (UN Secretariat) at the [[sessions/cw-day-5-session-6|Mentoring 2.0, From Top-Down to All-Around]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Fedor consolidated the Five Principles, the REAL Goals framework, and the five-step Action Plan from a review of private-sector practice (PwC, Pershing, Linklaters, GE, Microsoft, Cisco) and three reference texts: Harvard Business Review's "Why Reverse Mentoring Works and How to Do It Right" (2019), McKinsey Quarterly articles on cross-generational collaboration, and the Kronos blog on reverse mentoring program best practices.

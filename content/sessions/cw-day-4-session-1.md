@@ -35,10 +35,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Habits under Pressure: Working More Intentionally
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Thursday, 7 May 2026, 09:00 CEST  
 **Hosted by** · WHO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25734)

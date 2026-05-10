@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Reframe, Adapt, Lead
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 Three moves to keep the growth-mindset stance from drifting into a slogan: reframe what AI is doing to your role, adapt by stacking skills, lead by building learning rituals.
 
 Introduced by Rathan Kinhal (EY Switzerland) at the [[sessions/cw-day-3-session-2|Upskilling for the Future]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Reinforced and extended at the [[sessions/cw-day-5-session-4|The Skills Shift]] session by Matt Valente (UNICC), who added the 20-minutes-a-week rhythm as the operational form of the Adapt move, on 8 May 2026. Extended again at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session by Hannah Nash (10Eighty), who added the Reactive vs Proactive language shift mapping as a concrete operationalisation of the Reframe move, on 8 May 2026.

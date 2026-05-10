@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Career Mapping
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A structured gap analysis between where you are now and where you want to go, broken down into skills, network, and blockers, with three time-bounded next steps.
 
 Introduced by Adina Forsstrom (UNESCO) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Adina presented Career Mapping as the structured exercise that turns a vague desire to grow into a small set of concrete steps. Margaret Jones added the three-time-horizon framing (week, month, six months) at the end of the same session.

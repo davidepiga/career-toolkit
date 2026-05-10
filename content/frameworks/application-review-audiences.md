@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Application Review Audiences
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A four-stage map of who actually reads your application after you submit it: an AI or system screen, a recruiter, a hiring manager, and a selection panel. Each stage has a different lens. Writing for one audience without considering the others is a common reason strong candidates fall short.
 
 Introduced by Tina Stochmal (HR and Talent Acquisition Professional, WHO) at the [[sessions/cw-day-4-session-6|Building a Winning Profile from Application to Interview]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Reinforced by Preeti Nautiyal (WHO) on filling system fields. Extended at the [[sessions/cw-day-5-session-7|Working for Justice]] session by Daiga Barone with explicit volume signals and the post-interview clearance stage.

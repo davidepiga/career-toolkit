@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Cómo dominar las entrevistas de trabajo: refleja tu experiencia con impacto
-
-*Primary: [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Tuesday, 5 May 2026, 20:30 to 21:30 CEST  
 **Hosted by** · WFP, UN Women, CTBTO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25732)

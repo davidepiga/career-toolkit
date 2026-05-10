@@ -40,10 +40,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# From the UN to the Private Sector: Skills that enable Career Transition
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/mindset|Mindset]], [[dimensions/capability|Capability]]*
-
 **Date** · Monday, 4 May 2026, 09:00 to 10:00 CEST  
 **Hosted by** · UN Women  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25710)

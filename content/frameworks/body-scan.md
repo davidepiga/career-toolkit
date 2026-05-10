@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Body Scan
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A guided sweep of attention from feet to head, simply noticing sensations without trying to change them. No equipment, no movement, no breathing technique. Useful when stress has scattered attention and the body is carrying tension you have not consciously named.
 
 Introduced by Susanne Baberg (Senior Psychologist, OSCE Occupational Safety and Health Unit) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, as one of three immediate-grounding tools for the acute phase of organisational uncertainty. The underlying practice is established mindfulness work, codified in Jon Kabat-Zinn's Mindfulness-Based Stress Reduction (MBSR) programme.

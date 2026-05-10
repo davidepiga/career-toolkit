@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# R-CAR
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A four-part structure for turning a documented achievement into a single scannable CV bullet or cover-letter sentence: lead with the result, anchor it in context, action, and final outcome.
 
 Introduced by Bewketu Bogale (UNEP) at the [[sessions/cw-day-2-session-4|Mapping Professional Achievements]] session of the UN Inter-Agency Career Week 2026, on 5 May 2026. R-CAR builds on the well-established CAR (Context, Action, Result) family of competency-statement structures used in career coaching, with a leading "headline result" added at the front for documents read by scanners.

@@ -38,10 +38,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Youth Engagement: Put in Practice! (Young Talents in the UN System)
-
-*Primary: [[dimensions/visibility|Visibility]] · Also touches: [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Thursday, 7 May 2026, 19:00 CEST  
 **Hosted by** · OHCHR and ILO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25748)

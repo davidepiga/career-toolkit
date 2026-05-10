@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Intelligent Career Model
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 Three questions to run on yourself before any career conversation: Why do you do what you do (values, energy, purpose), How do you do it (skills you have and skills you need), and Whom do you do it with (network, who knows about your purpose). The Whom is the most underused of the three.
 
 Introduced by Hannah Nash (Director, Business Development Executive and Coach, 10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, as the three-question diagnostic she runs on herself and her clients before any career conversation. The underlying construct is from Arthur, Inkson and Pringle's The New Careers (Sage, 1999), which formalised three "ways of knowing" as the building blocks of intelligent career capital.

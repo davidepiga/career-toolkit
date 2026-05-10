@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Strengthening Your Adaptability Muscles, AQ: The Adaptability Quotient
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Tuesday, 5 May 2026, 15:00 to 16:00 CEST  
 **Hosted by** · ICAO and UNOPS  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25726)

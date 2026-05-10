@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# On-the-Job Learning
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A structured way to make onboarding, reassignment, parental leave replacement, and partial handovers into designed learning events. Mentoring Plan Map plus a Skills + Mindset + Toolkit prep frame.
 
 Introduced by Paola Pinto (UN Global Service Centre) at the [[sessions/cw-day-5-session-6|Mentoring 2.0, From Top-Down to All-Around]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Paola anchored the practice in the UN Secretariat's CDOT Mentoring Essentials Workshop, which her colleagues designed and deliver.

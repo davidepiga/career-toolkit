@@ -35,10 +35,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Behavioural Science for Career Development: Evidence-Based Steps for Action
-
-*Primary: [[dimensions/mindset|Mindset]] · Also touches: [[dimensions/capability|Capability]]*
-
 **Date** · Friday, 8 May 2026, 09:00 CEST  
 **Hosted by** · WHO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25718)

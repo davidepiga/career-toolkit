@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# How to Approach a Mentor
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A structure for the first message you send to a potential mentor: clarify your objective, look beyond hierarchy, write a brief specific message with a hook, propose a light bounded commitment.
 
 Introduced by Virginie Ferré Sanchez-Macagno (UNOG) at the [[sessions/cw-day-3-session-8|Skill Development through Mentoring]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Virginie has been training mentors and mentees in UN agencies for over a decade. The "hook" concept and the "anyone can be a mentor" reframe are her central contributions. Extended at the [[sessions/cw-day-5-session-6|Mentoring 2.0, From Top-Down to All-Around]] session by Fedor Anisimov (UN Secretariat), who added the explicit reverse-mentoring outreach script and the broader case for cross-generational pairs, on 8 May 2026.

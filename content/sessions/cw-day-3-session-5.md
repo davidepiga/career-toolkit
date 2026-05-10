@@ -41,10 +41,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Managing Your Saboteurs - Removing Barriers to Your Career Growth
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Wednesday, 6 May 2026, 15:00 to 16:00 CEST  
 **Hosted by** · IOM, IMO, and WFP  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25744)

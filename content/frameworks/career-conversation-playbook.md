@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Career Conversation Playbook
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A three-part structure for any deliberate manager or mentor conversation: prepare with intention, create a positive environment, keep a constructive frame. Built around an easy-yes ask.
 
 Introduced by Margaret Jones (UNESCO) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Margaret has led career-conversation initiatives at UNESCO and developed the playbook from years of one-to-one career-support work with UN staff. Extended at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session by Peter Sonerell (UNDP), who added the Walk and Talk format for the difficult versions of the same conversation, on 8 May 2026.

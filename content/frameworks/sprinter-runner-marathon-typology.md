@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Sprinter, Runner, Marathon Runner Typology
-
-*Dimension: [[choice|Choice]] · Type: Stage*
-
 A self-diagnostic for how you currently engage with job descriptions: skim and apply, read and adjust by assumption, or read, break down, and tailor based on what the JD actually says. The three types lead to different outcomes; the goal is to be the third when the stakes warrant it.
 
 Introduced by Damla Deniz Taskin (OPCW) at the opening of the [[sessions/cw-day-3-session-4|Breaking Down Job Descriptions]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, as the framing argument for the rest of the session.

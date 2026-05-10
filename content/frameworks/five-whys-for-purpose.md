@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Five Whys for Purpose
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A recursive questioning sequence: start with "Why do you get out of bed every morning?" and ask "why" four more times. By the third or fourth iteration, you stop giving surface answers and arrive at values, energy sources, and the impact you want to make. From the answers, craft a personal purpose statement.
 
 Introduced by Liz Oseland (Account Director and Coach, 10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, specifically as a personal purpose discovery tool. Her own statement ("to inspire others to think differently about their career and life plans") was the worked example. The underlying technique is the Five Whys, originally Sakichi Toyoda's root-cause-analysis tool from Toyota lean manufacturing practice.

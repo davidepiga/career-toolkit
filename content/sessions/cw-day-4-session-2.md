@@ -37,10 +37,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Becoming a UN Volunteer: What is in it for you? The Hidden Benefits of Volunteering
-
-*Primary: [[dimensions/visibility|Visibility]] · Also touches: [[dimensions/direction|Direction]], [[dimensions/capability|Capability]]*
-
 **Date** · Thursday, 7 May 2026, 10:30 to 11:30 CEST  
 **Hosted by** · UNV  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25736)
@@ -92,7 +88,7 @@ For people already on fixed-term contracts and considering UNV: it is not a step
 | Name | What it stands for | How to use it |
 |------|--------------------|---------------|
 | T Exercise → [[frameworks/jd-vs-profile-comparison\|JD vs Profile Comparison]] | A side-by-side comparison tool for matching your profile to a job requirement; the lighter version of the JD vs Profile Comparison framework | Draw two columns: list the DoA requirements on the left, your matching experience on the right. Use it before every UNV application to check fit and decide what to emphasise. The full two-sub-table version applies for longer JDs |
-| [[frameworks/unv-programme-reference\|UNV Programme Reference]] | UNV-specific reference: four on-site categories plus one online, visible benefits, hidden benefits, application reality. *(Originally created as `type: framework` named "UNV-as-Career-Move"; retyped as `type: reference` and renamed on 2026-05-09 after the [Frameworks Library Audit](../System/Frameworks%20Library%20Audit.md) confirmed it is organisation-specific reference content, not a generic operational tool. The generic application-decision logic lives in JD-vs-Profile-Comparison, Two-Phase-Job-Search, and Seventy-Percent-Fit-Threshold.)* | Use the reference content (categories, benefits, stats) when considering UNV. The page's six-step walk-through gives a UNV-specific decision structure; for the generic version, reach for the application-decision tools listed above. |
+| [[frameworks/unv-programme-reference\|UNV Programme Reference]] | UNV-specific reference: four on-site categories plus one online, visible benefits, hidden benefits, application reality. *(Originally created as `type: framework` named "UNV-as-Career-Move"; retyped as `type: reference` and renamed on 2026-05-09 after the Frameworks Library Audit confirmed it is organisation-specific reference content, not a generic operational tool. The generic application-decision logic lives in JD-vs-Profile-Comparison, Two-Phase-Job-Search, and Seventy-Percent-Fit-Threshold.)* | Use the reference content (categories, benefits, stats) when considering UNV. The page's six-step walk-through gives a UNV-specific decision structure; for the generic version, reach for the application-decision tools listed above. |
 | VLA (Volunteer Living Allowance) *(reference, no framework page)* | The monthly allowance paid to on-site UNV volunteers, adjusted by duty station, category, and family status | Use the benefits calculator at [app.unv.org](https://app.unv.org) to check the exact amount before applying. Ranges roughly $2,000-$4,000 per month for international Specialist-level assignments. *(Considered for promotion to a framework page but not promoted: this is a UNV-specific allowance schedule, not a transferable tool. The decision content is absorbed into the UNV Programme Reference page.)* |
 
 ## Resources

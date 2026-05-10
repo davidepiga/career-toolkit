@@ -26,10 +26,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Thriving Globally - The human side of relocation
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Tuesday, 5 May 2026, 19:00 to 20:00 CEST  
 **Hosted by** · DOS  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25730)

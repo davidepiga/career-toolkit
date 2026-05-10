@@ -32,10 +32,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# A Mind-Blowing Tour of AI Tools to Accelerate Your Career
-
-*Primary: [[dimensions/capability|Capability]] · Also touches: [[dimensions/pursuit|Pursuit]], [[dimensions/direction|Direction]]*
-
 **Date** · Monday, 4 May 2026, 16:30 to 17:30 CEST  
 **Hosted by** · IOM  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25715)

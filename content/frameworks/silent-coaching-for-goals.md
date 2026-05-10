@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Silent Coaching for Goals
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A 14-question silent coaching sequence that moves a vague goal to a concrete next action and a commitment rating, in roughly 15 minutes.
 
 Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin ran the sequence live during the session, walking through each question with reflection time after each. The protocol is hers, drawing on her ICF-aligned coaching practice. It is the goal-focused complement to the [[silent-coaching-sequence|Silent Coaching Sequence]] from Day 4 Session 5. Same technique, different application.

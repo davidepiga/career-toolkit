@@ -30,10 +30,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Circle of Control
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A three-ring exercise for redirecting energy from concerns you cannot affect to actions you fully control. Use when you feel overwhelmed, stuck, or stretched across too many things at once. Thriving professionals allocate roughly 80% of their energy to the inner ring.
 
 Introduced by Dawn Straiton Mullin (Chief, UN Secretariat Staff Counsellors Office) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, with cross-session reinforcement from Susanne Baberg (OSCE) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session and from Liz Oseland (10Eighty) at the [[sessions/cw-day-5-session-8|Own Your Future, Make Your Role Matter]] session. The underlying construct draws on Stephen Covey's circle-of-influence/circle-of-concern model and Stoic agency exercises.

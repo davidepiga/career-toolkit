@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# When to Build an AI Agent
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A four-criterion decision rule for choosing between a custom AI agent and the standard chat. Most people default to chat for everything; agents are worth the upfront cost in four specific situations.
 
 Introduced by Laura Rubio (HR Specialist in Learning & Organizational Development, UNAIDS) at the [[sessions/cw-day-3-session-6|Construye tu Asistente de Carrera con IA]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, delivered in Spanish. Laura demonstrated the criteria with three live examples from her work at UNAIDS, including the "Career Compass" agent.

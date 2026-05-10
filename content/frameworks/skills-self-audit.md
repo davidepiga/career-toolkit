@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Skills Self-Audit
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A recurring three-bucket review of your skills, Protect, Evolve, Let Go, that catches obsolescence early and keeps career investment pointed at what the market still rewards.
 
 Introduced by Rathan Kinhal (Senior Manager, EY Switzerland, formerly WHO) at the [[sessions/cw-day-3-session-2|Upskilling for the Future]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Rathan returned to the audit at multiple points in the session as his single most reliable practice for staying ahead of skill transitions.

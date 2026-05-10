@@ -43,10 +43,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Beyond the UN Blue: Navigating Your Career Transition to Other IGOs (OSCE, AIIB)
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/visibility|Visibility]], [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Friday, 8 May 2026, 10:30 to 11:30 CEST  
 **Hosted by** · OSCE and AIIB  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25720)

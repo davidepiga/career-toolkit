@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Career Gap to Sprint Workflow
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A two-prompt AI workflow that produces a structured fit-and-gap analysis from your CV and a vacancy, then converts the gaps into a 30-day calendar-blocked development sprint.
 
 Introduced by Rolf Reinhardt (LinkedIn) at the [[sessions/cw-day-3-session-3|AI for Your Career, Practical Tools and Prompts]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Rolf demonstrated both prompts live during the session. The two-prompt design and the ICS export trick are his.

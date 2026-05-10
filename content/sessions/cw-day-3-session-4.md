@@ -37,10 +37,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Breaking Down Job Descriptions
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/choice|Choice]]*
-
 **Date** · Wednesday, 6 May 2026, 13:30 CEST  
 **Hosted by** · OPCW  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25742)

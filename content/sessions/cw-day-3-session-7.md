@@ -44,10 +44,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Career Development: How you can turn a Psychosocial Hazard into a Thriving Strategy
-
-*Primary: [[dimensions/mindset|Mindset]] · Also touches: [[dimensions/direction|Direction]]*
-
 **Date** · Wednesday, 6 May 2026, 19:00 CEST  
 **Hosted by** · UNESCO and United Nations Headquarters (DOS)  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25747)

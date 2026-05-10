@@ -45,10 +45,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# AI for Your Career: Practical Tools and Prompts for Career Management
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/capability|Capability]]*
-
 **Date** · Wednesday, 6 May 2026, 12:00 to 13:00 CEST  
 **Hosted by** · UNV and UNICEF  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25740)

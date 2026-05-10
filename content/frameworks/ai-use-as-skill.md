@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# AI Use as a Skill
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 Four signals panels increasingly look for in AI-assisted work: intentional use, judgment, transparency, appropriateness. The differentiator is no longer whether you used AI, it is how.
 
 Introduced by Matt Valente (Digital Talent Acquisition and Talent Management Lead, UNICC) at the [[sessions/cw-day-5-session-4|The Skills Shift]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. Matt anchored the framework in the concrete shift to AI-sandboxed assessments at UNICC, and connected it to the National Bureau of Economic Research finding that job seekers who used AI well were hired 18% more often than those who did not.

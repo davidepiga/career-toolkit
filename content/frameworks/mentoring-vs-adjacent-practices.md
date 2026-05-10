@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Mentoring vs Adjacent Practices
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A clarifier for what mentoring is and is not, by contrast with three close cousins: coaching, counselling, and consulting. Plus the three internal sub-types of mentoring.
 
 Introduced by Silvia Märkli García (UN Women) at the [[sessions/cw-day-3-session-8|Skill Development through Mentoring]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Silvia opened the session with a clear comparison of the four practices, then anchored the rest of the content in what is specific to mentoring versus the adjacent practices. Extended at the [[sessions/cw-day-5-session-6|Mentoring 2.0, From Top-Down to All-Around]] session by Fedor Anisimov (UN Secretariat) and Paola Pinto (UN Global Service Centre), who introduced the three internal sub-types (traditional, reverse, on-the-job), on 8 May 2026.

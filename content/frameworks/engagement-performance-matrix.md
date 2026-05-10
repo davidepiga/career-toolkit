@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Engagement-Performance Matrix
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A 2x2 self-diagnostic that places each of your major projects or responsibilities on two axes, performance and engagement, producing four quadrants. Used to ground a career conversation in concrete examples instead of a general sense of dissatisfaction.
 
 Introduced by Margaret Jones (Learning Officer, UNESCO) at the [[sessions/cw-day-3-session-7|Career Development as a Psychosocial Hazard]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, as the diagnostic she recommends to staff before they walk into a career conversation. Margaret repeatedly returned to the matrix in the Q&A as her go-to recommendation when participants asked how to assess their current status during budget cuts and downsizing.

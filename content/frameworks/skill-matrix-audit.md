@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Skill Matrix Audit
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 A six-column matrix for auditing your skills against your target career path. The operational artefact for the Inventory dimension of the 5i Framework.
 
 Introduced by Erin Bowser (IOM) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Erin presented the matrix as the operational artefact for the Inventory dimension of the [[5i-framework|5i Framework]]. The worksheet itself is published as the Career Tips Thursday Session 46 worksheet.

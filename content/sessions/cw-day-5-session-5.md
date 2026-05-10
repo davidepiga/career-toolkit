@@ -39,10 +39,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Activating Inner Resources in Uncertain Times (OSCE, UNDP)
-
-*Primary: [[dimensions/mindset|Mindset]]*
-
 **Date** · Friday, 8 May 2026, 15:00 to 16:00 CEST  
 **Hosted by** · OSCE and UNDP  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25727)

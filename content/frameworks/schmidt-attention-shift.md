@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Schmidt's Attention Shift
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A four-question reflection that turns past difficulty into a present asset. Acknowledge the distress first, then deliberately direct attention to what you used to survive it. The skills you already developed under pressure are an asset you can name.
 
 Introduced by Susanne Baberg (Senior Psychologist, OSCE Occupational Safety and Health Unit) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026. The booster-effect framing is from Gunther Schmidt's hypnosystemic therapy. Susanne adapted it into a four-question reflection for self-help use, paired with the Kintsugi metaphor as the self-compassion frame.

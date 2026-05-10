@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Skills-in-Use CV Pattern
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A writing pattern for CV bullets, cover-letter sentences, and interview answers. Name the skill, the action it enabled, and the context it produced impact in.
 
 Introduced by Rathan Kinhal (EY Switzerland) at the [[sessions/cw-day-3-session-2|Upskilling for the Future]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Reinforced and extended in the [[sessions/cw-day-5-session-4|The Skills Shift]] session by Olga Lehtinen (UNICC), who tied the pattern directly to how AI screening configurations are now reading CVs. The pattern overlaps with the well-established CAR (Context, Action, Result) and STAR families of competency-statement structures, applied here to written application bullets.

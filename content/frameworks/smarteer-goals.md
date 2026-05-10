@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# SMARTEER Goals
-
-*Dimension: [[direction|Direction]] · Type: Stage*
-
 SMART goals plus three additions that make them human enough to follow through on: Enjoyable, Evaluate, Reward.
 
 Introduced by Shihui Xu (UNDP) at the [[sessions/cw-day-4-session-8|Make Career Moves with the 5i Framework]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Shihui presented SMARTEER as the second dimension (Intentional) of the [[5i-framework|5i Framework]], with the explicit argument that SMART goals fail because they are not human enough.

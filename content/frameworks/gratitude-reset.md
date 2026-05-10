@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Gratitude Reset
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A daily 30-second pause, three or four times a day, to name what you are grateful for. Done consistently, it shifts attentional bias from what is wrong to what is possible. The smallest possible career-development habit, with the largest underlying neuroscience.
 
 Introduced by Sara Canna (Team Lead, Talent Acquisition and Management Unit, WHO Academy) at the [[sessions/cw-day-4-session-1|Habits under Pressure]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Sara opened the session with a live gratitude exercise and presented the neuroscience underneath it. The practice itself is well-established in positive psychology; Sara's contribution was the framing and the integration with the broader habits-under-pressure thesis.

@@ -36,10 +36,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Working for Justice (ICC)
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/direction|Direction]]*
-
 **Date** · Friday, 8 May 2026, 19:00 CEST  
 **Hosted by** · ICC  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25731)

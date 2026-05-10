@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# AI Roleplay for Skill Practice
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A practice routine that uses AI personas to rehearse high-stakes conversations (interviews, stakeholder pushbacks, performance discussions) before they happen for real. Builds confidence through repetition in private, with immediate structured feedback.
 
 Introduced by Tom Frohner (LinkedIn) at the [[sessions/cw-day-3-session-3|AI for Your Career, Practical Tools and Prompts]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Extended in the [[sessions/cw-day-5-session-3|Mastering Job Interviews]] session on 8 May 2026 by Tamara Roura (OCHA), who added a five-prompt interview-prep toolkit suitable for any general-purpose LLM.

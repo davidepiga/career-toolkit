@@ -47,10 +47,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Inside the Recruiter’s Mind: How Hiring Really Works in the UN and Beyond
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/presence|Presence]]*
-
 **Date** · Monday, 4 May 2026, 10:30 to 11:30 CEST  
 **Hosted by** · ITU and UNHCR  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25711)

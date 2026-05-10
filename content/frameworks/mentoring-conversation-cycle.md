@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Seven-Step Mentoring Conversation Cycle
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A structured sequence for running a single mentoring conversation: establish trust, align expectations, listen actively, foster self-reflection, share with permission, define actions, evaluate learning. Active listening and confidentiality run through all seven, not as stages but as constants.
 
 Introduced jointly by Silvia Märkli García (UN Women) and Virginie Ferré Sanchez-Macagno (UNOG) at the [[sessions/cw-day-3-session-8|Skill Development through Mentoring]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Silvia presented the seven-step cycle conceptually; Virginie demonstrated it in a live 15-minute role-play with Silvia in the mentee role. Extended at the [[sessions/cw-day-5-session-6|Mentoring 2.0, From Top-Down to All-Around]] session by Fedor Anisimov (UN Secretariat) and Paola Pinto (UN Global Service Centre), who specified which steps need extra weight in each mentoring sub-type, on 8 May 2026.

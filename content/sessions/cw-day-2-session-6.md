@@ -27,10 +27,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# From Sat Nav to Compass: Navigating Your Career in a Changing UN System
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/mindset|Mindset]]*
-
 **Date** · Tuesday, 5 May 2026, 16:30 to 17:30 CEST  
 **Hosted by** · UNIDO  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25728)

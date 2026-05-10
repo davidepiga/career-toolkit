@@ -42,10 +42,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Mastering Job Interviews: Turning Your Experience into a Lever for Success
-
-*Primary: [[dimensions/pursuit|Pursuit]] · Also touches: [[dimensions/presence|Presence]]*
-
 **Date** · Friday, 8 May 2026, 12:00 to 13:00 CEST  
 **Hosted by** · OCHA and IOM  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25723)

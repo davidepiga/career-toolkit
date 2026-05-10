@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Progressive Muscle Relaxation
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A tense-and-release sequence through the major muscle groups: hands, shoulders and neck, face and jaw, legs and feet. Five seconds of contraction, then release. Reduces the muscular hypervigilance that uncertainty produces.
 
 Introduced by Susanne Baberg (Senior Psychologist, OSCE Occupational Safety and Health Unit) at the [[sessions/cw-day-5-session-5|Activating Inner Resources in Uncertain Times]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, as the active-tension companion to the body scan and as a specific response to the muscular hypervigilance that uncertainty produces. The underlying technique is Edmund Jacobson's Progressive Relaxation (1929), one of the most empirically supported relaxation techniques in clinical psychology.

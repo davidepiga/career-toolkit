@@ -28,10 +28,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Hand Model of the Brain
-
-*Dimension: [[mindset|Mindset]] · Type: Foundation*
-
 A physical mental model for understanding what happens when strong emotion takes over: hold up your hand, fold the thumb in, fold the fingers over. Palm is primitive brain, thumb is limbic, fingers are cortex. When the lid flips, you react from emotion alone.
 
 Introduced by Rengin Isik Akin (Staff Counsellor, UNFCCC) at the [[sessions/cw-day-4-session-3|Leading from Within]] session of the UN Inter-Agency Career Week 2026, on 7 May 2026. Rengin presented the model live, asking participants to make the hand shape themselves, then introduced the "flipping the lid" concept with the worked example of high-pressure career moments. The Hand Model is original to Dan Siegel, a clinical professor of psychiatry at UCLA and a founder of the field of interpersonal neurobiology.

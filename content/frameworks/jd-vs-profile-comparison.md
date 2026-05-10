@@ -29,10 +29,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# JD vs Profile Comparison
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A two-column working document that maps the job's requirements and duties to your own profile, so the application you write reflects what the JD actually asks for and where your transferable experience answers it. The point is to force articulation, not to produce a final document.
 
 Introduced first by Milan Jelenkovic (OPCW) at the [[sessions/cw-day-3-session-4|Breaking Down Job Descriptions]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026, as the two-sub-table version (Person Specification + Duties and Working Relationships). The lighter T Exercise version was introduced by Sandra Le Gray (UNV HQ, Volunteer Solutions Section) at the [[sessions/cw-day-4-session-2|Becoming a UN Volunteer]] session, as the pre-application fit check she recommends to UNV candidates. The two are the same framework at different depth levels.

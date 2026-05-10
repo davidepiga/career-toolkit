@@ -31,10 +31,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Skills-First Approach
-
-*Dimension: [[capability|Capability]] · Type: Foundation*
-
 A career strategy that organises around named skills rather than job titles, and prioritises the skills the labour market is actively rewarding right now.
 
 Introduced by Mirek Pospisil (LinkedIn), Rathan Kinhal (EY Switzerland), and Naria K. Santa Lucia (Microsoft Elevate) at the [[sessions/cw-day-3-session-2|Upskilling for the Future]] session of the UN Inter-Agency Career Week 2026, on 6 May 2026. Extended in the [[sessions/cw-day-5-session-4|The Skills Shift]] session by Olga Lehtinen and Matt Valente (UNICC). The argument behind it cites LinkedIn Economic Graph research and the broader skills-based hiring literature.

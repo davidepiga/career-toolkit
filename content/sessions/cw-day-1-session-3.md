@@ -49,10 +49,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Talent on the Move: Growing your career through mobility
-
-*Primary: [[dimensions/direction|Direction]] · Also touches: [[dimensions/visibility|Visibility]], [[dimensions/pursuit|Pursuit]]*
-
 **Date** · Monday, 4 May 2026, 12:00 to 13:00 CEST  
 **Hosted by** · ILO and UNCTAD  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25712)

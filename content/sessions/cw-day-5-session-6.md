@@ -37,10 +37,6 @@ status: published
 last_updated: 2026-05-10
 ---
 
-# Mentoring 2.0: From Top-Down to All-Around
-
-*Primary: [[dimensions/capability|Capability]] · Also touches: [[dimensions/mindset|Mindset]]*
-
 **Date** · Friday, 8 May 2026, 16:30 CEST  
 **Hosted by** · UNLB and UN Secretariat  
 **Session page** · [UNOG learning](https://learning.unog.ch/node/25729)

@@ -30,10 +30,6 @@ status: published
 last_updated: 2026-05-09
 ---
 
-# Why This, Why Now, Why You
-
-*Dimension: [[pursuit|Pursuit]] · Type: Stage*
-
 A three-question test for any motivation letter or cover letter. Hiring managers read the motivation letter before the CV. The letter has to answer three things in the first read: why this organisation, why now, why you. If the answer to any of the three is missing or generic, the letter does not survive.
 
 Introduced by Mariam Kakkar (Director of Human Resources, OSCE) at the [[sessions/cw-day-5-session-2|Beyond the UN Blue, Transition to Other IGOs]] session of the UN Inter-Agency Career Week 2026, on 8 May 2026, as the test she actually applies as a hiring manager when reading motivation letters at the OSCE. Reinforced and applied to the spoken motivation pitch at the [[sessions/cw-day-5-session-3|Mastering Job Interviews]] session by Florette Niyongere (IOM), Aicha Abdoulhanzis (OCHA), and Tamara Roura (OCHA).
