@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
       "About": "/about",
       "Event coverage analysis": "/agenda-coverage-audit",
       "LinkedIn": "https://www.linkedin.com/in/davidepiga",
-      "Contact": "mailto:piga.davide@gmail.com",
     },
   }),
 }
