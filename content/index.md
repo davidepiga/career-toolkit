@@ -43,3 +43,5 @@ If you are navigating a career in this sector, [this form](https://docs.google.c
 - **A note when the tool opens publicly**, with no further commitment.
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=header">Sign up</a>
+
+Learn more in the [About](About) page.
