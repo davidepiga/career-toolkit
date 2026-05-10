@@ -44,4 +44,4 @@ If you are navigating a career in this sector, [this form](https://docs.google.c
 
 <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdYqtBuNB8uEAe1ri41Br2ADfEGvGcGI3zEg8gG40eqJAL6SA/viewform?usp=header">Sign up</a>
 
-Learn more in the [About](About) page.
+Learn more in the [About](about) page.
