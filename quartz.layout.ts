@@ -39,11 +39,33 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.HomeLink(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const filePriority: Record<string, number> = {
+          "about": 0,
+          "career navigation model": 1,
+          "event coverage analysis": 2,
+        }
+        const folderPriority: Record<string, number> = {
+          "dimensions": 0,
+          "frameworks": 1,
+        }
+        if (!a.isFolder && b.isFolder) return -1
+        if (a.isFolder && !b.isFolder) return 1
+        if (a.isFolder && b.isFolder) {
+          const ai = folderPriority[a.displayName.toLowerCase()] ?? 99
+          const bi = folderPriority[b.displayName.toLowerCase()] ?? 99
+          return ai !== bi ? ai - bi : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        const ai = filePriority[a.displayName.toLowerCase()] ?? 99
+        const bi = filePriority[b.displayName.toLowerCase()] ?? 99
+        return ai !== bi ? ai - bi : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
+    Component.DesktopOnly(Component.Graph()),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -63,7 +85,31 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.HomeLink(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const filePriority: Record<string, number> = {
+          "about": 0,
+          "career navigation model": 1,
+          "event coverage analysis": 2,
+        }
+        const folderPriority: Record<string, number> = {
+          "dimensions": 0,
+          "frameworks": 1,
+        }
+        if (!a.isFolder && b.isFolder) return -1
+        if (a.isFolder && !b.isFolder) return 1
+        if (a.isFolder && b.isFolder) {
+          const ai = folderPriority[a.displayName.toLowerCase()] ?? 99
+          const bi = folderPriority[b.displayName.toLowerCase()] ?? 99
+          return ai !== bi ? ai - bi : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        const ai = filePriority[a.displayName.toLowerCase()] ?? 99
+        const bi = filePriority[b.displayName.toLowerCase()] ?? 99
+        return ai !== bi ? ai - bi : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
+    Component.DesktopOnly(Component.Graph()),
   ],
   right: [],
 }
